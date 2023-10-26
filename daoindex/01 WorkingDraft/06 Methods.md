@@ -1,16 +1,16 @@
-- Questionnaire
-      1. How to conduct an assessment
-   2. Data analysis
-      1. Assess 10 “DAOs”
-   3. Instrument analysis (feels like a need to review survey design research here)
-      1. Validity checks
-      2. Reliability checks
-         1. Inter-rater reliability
-      3. Question independence (internal consistency?)
-      4. Factor analysis?
-   4. Etc.
 
 ## Data Collection 
 
-
+- Purposeful Sampling Strategy
+	- Why the 10 DAOs
+	- Generalizability 
+- How we conducted the assessment 
 ## Data Analysis
+
+- Assessment Results Analysis
+- Instrument Validity Checks
+	- Validity checks
+		- External: question independence
+	- Reliability checks
+		- Internal check: Inter-rater reliability
+ 

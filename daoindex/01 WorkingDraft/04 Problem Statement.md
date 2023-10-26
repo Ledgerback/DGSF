@@ -1,6 +1,6 @@
 ---
 date created: 2023-10-26 17:34
-date updated: 2023-10-26 17:54
+date updated: 2023-10-26 18:09
 ---
 
 ## Empirical Challenge(s)
@@ -47,12 +47,8 @@ date updated: 2023-10-26 17:54
 8. Organizing needs beyond cryptoeconomics?
    1. [Cryptoeconomics as a Limitation on Governance — Nathan Schneider](https://ntnsndr.mirror.xyz/zO27EOn9P_62jVlautpZD5hHB7ycf3Cfc2N6byz6DOk)
    2. [On Nathan Schneider on the limits of cryptoeconomics](https://vitalik.ca/general/2021/09/26/limits.html)
-9. Issues with token-based voting
-   1. [Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
-10. Limitations of relying solely on quantitative measures?
-    1. [Quantifying Blockchain Network Centralization — Ketsal](https://www.ketsal.com/blog/quantifying-blockchain-network-centralization/)
-11. Any need to mention DAO governance failure incidents?
-    1. [Turing-Complete Governance](https://cip.org/research/turing-complete-governance)
-12. _Possibly lack of coherence on converting to a DAO_? (Any different from progressive decentralization?)
+9. Any need to mention DAO governance failure incidents?
+   1. [Turing-Complete Governance](https://cip.org/research/turing-complete-governance)
+10. _Possibly lack of coherence on converting to a DAO_? (Any different from progressive decentralization?)
     1. [Cooperative Conversions: Bulletin I: Choice of Entity](https://content.govdelivery.com/accounts/USDARD/bulletins/30ff250)
     2. [EXIT TO COMMUNITY: STRATEGIES FOR MULTI-STAKEHOLDER OWNERSHIP IN THE PLATFORM ECONOMY](https://georgetownlawtechreview.org/wp-content/uploads/2021/05/Mannan-Schneider-Exit-to-Community-5-GEO.-L.-TECH.-REV.-1-2021.pdf)

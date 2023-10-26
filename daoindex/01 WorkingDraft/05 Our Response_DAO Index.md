@@ -21,6 +21,7 @@ date created: 2023-10-26 18:01
 		1. [CDP Small and Medium Enterprises 2023 Questionnaire and Reporting Guidance](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/490/original/SME-questionnaire-and-reporting-guidance.pdf?1680797731)
 		2. <https://github.com/stanford-crfm/fmti/blob/main/fmti_indicators.pdf>
 		3. Make sure to include references and notes for questions, in addition to rationale.
+		4. Question independence
 4. Goals
 	1. Further organizational and governance experimentation via digital tools towards community form
 	2. Enable experiments in digital self-governance
@@ -35,3 +36,9 @@ date created: 2023-10-26 18:01
 	1. Ability to incorporate other standards (e.g., DAOstar) and qualitative and quantitative measures
 	2. Can be adapted by end-users to fit their particular context by adding, modifying, or removing principles, and applying weights to principles.
 	3. Set of standard response options to improve comparability
+
+## Developing the DAO Index
+
+- Question Independence 
+	- principles 
+	- indicators  
