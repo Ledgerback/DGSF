@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,19 +180,30 @@
   },
   "active": "05a60cab7a9ac7fa",
   "lastOpenFiles": [
-    "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
-    "daoindex/01 WorkingDraft/06 Methods.md",
-    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
-    "daoindex/01 WorkingDraft/07 Findings.md",
+    "Data Analysis/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb",
+    "Data Analysis",
+    "untitled folder",
+    "Questionnaire/Questionnaire-V0.9-2023_08_16-Questionnaire Version 0.9.csv",
+    "Questionnaire",
+    "Assessment Files/dao_index_assessments-6DAOs-V09-2023-09-25.csv",
+    "Assessment Files/dao_index-scores-version_09-2023-10-16.json",
+    "Assessment Files/dao_index-questionnaire-version_09-2023-10-13.json",
+    "Assessment Files/DAO_Index-V09-Assessments-6DAOs-2023_09_13.csv",
+    "Assessment Files",
+    "Assessment Results/DAO_Index-V09-Assessments-6DAOs-2023_09_13.csv",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+    "daoindex/01 WorkingDraft/06 Methods.md",
+    "README.md",
+    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+    "daoindex/01 WorkingDraft/07 Findings.md",
     "daoindex/01 WorkingDraft/02 Contextual Background.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Problem Statement.md",
     "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/01 WorkingDraft/10 Appendix.md",
     "daoindex/00Porject Inbox/02 Next Steps/Example Whitepapers.md",
-    "daoindex/01 WorkingDraft/01 Introduction.md",
-    "README.md"
+    "daoindex/01 WorkingDraft/01 Introduction.md"
   ]
 }
