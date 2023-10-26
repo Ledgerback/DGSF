@@ -1,0 +1,1 @@
+- Clearly define key terms in the beginning

@@ -1,4 +1,5 @@
-What is a DAO? 
+## What is a DAO? 
+
 1. What is an decentralized organization?
     1. Possible historical analogies?
     2. [Pioneers, Knights, and Guilds: History of the Cooperative Movement](https://econreview.berkeley.edu/pioneers-knights-and-guilds-history-of-the-cooperative-movement/)
@@ -16,4 +17,8 @@ What is a DAO?
         5. [Dao Design Patterns](https://kelsienabben.substack.com/p/dao-design-patterns)
         6. [Exploring DAOs as a New Kind of Institution | by Joshua Tan | Commons Stack | Medium](https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4)
 4. Organizations
-    
+
+## Existing Frameworks 
+
+
+## Gaps and Challenges
