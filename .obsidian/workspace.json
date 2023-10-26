@@ -1,18 +1,42 @@
 {
   "main": {
-    "id": "0053207a93fbddcf",
+    "id": "f478b8aa05cd9f82",
     "type": "split",
     "children": [
       {
-        "id": "52f7762539cb3608",
+        "id": "aeb5f174cfc4b43d",
         "type": "tabs",
         "children": [
           {
-            "id": "60eeed80f8a237b0",
+            "id": "05a60cab7a9ac7fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "90753894da8b50cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ad90f2ad372283",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daoindex/01 WorkingDraft/01 Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a0bfc009c7074546",
+    "id": "08f1467550a4b244",
     "type": "split",
     "children": [
       {
-        "id": "81402e314d40ffbd",
+        "id": "ec3397e9b861516a",
         "type": "tabs",
         "children": [
           {
-            "id": "e814f048ac8c1811",
+            "id": "e77936c2d06e1af9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +63,7 @@
             }
           },
           {
-            "id": "2a211179b68848c3",
+            "id": "c3e4d9f3dd4a8a12",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +78,7 @@
             }
           },
           {
-            "id": "7e93db966d7f9198",
+            "id": "a77df153bc90ea66",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +92,20 @@
     "width": 300
   },
   "right": {
-    "id": "06dda58bf4a47d73",
+    "id": "064a6cc84c6f12a0",
     "type": "split",
     "children": [
       {
-        "id": "883d01afa4c0d037",
+        "id": "cf4f4b08a98494d2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2de477c5d44d8c",
+            "id": "06ccd80d35220ba0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +117,19 @@
             }
           },
           {
-            "id": "724c75cee2e013e1",
+            "id": "bd435fbca13b855a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b13c88152ac3313e",
+            "id": "15014249e4d49058",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +140,13 @@
             }
           },
           {
-            "id": "491f31836bfed030",
+            "id": "8a422aae9d9806ed",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md"
+              }
             }
           }
         ]
@@ -138,6 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60eeed80f8a237b0",
-  "lastOpenFiles": []
+  "active": "05a60cab7a9ac7fa",
+  "lastOpenFiles": [
+    "daoindex/01 WorkingDraft/01 Introduction.md",
+    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+    "README.md"
+  ]
 }
