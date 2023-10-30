@@ -32,37 +32,17 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "da102f7094fa187b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a82ae5194be3d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "e5b4b930e93f33f6",
+            "id": "54202075b5420464",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "daoindex/01 WorkingDraft"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,15 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f7fe34c5cec5a3",
+  "active": "54202075b5420464",
   "lastOpenFiles": [
+    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "daoindex/01 WorkingDraft/01 WorkingDraft.md",
     "README.md",
     "Spaces",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
-    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "Data Analysis/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb",
     "Data Analysis",
     "untitled folder",
