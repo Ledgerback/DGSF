@@ -45,13 +45,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5b4b930e93f33f6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "daoindex/01 WorkingDraft"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +107,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "37f7fe34c5cec5a3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,10 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a82ae5194be3d99",
+  "active": "37f7fe34c5cec5a3",
   "lastOpenFiles": [
-    "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+    "daoindex/01 WorkingDraft/01 WorkingDraft.md",
+    "README.md",
+    "Spaces",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
+    "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "Data Analysis/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb",
@@ -193,10 +212,8 @@
     "Assessment Files/dao_index-scores-version_09-2023-10-16.json",
     "Assessment Files/dao_index-questionnaire-version_09-2023-10-13.json",
     "Assessment Files/DAO_Index-V09-Assessments-6DAOs-2023_09_13.csv",
-    "Assessment Files",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
     "daoindex/01 WorkingDraft/06 Methods.md",
-    "README.md",
     "daoindex/01 WorkingDraft/07 Findings.md",
     "daoindex/01 WorkingDraft/02 Contextual Background.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
