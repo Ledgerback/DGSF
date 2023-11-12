@@ -16,7 +16,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "daoindex/01 WorkingDraft",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -43,16 +43,17 @@
   "cachedSpaces": [
     "spaces://$tags",
     "/",
+    "Spaces",
+    "Spaces/Home",
     "daoindex",
     "daoindex/00Porject Inbox",
     "daoindex/00Porject Inbox/00 Outlines",
     "daoindex/00Porject Inbox/01 Section Notes",
     "daoindex/00Porject Inbox/02 Next Steps",
     "daoindex/01 WorkingDraft",
-    "Data Analysis",
-    "Questionnaire",
     "Assessment Files",
-    "Spaces"
+    "Data Analysis",
+    "Questionnaire"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -73,9 +74,14 @@
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "waypoints": [
+    "Spaces/Home",
+    "/",
+    "spaces://$tags",
     "daoindex/01 WorkingDraft"
   ],
-  "rootSpaces": [],
+  "rootSpaces": [
+    "Spaces/Home"
+  ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
@@ -90,6 +96,6 @@
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "autoMigration08": false,
+  "autoMigration08": true,
   "releaseNotesPrompt": 0.804
 }

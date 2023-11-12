@@ -32,17 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "54202075b5420464",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "064a6cc84c6f12a0",
@@ -117,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md"
+              }
             }
           }
         ]
@@ -174,15 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54202075b5420464",
+  "active": "05a60cab7a9ac7fa",
   "lastOpenFiles": [
+    "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Home",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "daoindex/01 WorkingDraft/01 WorkingDraft.md",
     "README.md",
     "Spaces",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
-    "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "Data Analysis/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb",
     "Data Analysis",
     "untitled folder",
@@ -191,7 +189,6 @@
     "Assessment Files/dao_index_assessments-6DAOs-V09-2023-09-25.csv",
     "Assessment Files/dao_index-scores-version_09-2023-10-16.json",
     "Assessment Files/dao_index-questionnaire-version_09-2023-10-13.json",
-    "Assessment Files/DAO_Index-V09-Assessments-6DAOs-2023_09_13.csv",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
     "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/01 WorkingDraft/07 Findings.md",
