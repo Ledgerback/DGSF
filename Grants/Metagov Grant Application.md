@@ -132,3 +132,5 @@ In alignment with Metagov's principles of open-access knowledge and participator
 ## Additional Materials
 
 For a comprehensive overview, please refer to our slide deck ([link to Google Slides](https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=drive_link)).
+
+## References
