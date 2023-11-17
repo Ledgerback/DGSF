@@ -113,7 +113,7 @@ In essence, the DAO Index, within the Distributed Governance Score Framework, is
 <!-- Provide a detailed budget breakdown here -->
 
 funding amount and duration for:
-- transcription service?
+- transcription service (otter ai, open ai api)?
 - Airtable pro subscription?
 - worker compensation?
 - premium api access
