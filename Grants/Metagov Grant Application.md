@@ -118,6 +118,7 @@ In essence, the DAO Index, within the Distributed Governance Score Framework, is
 - premium api access
 	- boardroom
 	- deepdao
+- obsidian subscription for shared workspace?
 
 ## Conclusion
 
