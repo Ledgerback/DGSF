@@ -1,4 +1,5 @@
 {
+  "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
   "filePreviewOnHover": false,
   "flowMenuEnabled": true,
@@ -13,6 +14,7 @@
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
+  "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
@@ -36,25 +38,9 @@
     "/",
     "//Spaces",
     "//Spaces",
-    "//daoindex",
-    "//daoindex/daoindex/01 WorkingDraft"
+    "//daoindex"
   ],
   "expandFolderOnClick": true,
-  "cachedSpaces": [
-    "spaces://$tags",
-    "/",
-    "Spaces",
-    "Spaces/Home",
-    "daoindex",
-    "daoindex/00Porject Inbox",
-    "daoindex/00Porject Inbox/00 Outlines",
-    "daoindex/00Porject Inbox/01 Section Notes",
-    "daoindex/00Porject Inbox/02 Next Steps",
-    "daoindex/01 WorkingDraft",
-    "Assessment Files",
-    "Data Analysis",
-    "Questionnaire"
-  ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
@@ -62,7 +48,6 @@
   "folderFrameFile": "frames",
   "spacesFolder": "Spaces",
   "hiddenFiles": [],
-  "lineNumbers": false,
   "hiddenExtensions": [
     ".mdb"
   ],
@@ -97,5 +82,28 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
-  "releaseNotesPrompt": 0.804
+  "releaseNotesPrompt": 0.804,
+  "enableDefaultSpaces": true,
+  "enableTagSpaces": true,
+  "enableHomeSpace": true,
+  "showSpacePinIcon": true,
+  "minimalFix": false,
+  "experimental": false,
+  "cachedSpaces": [
+    "spaces://$tags",
+    "/",
+    "Assessment Files",
+    "Data Analysis",
+    "Questionnaire",
+    "Spaces",
+    "Spaces/Home",
+    "daoindex",
+    "daoindex/00Porject Inbox",
+    "daoindex/00Porject Inbox/00 Outlines",
+    "daoindex/00Porject Inbox/01 Section Notes",
+    "daoindex/00Porject Inbox/02 Next Steps",
+    "daoindex/01 WorkingDraft",
+    "Grants"
+  ],
+  "lineNumbers": false
 }

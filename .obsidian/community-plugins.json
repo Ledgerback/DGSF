@@ -1,4 +1,6 @@
 [
   "markdown-prettifier",
-  "make-md"
+  "make-md",
+  "obsidian-languagetool-plugin",
+  "zotlit"
 ]

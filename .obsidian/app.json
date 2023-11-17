@@ -1,3 +1,9 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Metagov",
+    "Metagov",
+    "Uniswap",
+    "v and G"
+  ]
 }
