@@ -2,7 +2,7 @@
 
 ## Project Description
 
-At the heart of the Distributed Governance Score Framework (DGSF) lies our project, the DAO Index. DGSF is an open framework developed to redefine how organizations assess their alignment with Decentralized Autonomous Organizations (DAOs). Key features include:
+At the heart of the Distributed Governance Score Framework (DGSF) project lies our tool, the DAO Index. DGSF is an open framework developed to re-define how organizations assess their alignment with Decentralized Autonomous Organizations (DAOs). Key features include:
 
 - **Standardized Principles**: Offering a unified set of principles and language, DGSF enables clear measurement and reporting of an organization's alignment with DAO models.
 - **The DAO Index**: As a practical application of DGSF, the DAO Index operationalizes these principles into a user-friendly tool, bridging the gap between theoretical understanding and real-world implementation of decentralized governance.
@@ -16,9 +16,27 @@ As interest in DAOs continues to rise, a critical gap has become increasingly ap
 1. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
 2. **Lack of Comprehensive DAO Practices Repository**: The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
 3. **Conceptual Misunderstandings**: Across various sectors, including academia, industry, and society at large, there exists a significant gap in the fundamental understanding of what DAOs are and how they function. <!-- citation to be added -->This lack of understanding stifles informed discussion, research, and development in the field.
-4. **The Imaginary-Reality Gap**: There is a stark contrast between the idealized vision of what DAOs promise to be and what they are in practice. This gap between theory and reality — the "imaginary-reality gap" — leads to misconceptions about the capabilities and limitations of DAOs, affecting stakeholder expectations and trust.
+4. **The Imaginary-Reality Gap**: There is a stark contrast between the idealized vision of what DAOs promise to be and what they are in practice. This gap between theory and reality %%@charles: should this be "This gap between theory and practice" instead?%% — the "imaginary-reality gap" — leads to misconceptions about the capabilities and limitations of DAOs, affecting stakeholder expectations and trust.
 
 Addressing these challenges is vital for the advancement and sustainability of DAOs. By acknowledging and tackling these issues, we aim to contribute to the maturation and legitimization of the DAOs.
+
+## Research Questions %%@charles: Keeping the section heading simple for now%%
+
+%%May not need a section here for research questions (RQs). May just need to say something like:
+
+> [the process of exploratory research of how a DAO-like structure can be used to govern a blockchain based scientific research publishing protocol.](https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-17)
+
+Just 1 - 2 sentences stating what we want to research.
+
+%%
+
+The primary research question we seek to answer is how can we develop a standard and measurement tool to rate and benchmark DAO design features and governance processes, given the themes and sociotechnical imaginaries associated with DAOs?
+
+Our secondary research questions include:
+
+1. How to define a DAO?;
+2. What are the sociotechnical imaginaries associated with DAOs?;
+3. What are appropriate themes and organizing principles to bound DAOs conceptually and practically?
 
 ## The DAO Index Solution: Benchmarking DAO Evaluation
 
@@ -35,7 +53,7 @@ In essence, the DAO Index is not just a tool for assessment; it's a comprehensiv
 
 Our project has produced several key outputs that contribute to understanding and evaluating DAOs through the DAO Index. These outputs include:
 
-1. **Preliminary Analysis of Uniswap**: Our insightful analysis of Uniswap using the DAO Index Questionnaire gained recognition in the prominent publication "This Week in Governance - Apr 21" by Kevin Nielsen of Boardroom. This mention underlines the relevance and applicability of our approach in real-world scenarios. [Read the mention here](https://governance.substack.com/p/this-week-in-governance-april-21). ==_(I couldn't find the mention on the linked webpage. Please verify the link for accuracy and consider adding a relevant quote to enhance this section.)_==
+1. **Preliminary Analysis of Uniswap**: Our insightful analysis of Uniswap using the DAO Index Questionnaire gained recognition in the prominent publication "This Week in Governance - Apr 21" by Kevin Nielsen of Boardroom. This mention underlines the relevance and applicability of our approach in real-world scenarios. [Read the mention here](https://governance.substack.com/p/this-week-in-governance-apr-21). 
 2. **DAO Index Dashboard**: A dynamic dashboard providing real-time ratings and assessments of various DAOs, serving as a valuable tool for instant insights into DAO performance. [Access the Dashboard](https://joan816.softr.app/).
 3. **DAO Index Scorecard Toolkit**: Developed on Airtable, this toolkit enables comprehensive assessments using the DAO Index Questionnaire, facilitating a standardized approach to evaluating DAOs. [Explore the Toolkit](https://airtable.com/appLWHWSN0Tf81C3V/shr7bQ5LcORabzm85).
 4. **Preliminary Data Analysis**: Our Jupyter Notebook offers an in-depth analysis of DAO Index data, showcasing our methodology and findings. [View the Analysis Notebook V0.1](https://github.com/Ledgerback/DGSF/blob/main/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb).
@@ -110,16 +128,34 @@ The DAO Index, as a key component of the Distributed Governance Score Framework 
 In essence, the DAO Index, within the Distributed Governance Score Framework, is not just a tool for assessment but a visionary approach to shaping the future of DAO governance. This initiative closely aligns with Metagov's vision, paving the way for a future where governance is more accessible, transparent, and efficiently augmented by AI.
 
 ## Budget and Funding Request
+%%@charles: This section may be unnecessary. I do not consistently see it in projects submitted to the Grant Round.
+
+Refer to:
+
+1. [Scoping and Feasibility Research For Decentralizing Governance in Scientific Publishing](https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-17)
+2. [Mechanism Institute](https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-2)
+%%
+
 <!-- Provide a detailed budget breakdown here -->
 
 funding amount and duration for:
 - transcription service (otter ai, open ai api)?
-- Airtable pro subscription?
+- Airtable pro subscription? %%@charles: I have NocoDB (open-source version of Airtable) so this may be unnecessary. But, we can seek funding to help pay for cloud services.%%
 - worker compensation?
 - premium api access
 	- boardroom
 	- deepdao
 - obsidian subscription for shared workspace?
+
+We are seeking to raise $20,000.00 to cover the following activities for the next 6 - 12 months:
+
+1. DAO Index R&D: 40%
+2. Software Development: 20%
+3. User Feedback: 10%
+4. Volunteer Training and Recruitment: 20%
+5. Drafting and Disseminating Publications and Educational Resources: 10%
+
+## %%@charles: Should we include a team section?%%
 
 ## Conclusion
 
@@ -134,5 +170,6 @@ In alignment with Metagov's principles of open-access knowledge and participator
 ## Additional Materials
 
 For a comprehensive overview, please refer to our slide deck ([link to Google Slides](https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=drive_link)).
+
 
 ## References

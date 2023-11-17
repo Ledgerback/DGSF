@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "064a6cc84c6f12a0",
@@ -184,6 +183,8 @@
   },
   "active": "b4c9f2d4a3ccb790",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "Grants/Metagov Grant Application.md",
     "daoindex/10 Applications.md",
@@ -191,10 +192,8 @@
     "daoindex/New Note.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "Spaces/Home/Home.md",
-    "Spaces/Home",
     "daoindex/01 WorkingDraft/01 WorkingDraft.md",
     "README.md",
-    "Spaces",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "Data Analysis/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb",
