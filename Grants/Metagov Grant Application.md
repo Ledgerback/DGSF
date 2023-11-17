@@ -125,7 +125,7 @@ The DAO Index, a central component of the DGSF, represents a groundbreaking effo
 
 1. **Standardization of Governance Models**: By providing a structured framework for evaluating DAOs, the DAO Index seeks to establish standardized governance models within the realm of decentralized organizations. This standardization is key to fostering consistency, reliability, and comparability across the DAO landscape.
 2. **Enhancing Transparency**: A core objective of the DAO Index is to elevate the level of transparency in DAO operations. This transparency is crucial for building trust, facilitating informed decision-making, and enhancing the accountability of DAOs to their stakeholders.
-3. **Cultivating Shared Understanding**: The DAO Index is committed to promoting a shared understanding of DAO governance among diverse groups, including researchers, practitioners, investors, and the general public. By bridging knowledge gaps, the Index contributes to a more informed and engaged DAO community.
+3. **Cultivating Shared Understanding**: The DAO Index is committed to promoting a shared understanding of DAO governance among diverse groups, including researchers, practitioners, investors, and the public. By bridging knowledge gaps, the Index contributes to a more informed and engaged DAO community.
 
 In alignment with Metagov's principles of open-access knowledge and participatory research, the DAO Index positions itself as an indispensable tool in shaping the future of digital self-governance. Through our efforts, we envision a digital governance landscape that is more democratic, transparent, and effective, reflecting the collective aspirations and wisdom of the global DAO community.
 
