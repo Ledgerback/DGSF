@@ -159,8 +159,6 @@ We are seeking to raise $20,000.00 to cover the following activities for the nex
 4. Volunteer Training and Recruitment: 20%
 5. Research Publications and Educational Resources: 10%
 
-## %%@charles: Should we include a team section?%%
-
 
 ## Conclusion
 
