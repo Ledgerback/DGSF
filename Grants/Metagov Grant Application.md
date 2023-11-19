@@ -67,8 +67,9 @@ Our project has produced several key outputs that contribute to understanding an
 1. **Preliminary Analysis of Uniswap**: a write-up on our draft assessment of Uniswap with the DAO Index Questionnaire, available at https://ledgerback.pubpub.org/pub/dxcy2zjr/release/1; 
 2. **DAO Index Dashboard**: DAO Index Dashboard: A dashboard providing ratings and assessments of various DAOs with the DAO Index questionnaire, available at https://joan816.softr.app/; 
 3. **DAO Index Scorecard Toolkit**: An Airtable base enabling comprehensive assessments of organizations with the DAO Index Questionnaire, available at https://airtable.com/appLWHWSN0Tf81C3V/shr7bQ5LcORabzm85;
-4. **Preliminary Data Analysis**: Our Jupyter Notebook offers an in-depth analysis of DAO Index data, showcasing our methodology and findings, available at https://github.com/Ledgerback/DGSF/blob/main/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb; and
-5. **Background Knowledge Quiz**: A quiz designed to enhance understanding of DAOs, facilitating better engagement with the DAO Index assessments, available at https://airtable.com/appD5ab5jcYsnDLeI/shrmBlxqbiGusPSYG.
+4. **Preliminary Data Analysis**: Our Jupyter Notebook offers an in-depth analysis of DAO Index data, showcasing our methodology and findings, available at https://github.com/Ledgerback/DGSF/blob/main/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb; 
+5. **Background Knowledge Quiz**: A quiz designed to enhance understanding of DAOs, facilitating better engagement with the DAO Index assessments, available at https://airtable.com/appD5ab5jcYsnDLeI/shrmBlxqbiGusPSYG; and
+6. **DAO Index User Guide**: A guide for using the DAO Index Questionnaire to assess an organization, available at https://medium.com/p/dao-index-user-guide-cf44f5998f40.
 
 _Note: All these outputs are part of an ongoing process of iteration and refinement, demonstrating our commitment to continuously improving the DAO Index._
 
