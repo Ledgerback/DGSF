@@ -1,4 +1,4 @@
-# DAO Index: Advancing Transparency and Governance in Decentralized Autonomous Organizations
+# DGSF: Advancing Transparency and Governance in Decentralized Autonomous Organizations
 
 ## Project Description
 
