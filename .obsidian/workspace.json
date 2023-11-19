@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,14 +184,14 @@
   },
   "active": "b4c9f2d4a3ccb790",
   "lastOpenFiles": [
+    "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "Grants/Metagov Grant Application.md",
     "Spaces/Home",
     "Spaces",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
-    "Grants/Metagov Grant Application.md",
     "daoindex/10 Applications.md",
     "Grants",
     "daoindex/New Note.md",
-    "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "Spaces/Home/Home.md",
     "daoindex/01 WorkingDraft/01 WorkingDraft.md",
     "README.md",
