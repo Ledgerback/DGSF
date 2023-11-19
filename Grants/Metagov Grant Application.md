@@ -46,6 +46,17 @@ Our secondary research questions include:
 
 To address these issues, we introduce the DAO Index, a set of organizing principles (eight as of Version 0.9), operationalized through a questionnaire, to revolutionize how organizational alignment with Decentralized Autonomous Organizations (DAOs) are evaluated and benchmarked.
 
+The current organizing principles are:
+
+1. Cross-border Coordination,
+2. Broad Stakeholder Participation,
+3. Practicing DAO Cooperativism,
+4. Cultural Patterns and Brand,
+5. Organizational Technology,
+6. Human-centered Algorithmic Governance,
+7. Information and Data Transparency, and
+8. DAO-2-DAO.
+
 Through the DAO Index, we create a score expressing an organization's alignment with the DAO conceptualization, culminated in an easy-to-understand score and rating label.
 
 ~~Our project introduces the DAO Index, an innovative and comprehensive framework designed to revolutionize how Decentralized Autonomous Organizations (DAOs) are evaluated and benchmarked. At the heart of this solution is a meticulously crafted set of organizing principles that form the basis for assessment and comparison. ~~
