@@ -4,49 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb5f174cfc4b43d",
+        "id": "d99ccc410299fbae",
         "type": "tabs",
         "children": [
           {
-            "id": "05a60cab7a9ac7fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e0ad90f2ad372283",
+            "id": "c242f6b3d8168f46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4c9f2d4a3ccb790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grants/Metagov Grant Application.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grants/Metagov Grant Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grants/Metagov Grant Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Grants/Metagov Grant Application.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -182,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4c9f2d4a3ccb790",
+  "active": "c242f6b3d8168f46",
   "lastOpenFiles": [
+    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "Grants/Metagov Grant Application.md",
     "Spaces/Home",
     "Spaces",
-    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
     "daoindex/10 Applications.md",
     "Grants",
     "daoindex/New Note.md",
