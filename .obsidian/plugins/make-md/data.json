@@ -38,7 +38,15 @@
     "/",
     "//Spaces",
     "//Spaces",
-    "//daoindex"
+    "//daoindex",
+    "//daoindex/daoindex/00Porject Inbox",
+    "//daoindex/daoindex/01 WorkingDraft",
+    "//Questionnaire",
+    "//daoindex",
+    "//daoindex/daoindex/00Porject Inbox/daoindex/00Porject Inbox/02 Next Steps",
+    "//daoindex/daoindex/00Porject Inbox/daoindex/00Porject Inbox/02 Next Steps",
+    "//Assessment Files",
+    "//daoindex/daoindex/00Porject Inbox/daoindex/00Porject Inbox/02 Next Steps"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

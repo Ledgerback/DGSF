@@ -1,0 +1,7 @@
+- What goals do organizational design of DAOs serve? → [[03 Theoretical Background#Organizational Design of DAOs]]
+	- What are Web 3 ethos?
+	- What about Web 3 tech? 
+- [[02 Contextual Background#What is a DAO?]]
+- [[08 Discussion#Assumptions and Limitations]]
+	- why use principles > definition 
+- update assessment response data on Airtable

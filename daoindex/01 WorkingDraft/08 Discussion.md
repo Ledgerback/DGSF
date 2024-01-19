@@ -59,6 +59,7 @@ date created: 2023-10-26 17:46
 
 ## Assumptions and Limitations
 
+- 
  3. DAO definition (or DAO conceptualization)
 	1. Is there a need for a definition (or can we simply focus on practices (or can we define daos based on their practices rather than imaginary or conceptualizations)?
 	   1. [The Open Source Definition](https://opensource.org/osd/)
