@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md"
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md"
               }
             }
           }
@@ -176,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c242f6b3d8168f46",
+  "active": "9220202850c24a40",
   "lastOpenFiles": [
-    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
     "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
     "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/01 WorkingDraft/02 Contextual Background.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
