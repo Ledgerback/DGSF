@@ -28,7 +28,7 @@ For DAOs, we assume that the organizational design (OD) goal is to:
 5. balance human-machine governance of organizations (or [balance on- and off-chain rules and logic for organizations](https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE)), and further the resilience of [NDOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959703)
 6. meta-narrative logic (values and principles), to ensure use of Web3 tech does not [re-invent issues with Big Tech and surveillance capitalism](https://p2pmodels.eu/wp-content/uploads/whitepaper_p2pmodels.pdf)
 
-%%@charles: What do you think about the second paragraph? More of the broader tech ecosystem goal, reflecting Web3's (from Ethereum's viewpoint) broader goal?%%
+%%@charles: What do you think about the second paragraph? More of the broader tech ecosystem goal, reflecting Web3's (from Ethereum's viewpoint and even Fediverse (e.g., Mastodon)) broader goal?%%
 
 In doing so, DAOs show that these alternative forms of organizing are viable models against the traditional BigTech model of venture-backed startup, and should assist in providing institutional infrastructure for aligning human values with innovation trajectories or technological progress, to avoid the social harms associated with BigTech.
 
