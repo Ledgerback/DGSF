@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f478b8aa05cd9f82",
+    "id": "c7a7d28315f440b9",
     "type": "split",
     "children": [
       {
-        "id": "d99ccc410299fbae",
+        "id": "741dc1f3ff1f157b",
         "type": "tabs",
         "children": [
           {
-            "id": "c242f6b3d8168f46",
+            "id": "1edb256743ca6b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "08f1467550a4b244",
+    "id": "cc66e2915c136970",
     "type": "split",
     "children": [
       {
-        "id": "ec3397e9b861516a",
+        "id": "cf00b8a2eb812293",
         "type": "tabs",
         "children": [
           {
-            "id": "e77936c2d06e1af9",
+            "id": "d3578fdec44a5c67",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "c3e4d9f3dd4a8a12",
+            "id": "e10e5654c5718d08",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "a77df153bc90ea66",
+            "id": "322630da6ba02baf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "b0e16106ca4ffe8d",
+            "id": "0bf2762650199ae1",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -78,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 300
   },
   "right": {
-    "id": "064a6cc84c6f12a0",
+    "id": "d7ed3b767ac443a6",
     "type": "split",
     "children": [
       {
-        "id": "cf4f4b08a98494d2",
+        "id": "b46a8cedfb3c8d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "06ccd80d35220ba0",
+            "id": "2f61202ebd4b5fc0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "bd435fbca13b855a",
+            "id": "511330ec4f402e45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "15014249e4d49058",
+            "id": "9835943b51c05ceb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +129,7 @@
             }
           },
           {
-            "id": "8a422aae9d9806ed",
+            "id": "dee441988e33c4b9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,39 +155,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c242f6b3d8168f46",
-  "lastOpenFiles": [
-    "daoindex/01 WorkingDraft/02 Contextual Background.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
-    "daoindex/01 WorkingDraft/08 Discussion.md",
-    "daoindex/01 WorkingDraft/03 Theoretical Background.md",
-    "daoindex/01 WorkingDraft/04 Problem Statement.md",
-    "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
-    "daoindex/01 WorkingDraft/06 Methods.md",
-    "daoindex/01 WorkingDraft/07 Findings.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Example Whitepapers.md",
-    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
-    "Grants/Metagov Grant Application.md",
-    "Spaces/Home",
-    "Spaces",
-    "daoindex/10 Applications.md",
-    "Grants",
-    "daoindex/New Note.md",
-    "Spaces/Home/Home.md",
-    "daoindex/01 WorkingDraft/01 WorkingDraft.md",
-    "README.md",
-    "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
-    "Data Analysis/DGSF_DAO_Index_Analysis_Toolkit_2023_09_14_V03_Public.ipynb",
-    "Data Analysis",
-    "untitled folder",
-    "Questionnaire/Questionnaire-V0.9-2023_08_16-Questionnaire Version 0.9.csv",
-    "Questionnaire",
-    "Assessment Files/dao_index_assessments-6DAOs-V09-2023-09-25.csv",
-    "Assessment Files/dao_index-scores-version_09-2023-10-16.json",
-    "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Notes on Problem Statement.md",
-    "daoindex/01 WorkingDraft/10 Appendix.md",
-    "daoindex/01 WorkingDraft/01 Introduction.md"
-  ]
+  "active": "1edb256743ca6b74",
+  "lastOpenFiles": []
 }
