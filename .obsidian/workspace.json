@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
+                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
+                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
+                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md"
+                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md"
               }
             }
           }
@@ -159,11 +159,11 @@
   "active": "c242f6b3d8168f46",
   "lastOpenFiles": [
     "daoindex/01 WorkingDraft/02 Contextual Background.md",
-    "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
+    "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
     "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/01 WorkingDraft/07 Findings.md",
