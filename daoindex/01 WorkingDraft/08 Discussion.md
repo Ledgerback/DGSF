@@ -30,6 +30,7 @@ date created: 2023-10-26 17:46
          1. [GitHub - talentDAO/DAOHealth](https://github.com/talentDAO/DAOHealth)
       3. [What is a Web3 Community and when is it healthy: a working paper… — RnDAO](https://rndao.mirror.xyz/F-SMj6p_jdYvrMMkR1d9Hd6YbEg39qItTKfjo-zkgqM)
    6. [Governance Assessments - Wharton Cryptogovernance Workshop](https://cryptogov.net/governance-assessments/)
+   7. [DAO Vulnerabilities](https://medium.com/block-science/dao-vulnerabilities-509ff074a296)
 2. Other DAO standards initiatives
    1. [DAOstar](https://daostar.org/)
 3. Other Initiatives
@@ -56,6 +57,8 @@ date created: 2023-10-26 17:46
        1. <https://www.issgovernance.com//file/products/methodology-fundamentals-governance-qualityscore.pdf>
    18. [The Global Index on Responsible AI](https://www.responsibleaiindex.org/)
    19. [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
+   20. [CoinCheckup](https://coincheckup.com/)
+   21. [Bluechip](bluechip.org)
 
 ## Assumptions and Limitations
 

@@ -1,7 +1,8 @@
 - What goals do organizational design of DAOs serve? → [[03 Theoretical Background#Organizational Design of DAOs]]
 	- What are Web 3 ethos?
 	- What about Web 3 tech? 
+	- Refer to P2P Labs (Web3 v. Big Tech), Kelsie Nabben, [Crypto's Three Body Problem](https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems), SAO/DAO vid from Matt Planck from DRC YouTube, and a brief history of Co-ops before the Rochdale principles
 - [[02 Contextual Background#What is a DAO?]]
 - [[08 Discussion#Assumptions and Limitations]]
-	- why use principles > definition 
+	- why use principles > definition (or more why principles are needed to make definitions useful in applied setting and to become living systems) 
 - update assessment response data on Airtable
