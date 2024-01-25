@@ -1,8 +1,14 @@
 ---
 date created: 2023-10-26 17:46
 ---
+## Institutional Legitimacy for DAOs through Proper Organizational Design
+
+The institutional environment that DAOs operate in influences the organizational structures [@desantola2017]. As DAOs try to grow, they may need to conform to templates of organizational design embedded in the institutional environment [@desantola2017]. Such external expectations, coupled with institutionalized expectations based on the experiences of varying stakeholder groups in DAOs, could shape the future of DAOs as a viable form of organizing. By delineating the principles in the DAO Index and synthesizing the responses from stakeholders, we contribute to clarifying the expectations for DAOs' organizational design. Our goal is to inform the field of DAOs to develop in ways that can establish legitimacy for a wider group of audiences and garner more resources from key stakeholders. 
+
+It also addresses the concerns about "decentralization theater" when it comes to governance in DAOs. And, potentially, it would be better for emerging DAOs to follow what everyone else is doing to appear legitimate, if the "what", such as the principles we propose here, are actually  contributing to better practice of decentralized governance in DAOs. 
 
 ## Contributions 
+
 
  2. Benefits of standards (any need to mention this?)
 	1. [Using Information Privacy Standards to Build Governance Markets](https://www.youtube.com/watch?v=CQ_COiXwBcU)

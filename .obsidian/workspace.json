@@ -6,7 +6,6 @@
       {
         "id": "d99ccc410299fbae",
         "type": "tabs",
-        "dimension": 43.38896020539153,
         "children": [
           {
             "id": "c242f6b3d8168f46",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cd051537e243e74e",
-        "type": "tabs",
-        "dimension": 56.61103979460847,
-        "children": [
-          {
-            "id": "9220202850c24a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "daoindex/01 WorkingDraft/08 Discussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "daoindex/01 WorkingDraft/08 Discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "daoindex/01 WorkingDraft/08 Discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md"
+                "file": "daoindex/01 WorkingDraft/08 Discussion.md"
               }
             }
           }
@@ -176,19 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9220202850c24a40",
+  "active": "c242f6b3d8168f46",
   "lastOpenFiles": [
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
     "daoindex/01 WorkingDraft/08 Discussion.md",
-    "daoindex/01 WorkingDraft/02 Contextual Background.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+    "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+    "daoindex/01 WorkingDraft/02 Contextual Background.md",
     "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/01 WorkingDraft/07 Findings.md",
     "daoindex/00Porject Inbox/02 Next Steps/Example Whitepapers.md",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
-    "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "Grants/Metagov Grant Application.md",
     "Spaces/Home",
     "Spaces",

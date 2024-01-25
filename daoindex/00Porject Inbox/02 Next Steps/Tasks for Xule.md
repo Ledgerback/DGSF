@@ -6,4 +6,8 @@
 	- [Questions](https://airtable.com/app0wkVnqnFAUUhDs/tblcNbvXRHbUmDUZD/viwCFQFvwRTXUsZWC?blocks=hide)
 - [[02 Contextual Background]] 
 - [[03 Theoretical Background]]
+
+
+## Updates
+- added [[08 Discussion#Institutional Legitimacy for DAOs through Proper Organizational Design]]
 - 
