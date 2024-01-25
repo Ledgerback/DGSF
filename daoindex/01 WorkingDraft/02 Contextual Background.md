@@ -1,5 +1,12 @@
 ## What is a DAO?
 
+We define Decentralized Autonomous Organizations (DAOs) as less-hierarchical communities of stakeholders who collectively govern their organizations according to a body of shared values and a set of self-executing rules deployed on a public, algorithmically secure network. 
+
+DAOs rely on stakeholders' voluntary contributions to "common-pool" resources and agreement on a set of rules governing these resources to pursue common goals. These rules are codified on public blockchains in the form of self-executed smart contracts, enabling online communities to coordinate and self-govern towards collective goals in a non-hierarchical way. 
+
+DAOs are characterized by collective ownership and governance, with participants sharing governance rights to access, control, and ownership of shared resources. Participants are not bound by formal contracts and voluntarily contribute to shared resources. Participants self-select into domains of tasks, and peer leadership/lateral authority allocates specific tasks to participants.
+
+
 1. What is an decentralized organization?
    1. Possible historical analogies?
    2. [Pioneers, Knights, and Guilds: History of the Cooperative Movement](https://econreview.berkeley.edu/pioneers-knights-and-guilds-history-of-the-cooperative-movement/)

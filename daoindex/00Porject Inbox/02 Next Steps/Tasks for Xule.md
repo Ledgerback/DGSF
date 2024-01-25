@@ -1,3 +1,4 @@
+# Domain of Tasks
 - White paper 
 - Test validity of constructs and inter-rater reliability 
 	- [Actual response on Airtable](https://airtable.com/appqf3ub3ovmtNATJ/tblmYmGAeYQJDqnMJ/viwa13NleT2Y56c3f?blocks=hide) 
@@ -6,4 +7,10 @@
 	- [Questions](https://airtable.com/app0wkVnqnFAUUhDs/tblcNbvXRHbUmDUZD/viwCFQFvwRTXUsZWC?blocks=hide)
 - [[02 Contextual Background]] 
 - [[03 Theoretical Background]]
-- 
+
+
+# Updates
+
+## 2024-01-25
+- Added [[08 Discussion#Institutional Legitimacy for DAOs through Proper Organizational Design]]
+-  Updated definition for DAOs
