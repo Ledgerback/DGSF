@@ -42,7 +42,8 @@ The Web3 ethos is (refer to ethereum whitepaper)
 
 ## Gaps and Challenges
 
-1. Issues with token-based voting
+1.  [root of misalignment](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit#heading=h.e3vpfq1f2nh9)?
+2. Issues with token-based voting
    1. [Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
-2. Limitations of relying solely on quantitative measures?
+3. Limitations of relying solely on quantitative measures?
    1. [Quantifying Blockchain Network Centralization — Ketsal](https://www.ketsal.com/blog/quantifying-blockchain-network-centralization/)
