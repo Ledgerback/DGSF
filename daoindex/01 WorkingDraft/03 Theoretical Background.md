@@ -19,7 +19,7 @@ How to design DAOs, or to find ways for organizations to embody values and pract
 
 For DAOs, we assume that the organizational design (OD) goal is to:
 
-%%@chaarles: Which goal do you like the most?%%
+%%@charles: Which goal do you like the most?%%
 
 1. find (or experiment) and implement values and principles that develop, sustain, and scale DAOs, %%through a variety of organizational structures%%, to a large and diverse group of participants.
 2. provide meta-narrative logic[^1] (values and principles) to develop, sustain, and scale DAOs, %%through a variety of organizational structures%%, to a large and diverse group of participants.
@@ -32,7 +32,7 @@ For DAOs, we assume that the organizational design (OD) goal is to:
 
 In doing so, DAOs show that these alternative forms of organizing are viable models against the traditional BigTech model of venture-backed startup, and should assist in providing institutional infrastructure for aligning human values with innovation trajectories or technological progress, to avoid the social harms associated with BigTech.
 
-The Web3 ethos is (refer to ethereum whitepaper)
+The Web3 ethos is (refer to ethereum whitepaper) (can just say that it is implied from the principles?)
 
 [^1]: https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems
 [^2]: https://www.youtube.com/watch?v=BhylbfQPdKg
@@ -40,9 +40,11 @@ The Web3 ethos is (refer to ethereum whitepaper)
 
 ## Existing Frameworks
 
+- will come from looking through questions to find lit. that needs to be discussed
+
 ## Gaps and Challenges
 
-1.  [root of misalignment](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit#heading=h.e3vpfq1f2nh9)?
+1. [root of misalignment](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit#heading=h.e3vpfq1f2nh9)?
 2. Issues with token-based voting
    1. [Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
 3. Limitations of relying solely on quantitative measures?
