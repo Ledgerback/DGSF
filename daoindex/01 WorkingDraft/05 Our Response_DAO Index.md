@@ -57,4 +57,7 @@ The [principles](https://force11.org/fsci/post/principles/) can be used as:
 1. a framework for an agreement between researchers, funders, publishers, librarians, citizen scientists and others active in science and scholarship on how to make research open and participatory for anyone, anywhere
 2. a guide to decide how to practice and support research
 3. a basis for badging of activities as commons-compliant, by individuals and organizations
+
+
+The principles themselves do not describe what the scholarly commons should look like and how it should be organized and governed. That is up to participants to decide, using the principles to guide their practices. This can involve choosing existing systems and platforms to carry out and disseminate research, as well as creating new solutions.
 ```
