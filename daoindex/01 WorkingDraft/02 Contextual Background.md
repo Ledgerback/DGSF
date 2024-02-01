@@ -1,10 +1,27 @@
 ## What is a DAO?
 
-We define Decentralized Autonomous Organizations (DAOs) as less-hierarchical communities of stakeholders who collectively govern their organizations according to a body of shared values and a set of self-executing rules deployed on a public, algorithmically secure network. 
+We define Decentralized Autonomous Organizations (DAOs) as ==less-hierarchical== communities of stakeholders who collectively govern and coordinate through a combination of algorithmic [^1] ==(citation?)== and social governance mechanisms [^2].   
 
-DAOs rely on stakeholders' voluntary contributions to "common-pool" resources and agreement on a set of rules governing these resources to pursue common goals. These rules are codified on public blockchains in the form of self-executed smart contracts, enabling online communities to coordinate and self-govern towards collective goals in a non-hierarchical way. 
+Stakeholders voluntarily [^3] contribute to shared resources and agree on a set of rules governing these resources to pursue common goals. They collectively define, divide, and allocate tasks and rewards to pursue effective integration of effort [^4].
 
-DAOs are characterized by collective ownership and governance, with participants sharing governance rights to access, control, and ownership of shared resources. Participants are not bound by formal contracts and voluntarily contribute to shared resources. Participants self-select into domains of tasks, and peer leadership/lateral authority allocates specific tasks to participants.
+DAOs are characterized by more equitable forms of ownership [^5] for diverse stakeholder groups, which allow stakeholders to share governance rights to access information and control shared resources.
+
+<!-- DAOs are characterized by distributed ownership, which enables diverse stakeholder groups to share governance rights to ==access, control, and ownership of shared resources==. --> 
+
+<!-- DAOs are characterized by more equitable forms of ownership, which enables diverse stakeholder groups to share governance rights to ==access, control, and ownership of shared resources==. --> 
+
+[^1]: How we see algorithmic rules... (add more) only applicable to on-chain assets and does not require human interpretation. 
+
+[^2]: design choice for DAOs to address practical concerns such as costs. 
+
+[^3]: Participants may or may not be bound by formal contracts because... Also, membership is flexible. 
+
+[^4]: The efficiency depends on the goals of the DAOs. 
+
+[^5]: Different ownership structures are possible. concentration of ownership is a spectrum. 
+
+
+
 
 
 1. What is an decentralized organization?
