@@ -49,3 +49,12 @@ date created: 2023-10-26 18:01
 	- principles 
 	- indicators  
 - translate academic and industry findings into actionable questions, that fit under the principles
+
+
+```markdown
+The [principles](https://force11.org/fsci/post/principles/) can be used as:
+
+1. a framework for an agreement between researchers, funders, publishers, librarians, citizen scientists and others active in science and scholarship on how to make research open and participatory for anyone, anywhere
+2. a guide to decide how to practice and support research
+3. a basis for badging of activities as commons-compliant, by individuals and organizations
+```
