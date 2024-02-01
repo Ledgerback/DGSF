@@ -18,6 +18,7 @@ It also addresses the concerns about "decentralization theater" when it comes to
 	4. [Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)
 	   1. “Instead we believe that this scenario fits squarely within the mission for public goods funding on Ethereum. When institutional improvements are available to an entire category of workers, whether they are members of said networks or not, they can be considered public goods since they improve conditions for the whole ecosystem. Quality standards for producers are an example of this [12]. In the Ethereum ecosystem the EIP process and the ERC token standard are good examples of public goods in the making. Extending technical and social standards for labor relations is another way to generate positive externalities for the web3 ecosystem. For this to happen, however, there needs to be a collective effort by industry leaders and organizations in facilitating, by example, the establishment of the normative basis that valorizes this aspect of DAO work.”
 	5. [Cooperative Principles as Constraints for Public Goods Production](https://econpapers.repec.org/paper/agsncerze/31808.htm)
+		1. principles will help DAOs develop more public goods and common and club goods? Or need proper constraints for public goods to be created, and principles can provide the constraitns.
 	6. Metagov
 
 ## Comparison with Related Work

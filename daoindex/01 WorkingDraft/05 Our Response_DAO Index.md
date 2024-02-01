@@ -49,6 +49,7 @@ date created: 2023-10-26 18:01
 	- principles 
 	- indicators  
 - translate academic and industry findings into actionable questions, that fit under the principles
+- why yes/no questions?
 
 
 ```markdown
