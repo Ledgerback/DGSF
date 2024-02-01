@@ -23,14 +23,28 @@
 1. Does the DAO have leadership from multiple geographic regions?
 2. Does the DAO have members in multiple geographic regions?
 3. Does the DAO have managers from multiple geographic regions?
-### Practicing DAO cooperativism	
+### Practicing DAO Cooperativism	
 
 > Implementing a quasi-form of cooperativism for the web that enables democratized ownership or prioritizes membership (e.g., networked-membership)
 
 1. Does the DAO have a collective treasury (or multisig account)?
+	1. community ownership structure
 2. Does the DAO have currencies recognizing value beyond financial relations, such as labor, contributor well-being, or environmental impact?
+	1. incentive structures (economic, reputation, other social?)
+	2. align with diversity of membership
 3. Does the DAO have a collective membership mark to signify membership in the DAO?
+	1. Not the same as membership criteria 
+	2. badges
+	3. social identification with DAOs
+	4. digital artifacts to help establish organizational boundary 
+	5. social mechanisms for screening to prevent issues like: scams and abuse 
 4. Does the DAO redistribute profits/surplus on a basis other than capital holdings?
+	1. incentives besides rent-seeking
+	2. incentives for usage and participation? 
+	3. more on this 
+	4. contribution-based or need-based incentives 
+	5. merit-based incentives 
+	6. co-created value distribution > incentives 
 5. Does the DAO have any accountability mechanisms that subject the power of leaders and managers to the members?
 6. Does the DAO have an amendment procedure for its rules, procedures or policies?
 7. Does the DAO have a decision-making matrix?

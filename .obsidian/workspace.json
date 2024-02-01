@@ -18,6 +18,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a8354d833a8bb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "63cdcad0e8f5fe8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1c72ef12b666f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c13fa1dc3f7ee051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -94,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +176,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md"
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,12 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1edb256743ca6b74",
+  "active": "8a1c72ef12b666f2",
   "lastOpenFiles": [
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
-    "daoindex/01 WorkingDraft/02 Contextual Background.md"
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
+    "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Metrics.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md"
   ]
 }
