@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md"
+                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md"
               }
             }
           }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,5 +155,10 @@
     }
   },
   "active": "1edb256743ca6b74",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
+    "daoindex/01 WorkingDraft/03 Theoretical Background.md"
+  ]
 }

@@ -27,3 +27,7 @@ Spaces/Home/Home.md
 *.json
 .obsidian/workspace.json
 .obsidian/plugins/make-md/data.json
+.obsidian/hotkeys.json
+.obsidian/plugins/make-md/data.json
+.obsidian/plugins/make-md/Spaces.mdb
+.obsidian/workspace.json
