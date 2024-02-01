@@ -36,9 +36,16 @@ date created: 2023-10-26 18:01
 	1. Ability to incorporate other standards (e.g., DAOstar) and qualitative and quantitative measures
 	2. Can be adapted by end-users to fit their particular context by adding, modifying, or removing principles, and applying weights to principles.
 	3. Set of standard response options to improve comparability
+6. method
+	1. promote adherence to principles through a ranking and monitoring system
+		1. refer to web3privacy
+7. benefits
+	1. improved governance (also helps increase token prices)
+	2. include applicable benefits or features from [NGLP_PrinciplesValues_WHITE PAPER](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit#heading=h.tz6xy4ga36dg)
 
 ## Developing the DAO Index
 
 - Question Independence 
 	- principles 
 	- indicators  
+- translate academic and industry findings into actionable questions, that fit under the principles

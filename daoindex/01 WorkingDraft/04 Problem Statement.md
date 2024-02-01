@@ -52,3 +52,9 @@ date updated: 2023-10-26 18:09
 10. _Possibly lack of coherence on converting to a DAO_? (Any different from progressive decentralization?)
     1. [Cooperative Conversions: Bulletin I: Choice of Entity](https://content.govdelivery.com/accounts/USDARD/bulletins/30ff250)
     2. [EXIT TO COMMUNITY: STRATEGIES FOR MULTI-STAKEHOLDER OWNERSHIP IN THE PLATFORM ECONOMY](https://georgetownlawtechreview.org/wp-content/uploads/2021/05/Mannan-Schneider-Exit-to-Community-5-GEO.-L.-TECH.-REV.-1-2021.pdf)
+11. open and transparent systems are not enough
+	1. refer to  [Decentralized Crypto Governance? Transparency and Concentration in Ethereum Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691000)
+
+can say challenges above stem from the roots of misalignment (or from the misalignment of what DAOs ought to be, and what they are)
+
+or say that there is misalignment of what DAOs ought to be, and what they are, and that here are examples or the effects of this misalignment (transparency poverty, etc.), and through solution, we can push DAOs towards re-aligning with ideal or imaginary.

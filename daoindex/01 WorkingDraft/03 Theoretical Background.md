@@ -23,6 +23,7 @@ For DAOs, we assume that the organizational design (OD) goal is to:
 
 1. find (or experiment) and implement values and principles that develop, sustain, and scale DAOs, %%through a variety of organizational structures%%, to a large and diverse group of participants.
 2. provide meta-narrative logic[^1] (values and principles) to develop, sustain, and scale DAOs, %%through a variety of organizational structures%%, to a large and diverse group of participants.
+2. provide meta-narrative logic[^1] (values and principles) to develop, sustain, and scale community-based organizations with less hierarchy , %%through a variety of organizational structures%%, to a large and diverse group of participants.
 3. optimizing use of blockchain and other Web3 tech, and other computational tools, to assist or support governance and operations in organizations[^2], and to help organizations implement more equitable forms of ownership and democratic forms of governance
 4. govern socio-technical systems through Nearly Decentralized Organizations (NDOs)[^3]
 5. balance human-machine governance of organizations (or [balance on- and off-chain rules and logic for organizations](https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE)), and further the resilience of [NDOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959703)
@@ -40,11 +41,12 @@ The Web3 ethos is (refer to ethereum whitepaper) (can just say that it is implie
 
 ## Existing Frameworks
 
-- will come from looking through questions to find lit. that needs to be discussed
+- will know what lit. to include from looking through questions
 
 ## Gaps and Challenges
 
 1. [root of misalignment](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit#heading=h.e3vpfq1f2nh9)?
+	1. can mention similarity between academic publishing goals and DAOs?
 2. Issues with token-based voting
    1. [Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
 3. Limitations of relying solely on quantitative measures?

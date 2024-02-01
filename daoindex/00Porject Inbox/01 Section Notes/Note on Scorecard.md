@@ -38,13 +38,17 @@
 	3. social identification with DAOs
 	4. digital artifacts to help establish organizational boundary 
 	5. social mechanisms for screening to prevent issues like: scams and abuse 
+		1. can think of it also like a student or employee ID card
 4. Does the DAO redistribute profits/surplus on a basis other than capital holdings?
 	1. incentives besides rent-seeking
 	2. incentives for usage and participation? 
 	3. more on this 
 	4. contribution-based or need-based incentives 
 	5. merit-based incentives 
-	6. co-created value distribution > incentives 
+	6. co-created value distribution > incentives
+	7. example:
+		1. [Dragon-kill Points](https://en.wikipedia.org/wiki/Dragon_kill_points)
+		2. [REI Member dividend](https://www.rei.com/blog/rei-news/member-reward)
 5. Does the DAO have any accountability mechanisms that subject the power of leaders and managers to the members?
 6. Does the DAO have an amendment procedure for its rules, procedures or policies?
 7. Does the DAO have a decision-making matrix?

@@ -13,49 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/01 WorkingDraft/03 Theoretical Background.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a8354d833a8bb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "63cdcad0e8f5fe8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a1c72ef12b666f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c13fa1dc3f7ee051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
+                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,16 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md"
+                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a1c72ef12b666f2",
+  "active": "1edb256743ca6b74",
   "lastOpenFiles": [
+    "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Scorecard.md",
+    "daoindex/01 WorkingDraft/08 Discussion.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Notes on Problem Statement.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
+    "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Metrics.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md"
+    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
+    "daoindex/01 WorkingDraft/02 Contextual Background.md"
   ]
 }
