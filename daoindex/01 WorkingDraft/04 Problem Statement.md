@@ -3,6 +3,7 @@ date created: 2023-10-26 17:34
 date updated: 2023-10-26 18:09
 ---
 
+# Notes
 ## Empirical Challenge(s)
 
 1. Transparency poverty
@@ -54,7 +55,67 @@ date updated: 2023-10-26 18:09
     2. [EXIT TO COMMUNITY: STRATEGIES FOR MULTI-STAKEHOLDER OWNERSHIP IN THE PLATFORM ECONOMY](https://georgetownlawtechreview.org/wp-content/uploads/2021/05/Mannan-Schneider-Exit-to-Community-5-GEO.-L.-TECH.-REV.-1-2021.pdf)
 11. open and transparent systems are not enough
 	1. refer to  [Decentralized Crypto Governance? Transparency and Concentration in Ethereum Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691000)
+12. 2. Issues with token-based voting
+   1. [Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+3. Limitations of relying solely on quantitative measures?
+   1. [Quantifying Blockchain Network Centralization — Ketsal](https://www.ketsal.com/blog/quantifying-blockchain-network-centralization/)
 
 can say challenges above stem from the roots of misalignment (or from the misalignment of what DAOs ought to be, and what they are)
 
 or say that there is misalignment of what DAOs ought to be, and what they are, and that here are examples or the effects of this misalignment (transparency poverty, etc.), and through solution, we can push DAOs towards re-aligning with ideal or imaginary.
+
+DAOs, as currently constructed
+
+DAOs, as currently conceptualized, are facing
+
+We term this problem, the *DAO Alignment problem*. 
+
+# Outline
+
+1. root of misalignment
+2. particular problem clusters
+	1. transparency poverty
+# Prose
+
+
+
+## Defining the root of misalignment  (or just misalignment) problem
+There is a misalignment of what DAOs ought to be, and how DAOs operate in practice. This separation or discrepancy between the expectations and current reality of DAOs, is the main cause or is at the root of additional problems that plague DAOs.[^1] 
+
+
+
+We term this problem the *DAO Alignment problem*. 
+
+> DAO Alignment Problem: The goal of aligning DAO practices with DAO expecations
+
+The DAO alignment problem is the root of these additional problems plaguing DAOs (or real-world issues plaguing DAOs or issues plaguing DAOs, stemming from alignment problem):
+
+2. DAO-washing
+3. lack of DAO benchmarks (or measurable expectations)
+4. limitations of solely relying on quantitative measures 
+	1. or just measuring what is easy to measure
+5. Values Drift
+6. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
+    
+2. **Lack of Comprehensive DAO Practices Repository**: The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
+    
+3. **Conceptual Misunderstandings**: Across various sectors, including academia, industry, and society at large, there exists a significant gap in the fundamental understanding of what DAOs are and how they function. This lack of understanding stifles informed discussion, research, and development in the field.
+    
+4. **The Imaginary-Reality Gap**: There is a stark contrast between the idealized vision of what DAOs promise to be and what they are in practice. This gap between theory and reality — the "imaginary-reality gap" — leads to misconceptions about the capabilities and limitations of DAOs, affecting stakeholder expectations and trust.
+
+We belive these issues stem from the expectations of DAOs OD, including more equitable forms of ownership and democratic forms of governance.
+
+### table on expectations v. reality
+
+| expectations | reality |
+| ---: | ---- |
+|  |  |
+
+## Transparency poverty (any need to elaborate on the problems?)
+
+Even though blockchain and other Web3 tech provides transparent data, stored on-chain, of organizational activity, most DAO operations is conducted off-chain, which is not transparent.[^1] [^2]
+
+Even then, a transpaernt governance system is nto enough to prevent capture.
+
+[^1]:   [[2304.09822] Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice](https://arxiv.org/abs/2304.09822)
+[^2]: [Web3 Work research report: The DAO contributor's perspective](https://otherinternet.substack.com/p/web3-work-research-report)

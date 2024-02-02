@@ -5,4 +5,6 @@
 - [[02 Contextual Background#What is a DAO?]]
 - [[08 Discussion#Assumptions and Limitations]]
 	- why use principles > definition (or more why principles are needed to make definitions useful in applied setting and to become living systems) 
-- update assessment response data on Airtable
+- [x] update assessment response data on Airtable
+- [ ] [[04 Problem Statement]]
+- [ ] [[05 Our Response_DAO Index]]
