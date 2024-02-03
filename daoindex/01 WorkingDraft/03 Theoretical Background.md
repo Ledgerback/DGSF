@@ -17,6 +17,8 @@ date updated: 2023-10-26 18:27
 ## What is the goal of organizational design for DAOs?
 How to design DAOs, or to find ways for organizations to embody values and practices to become DAOs, is an emerging topic of interest. 
 
+Instead of focusing our inquiry on how to define DAOs, we choose to focus on how DAOs should be designed.
+
 For DAOs, we assume that the organizational design (OD) goal is to:
 
 %%@charles: Which goal do you like the most?%%

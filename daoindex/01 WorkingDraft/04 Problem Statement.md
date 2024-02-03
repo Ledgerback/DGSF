@@ -72,7 +72,7 @@ We term this problem, the *DAO Alignment problem*.
 
 # Outline
 
-1. root of misalignment
+1. define root of misalignment
 2. particular problem clusters
 	1. transparency poverty
 # Prose
@@ -90,14 +90,14 @@ We term this problem the *DAO Alignment problem*.
 
 The DAO alignment problem is the root of these additional problems plaguing DAOs (or real-world issues plaguing DAOs or issues plaguing DAOs, stemming from alignment problem):
 
-2. DAO-washing
+2. DAO-washing (or using DAO acronym to sell product or fundraising, rather than to grow org, or to use DAO tooling, without wanting to run an org)
 3. lack of DAO benchmarks (or measurable expectations)
 4. limitations of solely relying on quantitative measures 
 	1. or just measuring what is easy to measure
 5. Values Drift
 6. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
     
-2. **Lack of Comprehensive DAO Practices Repository**: The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
+2. **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
     
 3. **Conceptual Misunderstandings**: Across various sectors, including academia, industry, and society at large, there exists a significant gap in the fundamental understanding of what DAOs are and how they function. This lack of understanding stifles informed discussion, research, and development in the field.
     
@@ -113,9 +113,61 @@ We belive these issues stem from the expectations of DAOs OD, including more equ
 
 ## Transparency poverty (any need to elaborate on the problems?)
 
-Even though blockchain and other Web3 tech provides transparent data, stored on-chain, of organizational activity, most DAO operations is conducted off-chain, which is not transparent.[^1] [^2]
+> **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
+
+sub-issue:
+
+1. blockchains do not provide all information
+1. lack of tooling
+
+### blockchains do not provide all information
+Even though blockchain and other Web3 tech provides transparent data regarding organizational activities, stored on-chain, this data only covers activities that are recorded on-chain.[^1] [^2] This misses the critical orgniazational activities that occur off-chain.[^1] [^2]  Though, it is easier to measure on-chain activity[^4] , this misses out on crucial data on DAOs, such as work practices and discussions, thus preventing a holistic view %%or analysis%% of DAOs and how they operate in the real world.[^1] [^2] [^3] Additionally, as mentioned in *[Web3 Work research report: The DAO contributor's perspective](https://otherinternet.substack.com/p/web3-work-research-report)*, this can lead to information asymmetries developing between different DAO stakeholder groups.[^2]
+
+> the lack of transparency when it comes to work processes, and the information asymmetries between contributors and former core teams. These issues cannot be addressed solely by transparent technology.
+
+~~In general, much of a DAO's activities are conducted off-chain, which is not transparent.[^1] [^2]~~
 
 Even then, a transpaernt governance system is nto enough to prevent capture.
 
-[^1]:   [[2304.09822] Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice](https://arxiv.org/abs/2304.09822)
+## Weak Learning (may move under transparency poverty)
+> **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
+
+This misalignment also leads to the DAO ecosystem having a slow learning rate, as evidenced by a lack of Comprehensive DAO Practices Repositories. 
+
+Other than The Collective Governance Archives by Optimism Foundation and Govbase by the Metagov project, there are few, if any, large, well-curated repositories documenting DAO practices (though, not limited to solely DAOs). Even fewer that includes DAO failures
+
+As mentioned in *[Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)*, the DAO ecosystem is reluctant to discuss challenges and failures of DAOs, possibly because of the use of DAOs as a marketing tool or means to avoid securities regulators.[^5] As mentioned earlier, the issue of transparency poverty also plays into this issue.
+
+The ever-ending focus on DAO successes, rather than on incidents, inhibits the design space, makes it harder for DAOs to meet expectations for DAOs, hurts DAO operators because of a lack of case studies to learn from to develop their own DAOs, and harms DAO understanding from the public and regulators.
+
+> “While extensive information resides on-chain and within forums, there appears to be a lack of willingness to transparently discuss challenges and phase-shifts among DAOs and web3 organizations. This paradox of transparency particularly applies to discussions of failure and loss, perhaps in view of the prevailing focus on success that characterizes the space. Building a culture of honesty based on the open sourcing of information and processes are vital components of a thriving open ecosystem – particularly for non-technical roles and fields (i.e. design, facilitation, org research and internal practices).”
+
+The inability to learn from past incidents, minor, major, or something in-between, inhibits DAO practices from repeating similar incidents.
+
+Something akin to Rekt.news, specifically for DAO incidents, could be helpful to address this weak learning aspect of the DAO ecossytem.
+
+## DAO-washing 
+
+Akin to greenwashing, decentralization-washing or community-washing, DAO-washing is the use of the term DAO by an organization, most notably, a Web3 startup, to claim that it is a DAO to raise funds from investors and to appeal to Web3-interested individual or potential users, without making a good or strong effort to have the organization operate as a DAO.[^6]
+
+This issue is further comlpicated by the lack of conceptual clarity regarding DAOs as a concept.
+
+## Lack of Measurable Expectations
+
+Value drift can fall here.
+
+Also, article by Bryan Lehrer on the new internet
+## Conceptual Misunderstandings
+
+most definitions are too binary, rather than focused on a spectrum
+
+---
+
+## References
+
+[^1]: [[2304.09822] Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice](https://arxiv.org/abs/2304.09822)
 [^2]: [Web3 Work research report: The DAO contributor's perspective](https://otherinternet.substack.com/p/web3-work-research-report)
+[^3]: [The State of Uniswap Governance: A Paradox of Minimization](https://otherinter.net/research/uniswap-governance-findings)
+[^4]: need a cite here for article discussing that we tend to measure what is easiest to measure
+[^5]: [Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)
+[^6]: Need a cite here
