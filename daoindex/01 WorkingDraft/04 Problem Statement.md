@@ -95,6 +95,7 @@ The DAO alignment problem is the root of these additional problems plaguing DAOs
 4. limitations of solely relying on quantitative measures 
 	1. or just measuring what is easy to measure
 5. Values Drift
+	1. maybe mention [tyranny of openness](https://podcast.sustainoss.org/45)?
 6. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
     
 2. **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
@@ -134,7 +135,7 @@ Even then, a transpaernt governance system is nto enough to prevent capture.
 
 This misalignment also leads to the DAO ecosystem having a slow learning rate, as evidenced by a lack of Comprehensive DAO Practices Repositories. 
 
-Other than The Collective Governance Archives by Optimism Foundation and Govbase by the Metagov project, there are few, if any, large, well-curated repositories documenting DAO practices (though, not limited to solely DAOs). Even fewer that includes DAO failures
+Other than The Collective Governance Archives by Optimism Foundation, CommunityRule, and Govbase by the Metagov project, there are few, if any, large, well-curated repositories documenting DAO practices (though, not limited to solely DAOs). Even fewer that includes DAO failures
 
 As mentioned in *[Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)*, the DAO ecosystem is reluctant to discuss challenges and failures of DAOs, possibly because of the use of DAOs as a marketing tool or means to avoid securities regulators.[^5] As mentioned earlier, the issue of transparency poverty also plays into this issue.
 
