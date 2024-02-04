@@ -128,14 +128,17 @@ Even though blockchain and other Web3 tech provides transparent data regarding o
 
 ~~In general, much of a DAO's activities are conducted off-chain, which is not transparent.[^1] [^2]~~
 
-Even then, a transpaernt governance system is nto enough to prevent capture.
+Even then, a transpaernt governance system is nto enough to prevent capture (or principle-agent problems).[^9]
 
+> The governance of the protocol resembled an oligarchy before a democracy. Suggestions we made that aligned with the interests of holders of large amounts of governance tokens (namely VC firms) were taken in stride. As soon as this order was questioned though, our intent was seen as adversarial.
+
+Most DAOs today still do not provide data or information on the inner poltiics (e.g., voting blocs mentioned on DeepDAO) or stakeholder relationships of their members.[^9]
 ## Weak Learning (may move under transparency poverty)
 > **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
 
 This misalignment also leads to the DAO ecosystem having a slow learning rate, as evidenced by a lack of Comprehensive DAO Practices Repositories. 
 
-Other than The Collective Governance Archives by Optimism Foundation, CommunityRule, and Govbase by the Metagov project, there are few, if any, large, well-curated repositories documenting DAO practices (though, not limited to solely DAOs). Even fewer that includes DAO failures
+Other than The Collective Governance Archives by Optimism Foundation[^12], CommunityRule[^11], and Govbase by the Metagov project, there are few, if any, large, well-curated repositories documenting DAO practices (though, not limited to solely DAOs). Even fewer that includes DAO failures
 
 As mentioned in *[Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)*, the DAO ecosystem is reluctant to discuss challenges and failures of DAOs, possibly because of the use of DAOs as a marketing tool or means to avoid securities regulators.[^5] As mentioned earlier, the issue of transparency poverty also plays into this issue.
 
@@ -149,18 +152,54 @@ Something akin to Rekt.news, specifically for DAO incidents, could be helpful to
 
 ## DAO-washing 
 
-Akin to greenwashing, decentralization-washing or community-washing, DAO-washing is the use of the term DAO by an organization, most notably, a Web3 startup, to claim that it is a DAO to raise funds from investors and to appeal to Web3-interested individual or potential users, without making a good or strong effort to have the organization operate as a DAO.[^6]
+Akin to greenwashing, decentralization-washing or community-washing[^6], DAO-washing is the use of the term DAO by an organization, most notably, a Web3 startup, to claim that it is a DAO to raise funds from investors and to appeal to Web3-interested individual or potential users, without making a forthright effort to operate the organization as a DAO.[^7]
 
-This issue is further comlpicated by the lack of conceptual clarity regarding DAOs as a concept.
+**need to look for DAOs that claim to be decentralized but are really centralized**
+
+As mentioned by Bryan Lherer in *What Happened to the New Internet?*, Uniswap showed such two-facedness, in the use of Other Internet to somewhat show the acceptance of their governance model for Uniswap DAO, though it onyl favored one stakeholder grup, the investors .[^9] This two-facedness, one of decentralization and community in public, and of centralization and solely investor interest in private, is epidemic in DAOs and the Web3 ecosystem (solely blockchain) in general (need a cite).
+
+> It didn't take long for doubt to begin to seep into our initial aspirations for the project. Upon diving deep into the working reality of the protocol our suspicions around potential for reform were revealed to be warranted. The governance of the protocol resembled an oligarchy before a democracy. Suggestions we made that aligned with the interests of holders of large amounts of governance tokens (namely VC firms) were taken in stride. As soon as this order was questioned though, our intent was seen as adversarial. Maybe more unsettling was that it seemed like most people just didn't really care about what we were doing, not even out of disinterest but out of apathy. This supported the hypothesis that 'governance' in the context of a cryptocurrency trading protocol was something of a [misnomer](https://otherinter.net/research/uniswap-governance-findings/). There wasn't actually a whole lot to govern, nor an engaged constituency of voters. The notion of using our influence to precipitate wealth redistribution was almost immediately thrown out the window.
+
+> Similar to my experience at the geospatial startup, it felt like there was an inescapable two-facedness amongst the peers we would deal with working in and around crypto. Publicly, individuals and firms projected careful messages that defended crypto as a bastion of the New Internet and financial freedom. In private conversations though, there was a frank embrace of the medium as nothing more than a game of wealth accumulation with underlying systems of governance that were intractably broken. Like a lot of software work, there was very little detailed discussion about the philosophy behind why we were doing the things we were doing. The catch-all banner of 'decentralization' was justification enough. Over time, this motivating force grew tenuous and the more that it became clear that decentralization wasn't any tangible goal, the more we wondered if we were in fact the bad guys, or at the very least, being employed by them.
+
+
+
+This issue is further complicated by the lack of conceptual clarity regarding DAOs as a concept, as described in the *Conceptual Misunderstandings* section.
 
 ## Lack of Measurable Expectations
+
+Though there is a claim that DAOs practice decentralized governance and/or operations, it is hard to find or see in reality.[^4] 
+
+A lack of measurable expecations for DAO organizing practices (or OD) inhibits the ability for:
+
+1. the DAO ecosystem to learn from past incidents,
+2. detemrining when an organization is organziing or aligning itself with the DAO cocnept,
+
+This can also lead to value drift, because a lack of a meta-narrative logic[^8] to align OD inherently leads to any organization claiming to be a DAO, without necessarily for purposes that help Web3?
+
+As mentioned by Bryan Lherer in *What Happened to the New Internet?*, the lack of measurable expecations for how Uniswap DAO should have organized made it overly difficult to advise Uniswap to engage in acts that may have gone against ivnestor interest, but supported the interests of other stakeholder groups.[^9]
 
 Value drift can fall here.
 
 Also, article by Bryan Lehrer on the new internet
 ## Conceptual Misunderstandings
 
-most definitions are too binary, rather than focused on a spectrum
+
+As mentioned in [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)[^10], there are nearly countless number of DAO definitions, stemming from the author's own discipline or perspective, leading to a lack of consensus in the acacdemic literature and industry on how to define DAOs.[^10]
+
+As mentioned by the authors, "[c]larity in the DAO definition is important for both users and researchers. For users, what defines a DAO can have consequences on their decision if they would like to participate in such an organization, whereas for researchers, conceptual clarity is key for understanding and analyzing an empirical situation.”[^10]
+
+The lack of conceptual clarity inhibits alignment with the DAO concept because then the set of measureable expecations or values-based expectations will constantly change as definitions change. Thus, preenting a standard means for comparing DAOs.
+
+Even the definition mentioned in [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)[^10], may be too strict, overly limiting the kinds of organizations that can be considered DAOs, such as those who do not automate execution of proposals solely via smart contracts (this can lead to issues regarding incomplete contracts and the oracle problem, and pretty much any judgment that is subjective), even if they have more equitable forms of ownership and democratic forms of governance than DAOs that do so (e.g., DAOs that use Tally).[^10]
+
+An additional issue with most definitions are that they are too binary, rather than focused on a spectrum (like decentralization).[^13]
+
+The concept of decentralization also suffers from a lack of clarity, which can further complicate an understanding of DAOs.[^13]
+
+## Code is not the only law
+
+Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy, SAO of the DAO.
 
 ---
 
@@ -171,4 +210,9 @@ most definitions are too binary, rather than focused on a spectrum
 [^3]: [The State of Uniswap Governance: A Paradox of Minimization](https://otherinter.net/research/uniswap-governance-findings)
 [^4]: need a cite here for article discussing that we tend to measure what is easiest to measure
 [^5]: [Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)
-[^6]: Need a cite here
+[^6]: https://twitter.com/RohitMalekar/status/1706012892410114381
+[^7]: Need a source
+[^8]: https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems
+[^9]: https://www.bryanlehrer.com/entries/new-internet/
+[^10]: [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)
+[^13]: [Make DeFi Decentralized (Again)](https://deficollective.org/blog/make-defi-decentralized-again/)
