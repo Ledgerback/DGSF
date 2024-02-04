@@ -146,15 +146,26 @@ The ever-ending focus on DAO successes, rather than on incidents, inhibits the d
 
 > “While extensive information resides on-chain and within forums, there appears to be a lack of willingness to transparently discuss challenges and phase-shifts among DAOs and web3 organizations. This paradox of transparency particularly applies to discussions of failure and loss, perhaps in view of the prevailing focus on success that characterizes the space. Building a culture of honesty based on the open sourcing of information and processes are vital components of a thriving open ecosystem – particularly for non-technical roles and fields (i.e. design, facilitation, org research and internal practices).”
 
-The inability to learn from past incidents, minor, major, or something in-between, inhibits DAO practices from repeating similar incidents.
+The inability to learn from past incidents, minor, major, or something in-between, inhibits DAO practices from learning not to repeat similar incidents.
 
 Something akin to Rekt.news, specifically for DAO incidents, could be helpful to address this weak learning aspect of the DAO ecossytem.
 
+**can also mention repeated DAO incidents that continue to happen, even though well known in idnutry or just happen too often**
+
 ## DAO-washing 
 
-Akin to greenwashing, decentralization-washing or community-washing[^6], DAO-washing is the use of the term DAO by an organization, most notably, a Web3 startup, to claim that it is a DAO to raise funds from investors and to appeal to Web3-interested individual or potential users, without making a forthright effort to operate the organization as a DAO.[^7]
+Akin to greenwashing, decentralization-washing or community-washing[^6], DAO-washing is the use of the term DAO by an organization, most notably, a Web3 startup, to claim that it is a DAO to raise funds from investors and to appeal to Web3-interested individual or potential users, without making a forthright effort to operate the organization as a DAO.[^7] [^15] [^16] 
 
-**need to look for DAOs that claim to be decentralized but are really centralized**
+%%**need to look for DAOs that claim to be decentralized but are really centralized**%%
+
+**
+
+
+    
+
+
+
+**
 
 As mentioned by Bryan Lherer in *What Happened to the New Internet?*, Uniswap showed such two-facedness, in the use of Other Internet to somewhat show the acceptance of their governance model for Uniswap DAO, though it onyl favored one stakeholder grup, the investors .[^9] This two-facedness, one of decentralization and community in public, and of centralization and solely investor interest in private, is epidemic in DAOs and the Web3 ecosystem (solely blockchain) in general (need a cite).
 
@@ -179,6 +190,13 @@ This can also lead to value drift, because a lack of a meta-narrative logic[^8] 
 
 As mentioned by Bryan Lherer in *What Happened to the New Internet?*, the lack of measurable expecations for how Uniswap DAO should have organized made it overly difficult to advise Uniswap to engage in acts that may have gone against ivnestor interest, but supported the interests of other stakeholder groups.[^9]
 
+As mentioned in *[How Plutocracy Undermines the DAO | HackerNoon](https://hackernoon.com/how-plutocracy-undermines-the-dao)*, there is a "need to move toward some institutionalized principles that can be considered the "best." Or at least the most "right" ones.'"[^17]
+
+As menionted by  Jacqueline Radebaugh in [Cooperatives: the fulfilment of big tech’s empty promises - jason wiener | p.c.](https://jrwiener.com/cooperatives-the-fulfilment-of-big-techs-empty-promises/), without a set of measurable expecations or organizing principles, "Web3 will be overtaken by those investors missing the mark on what the Web3 ethos of shared ownership and decentralization."[^18]
+
+“I see both DAO projects that reflect a stakeholder ownership model, and also a number of projects that are heavily financed by outside, profit-driven investors. I am concerned that without the adoption of a clear set of principles, like the cooperative movements have done with the Rochdale principles and the Mondragon principles, Web3 will be overtaken by those investors missing the mark on what the Web3 ethos of shared ownership and decentralization. Shared ownership models offer a promising alternative to traditional business models that prioritize profits over social welfare. Web3 technologies and platform cooperatives can help to overcome the hurdles that these models face, and create a more equitable and sustainable economy that benefits everyone. We must work together to promote and support these models, and ensure that our economy is serving the needs of all people.”
+   
+
 Value drift can fall here.
 
 Also, article by Bryan Lehrer on the new internet
@@ -193,13 +211,17 @@ The lack of conceptual clarity inhibits alignment with the DAO concept because t
 
 Even the definition mentioned in [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)[^10], may be too strict, overly limiting the kinds of organizations that can be considered DAOs, such as those who do not automate execution of proposals solely via smart contracts (this can lead to issues regarding incomplete contracts and the oracle problem, and pretty much any judgment that is subjective), even if they have more equitable forms of ownership and democratic forms of governance than DAOs that do so (e.g., DAOs that use Tally).[^10]
 
+Thus, we may need new routes to clairfy the concept, such as focusing on member perspectives[^14] or on organizational design.
+
 An additional issue with most definitions are that they are too binary, rather than focused on a spectrum (like decentralization).[^13]
 
 The concept of decentralization also suffers from a lack of clarity, which can further complicate an understanding of DAOs.[^13]
 
 ## Code is not the only law
 
-Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy, SAO of the DAO.
+Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy, SAO of the DAO, oracle problem.
+
+6. [The State of Uniswap Governance: A Paradox of Minimization](https://otherinter.net/research/uniswap-governance-findings)
 
 ---
 
@@ -216,3 +238,7 @@ Can refer to crypto three-body problem, incomplete contracts and lawrence lessig
 [^9]: https://www.bryanlehrer.com/entries/new-internet/
 [^10]: [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)
 [^13]: [Make DeFi Decentralized (Again)](https://deficollective.org/blog/make-defi-decentralized-again/)
+[^14]: https://link.springer.com/article/10.1007/s12525-023-00659-y#Sec8
+[^15]: [Web3, co-ops and “community owned” whitewashing](https://medium.com/@peteratomic/web3-co-ops-and-community-owned-whitewashing-d4ec63ddf6d0)
+[^16]: [Copping out with a DAO](https://cryptoconsigliere.substack.com/p/copping-out-with-a-dao)
+[^17]: [How Plutocracy Undermines the DAO | HackerNoon](https://hackernoon.com/how-plutocracy-undermines-the-dao)
