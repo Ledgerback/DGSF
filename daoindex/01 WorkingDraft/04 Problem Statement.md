@@ -248,7 +248,7 @@ The authors in the crypto three-body problem[^8] elaborate more on this issue.
 Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy, SAO of the DAO, oracle problem.
 
 6. [The State of Uniswap Governance: A Paradox of Minimization](https://otherinter.net/research/uniswap-governance-findings)
-## Open is not enough? (probably remove)
+### Open is not enough? (probably remove)
 1. maybe mention [tyranny of openness](https://podcast.sustainoss.org/45)?
 
 
