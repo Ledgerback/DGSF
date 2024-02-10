@@ -96,7 +96,11 @@ The DAO alignment problem is the root of these additional problems plaguing DAOs
 	1. or just measuring what is easy to measure
 5. Values Drift
 	1. maybe mention [tyranny of openness](https://podcast.sustainoss.org/45)?
-6. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
+6. DAO incidents
+	7. https://www.ournetwork.xyz/p/our-network-deep-dive-2
+7. token-based voting (or coin voting)
+	1. ask Xule if this should be added
+8. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
     
 2. **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
     
@@ -239,11 +243,84 @@ An additional issue with most definitions are that they are too binary, rather t
 
 The concept of decentralization also suffers from a lack of clarity, which can further complicate an understanding of DAOs.[^13]
 
-## Code is not the only law: the need for a strong social/normative layer (keep this issue?)
+## Code is not the only law: the need for a stronger social/normative layer (keep this issue?)
 
-An additional issue that plagues DAOs is the *code is law* paradigm or way of thinking.[^24] As Lawrence Lessig mentions, "**Yes, code is law. It's just not the only law.**" Simply because the software allows for it, does not mean such an act is socially accepted (or accepted by the DAO and external communities and parties).[^24]
+An additional issue that plagues DAOs is the *code is law* paradigm or way of thinking.[^24] As Lawrence Lessig mentions, "Yes, code is law. It's just not the only law."[^24] Simply because the software allows for it, does not mean such an act is socially accepted (or accepted by the DAO and external communities and parties).[^24] [^8] 
 
-The authors in the crypto three-body problem[^8] elaborate more on this issue. 
+#### SAO/DAO
+As mentioned in the SAO of the DAO, the authors mention how DAOs also need to consider the social infrastrucutre that plays a role in organizations, and to not try to complete erase it, because at the end of the day, DAOs are organization made up of people, supplmeneted by machines.[^27]
+
+> Key Lessons: Both Bruce and Matt illuminated the significant role of human elements and social systems in DAO governance. While technology can assist, it cannot replace the need for real-world trust mechanisms and social frameworks. They cautioned against leaning too much on technology for governance, advocating for a balanced approach that includes social considerations]
+
+#### Incomplete contracts (oracle problem as well)
+
+Basically, you cannot solely rely on smart contracts and software architecture to resolve social challenges. 
+
+As Jesse Walden mentioned, incomplete contracts are ""[^30]
+
+```markdown
+#### Complete Contracts
+
+- Are "trust-minimized" (have little need for human intervention)
+- Are difficult to change
+- Are resistant to meddling
+- Achieve scalability through verifiable, deterministic processes
+
+**Examples**: Bitcoin, Ethereum, Uniswap. automated arbitrage smart contracts
+
+#### Incomplete contracts:
+
+- Do not specify what is to be done in every possible eventuality
+- Are open to ongoing interpretation
+- Require human input (governance)
+- Require alternative solutions for scalability
+
+**Examples**: MolochDAO, MakerDAO, Nexus Mutual, and others from [this list](https://twitter.com/jessewldn/status/1133406021123158016)[.](https://jessewalden.com/incomplete-contracts-and-scaling-crypto/#)
+```
+
+#### Regression to the Code
+The authors in *Crypto's Three Body Problem*[^8] elaborate more on this issue, mentioning that crypto suffers from regulatory isntability from a lack of "he software architecture, markets, and norms in the absence of law"
+
+Also, that crypto is regulated by three primary bodies:
+
+The authors in *Crypto's Three Body Problem*[^8] elaborate more on this issue, mentioning how this "[r]egression to the code erodes social norms, and this consequence accounts in large part for what repulses people from crypto."
+
+Additionally, the authors mention that regression to the code does not always lead to legimitate outcomes
+
+This issue, as mentioend by the authors, comes from the  the notion of credible neutrality, that as long as the protocol or software arhictecture allows the action to occur, that the action is legimiate. The authors obviosuly mention how this "doesn’t always produce legitimate outcomes, so it can’t be true all the time."[^8]
+
+Lastly, the authors raise the important part that seeking credible neutrality at the protocol level or as a technical property of a protocol, does not prohibit that seeking "facilities that prevent user harm. Invoking credible neutrality should not have the primary effect of degrading accountability and putting users at risk. To make an analogy, one can endorse net neutrality, that is, non-discriminatory packet transport, without going so far as to foist dark UX patterns onto users. The question then is where and how is this regulatory force to be applied? Any such instruments of consumer protection must ultimately be self-regulated by protocol actors (interfaces, relayers, solvers) that remain answerable to users."
+
+Lastly, the authors mention how regression to the code is a limiter on insitutal deisng for DAOs, especilly for promting social interactions.[^8]
+
+> The question is not how to add norms or social agendas to the crypto “space,” but how to join crypto with a broader institutional ecology. When we imagine a crypto that is more integrated into social life, we don’t think of an uncorrelated economy accessed through screens, but of non-extractive media of exchange and real value production that are more seamlessly integrated with our daily institutions, supportive of the interactions, organizations, and social lives we already live. These sorts of institutions simply cannot be grown if regression to the code is the only binding rule.
+
+Lastly, the authors mention, simialrly to the authors of the SAO of DAO, that "_technical protocols do not provide the answer alone, but act as the basis for wider social protocols._"
+
+Furthermore, the authors mention that "as a protocol transitions to greater community-operation [...] the social challenges also become more demanding.", contentious matters cannot be resolved soelly through "programmed financial incentives but requires an added layer of discretionary logic tied to the values that a community upholds."[^8]
+
+software (also refer to incomplete contracts), 
+
+> Protocols include a variety of enshrined architectural features to facilitate coordination. Likewise, the creation of digital property rights with programmable controls has enabled an array of permissionless markets. However, as a protocol transitions to greater community-operation and takes on more complex administrative functions, the social challenges also become more demanding. In such cases contention cannot be addressed solely through programmed financial incentives but requires an added layer of discretionary logic tied to the values that a community upholds. In short, when conflicts among the three forces inevitably arise, they cannot be resolved through traditional, legal means.
+
+
+This regression to the code appears to be "the foundational policy of the crypto space", but it is usually only enforced against small actors.[^8]
+
+The authors stipulate that this issue arises from the notion of credible neutrality, 
+
+lack of norms leads to ...
+
+> Some view this regression phenomenon as the foundational policy of the crypto space: “whatever is permitted by the protocol’s code and market structure is legitimate.” This viewpoint, while rarely expressed in such direct terms, is remarkably common among crypto users. It is certainly present in the Curve case. It is also what is voiced when one defends the rights of hackers to exploit poorly designed protocols. As the hacker of Mango Markets [infamously stated](https://twitter.com/avi_eisen/status/1581326197241180160), his team merely “operated a highly profitable trading strategy.”
+
+> However, regression to the code doesn’t always produce legitimate outcomes, so it can’t be true all the time. In the cases explored earlier, the legitimacy of protocol adjudication is precisely what is in question. It is not clear, for example, that the inability to protect artist royalties is a good outcome. Many viewed it instead as an architectural shortcoming, taken advantage of by unscrupulous traders who skirted designers’ good intentions.
+
+> Regression to the code erodes social norms, and this consequence accounts in large part for what repulses people from crypto. Even as protocols fulfill important social functions like affordable remittances and escape from inflationary regimes, “the space” appears to outsiders as greedy and riddled with scams. It is for this reason that crypto seems to stand apart from all prior human institutions. More than just “lawless,” it comes off as a “normless” zone where morality is suspended, even if the prevailing intention is to support the resiliency of all manner of social organizations.
+
+> So the pervasive belief that anything permitted by the protocol is unquestionably legitimate is obviously harmful. But the true culprit behind this poisonous idea is the principle of credible neutrality. According to the doctrine of credible neutrality, the unbiased nature of a protocol implies the validity of all actions that take place under its purview. This includes not just contentious governance outcomes, but social violations such as hacks or scams that are technically permissible and yet tolerated in the name of neutrality and permissionless access.
+
+> This is not to say censorship resistance should not be upheld as a fundamental technical property. However, there needs to be room somewhere for facilities that prevent user harm. Invoking credible neutrality should not have the primary effect of degrading accountability and putting users at risk. To make an analogy, one can endorse net neutrality, that is, non-discriminatory packet transport, without going so far as to foist dark UX patterns onto users. The question then is where and how is this regulatory force to be applied? Any such instruments of consumer protection must ultimately be self-regulated by protocol actors (interfaces, relayers, solvers) that remain answerable to users.
+
+> Even within the stifling discourse of credible neutrality, there is a desire among some protocol designers and users to make norms a larger part of crypto’s self-regulatory function. In response to the paucity of effective normative regulation, a small cadre of self-regulating parties have stepped up to promote different forms of social welfare. Two institutions in particular have managed to get social buy-in by activating cross-cutting values shared by many in the Ethereum ecosystem: the public goods project Protocol Guild and the vigilante investigator ZachXBT.
 
 Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy, SAO of the DAO, oracle problem.
 
@@ -263,7 +340,7 @@ Can refer to crypto three-body problem, incomplete contracts and lawrence lessig
 [^5]: [Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)
 [^6]: https://twitter.com/RohitMalekar/status/1706012892410114381
 [^7]: Need a source
-[^8]: https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems
+[^8]: [Crypto's Three Body Problem](https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems)
 [^9]: https://www.bryanlehrer.com/entries/new-internet/
 [^10]: [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)
 [^13]: [Make DeFi Decentralized (Again)](https://deficollective.org/blog/make-defi-decentralized-again/)
@@ -278,3 +355,5 @@ Can refer to crypto three-body problem, incomplete contracts and lawrence lessig
 [^24]: [DAO Harvard Proceedings - Part 1: Lawrence Lessig and Sandy Pentland Discuss Code and Law](https://metagov.substack.com/p/dao-harvard-proceedings-part-1-lawrence)
 [^25]: [DAO Challenges: Insights from the Governance Geeks Gathering at Devconnect Istanbul 2023](https://radworks.mirror.xyz/brj3tTX7zMDMJwOFQn1UbQwUVOpWAroxE4mCvn8T6Yc)
 [^26]: [Decentralized Autonomous Organization Design for the Commons and the Common Good](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4418782)
+[^27]: [The SAO Behind the DAO - Matt Stephenson & Bruce Kogut (DRC @ Stanford 2023)](https://www.youtube.com/watch?v=BhylbfQPdKg)
+[^30]: [Incomplete Contracts (and Scaling Crypto)](https://jessewalden.com/incomplete-contracts-and-scaling-crypto/)

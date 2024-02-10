@@ -26,12 +26,14 @@ date created: 2023-10-26 18:01
 	1. Further organizational and governance experimentation via digital tools towards community form
 	2. Enable experiments in digital self-governance
 	3. Drive change in norms (expectation of transparency, use of deliberative methods for governance, etc.)
+		1. foster pro-social behavior
 	4. Living standard that evolves with the DAO ecosystem
 	5. Increase shared understanding of DAOs
 	6. Standard provides common design components at a global level, while allowing organizations to specialize their development given their local context(s)
 	7. Aggregate information on DAO org design practices and other practices
 	8. Develop an information reporting standard
 	9. Track progress over time
+	10. [balance social and technical layer](https://hackmd.io/@abdelhamid/ethereum-alignment#Ethereum-alignment-breakdown-diagram)
 5. Flexibility
 	1. Ability to incorporate other standards (e.g., DAOstar) and qualitative and quantitative measures
 	2. Can be adapted by end-users to fit their particular context by adding, modifying, or removing principles, and applying weights to principles.
@@ -42,6 +44,7 @@ date created: 2023-10-26 18:01
 7. benefits
 	1. improved governance (also helps increase token prices)
 	2. include applicable benefits or features from [NGLP_PrinciplesValues_WHITE PAPER](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit#heading=h.tz6xy4ga36dg)
+	3. maybe help with [Ethereum Alignment](https://hackmd.io/@abdelhamid/ethereum-alignment#Ethereum-alignment-breakdown-diagram)
 
 ## Developing the DAO Index
 

@@ -1,4 +1,5 @@
 
+# Notes
 ## Data Collection 
 
 - Purposeful Sampling Strategy
@@ -13,4 +14,14 @@
 		- External: question independence
 	- Reliability checks
 		- Internal check: Inter-rater reliability
+
+# Prose
+
+## Data Collection
+
+We conducted 11 assessments with the DAO Index Version 0.9. We generated our responses by completing the questionnaire ourselves for each DAO evalauted.
+
+We based our responses on publicly available information provided directly (or primary source) by the DAO evaluated, or a third party source (secondary source).
+
+
  
