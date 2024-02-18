@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+                "file": "Grants/Arbitrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+                "file": "Grants/Arbitrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+                "file": "Grants/Arbitrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md"
+                "file": "Grants/Arbitrum.md"
               }
             }
           }
@@ -157,12 +157,14 @@
   },
   "active": "1edb256743ca6b74",
   "lastOpenFiles": [
-    "daoindex/01 WorkingDraft/08 Discussion.md",
+    "Grants/Arbitrum.md",
+    "Grants/Grants.md",
+    "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+    "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
     "daoindex/01 WorkingDraft/06 Methods.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Metrics.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Problem Statement.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
