@@ -109,7 +109,7 @@ The DGSF project addresses the second priority through a couple means. First, th
 %% Possibly "Future-proof by strengthening our capacity to scale the platform."%%
 The DGSf project addresses the third priority because we intend for the DAO Index to be a living standard.
 
-As the DAO Index is a living standard that updates with advancements in industry and academia, the DAO Index provides a means to future-proof Aritrbum's governance and DAO design.
+As the DAO Index is a living standard that updates with advancements in industry and academia, the DAO Index provides a means to future-proof Arbitrum's governance and DAO design.
 
 ## Ecosystem Impact*
 
@@ -143,8 +143,9 @@ To achieve our goals for the DGSF project, we will execute on:
 1. Whitepaper: Writing a white paper describing the DAO Index. More specifically, the whitepaper will discuss the theoretical background supporting the DAO Index, with a focus on DAOs, our problem statement, how the DAO Index addresses the problem statement, and early findings and discussion on our initial set of assessments on 11 prominent DAOs.  
 2. Write-ups: Drafting short write-ups on our DAO Index assessments 
 3. Dashboard: Developing and updating a public-facing web-based UI (or dashboard) for accessing the DAO Index ratings and data repository
-4. Outreach and Collaboration: Reaching out to DAO researchers, DAO operators, and
+4. Outreach and Collaboration: Reaching out to DAO researchers and DAO operators for feedback on the DAO Index questionnaire and assessments
 5. Analysis Notebook: Develop a Jupyter notebook describing our analyses of the DAO Index data repository
+6. AI tools: Developing AI-based tools to help answer questions on the DAO Index questionnaire and improving search over the DAO Index data repository
 
 
 
