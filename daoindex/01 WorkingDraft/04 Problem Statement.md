@@ -100,7 +100,9 @@ The DAO alignment problem is the root of these additional problems plaguing DAOs
 	7. https://www.ournetwork.xyz/p/our-network-deep-dive-2
 7. token-based voting (or coin voting)
 	1. ask Xule if this should be added
-8. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
+8. not employing Signal strategy for privacy messengers
+9. regression to conventional ownership or start-up structure, rather than experimenting with alternative ownership
+10. **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.
     
 2. **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
     
@@ -252,11 +254,23 @@ As mentioned in the SAO of the DAO, the authors mention how DAOs also need to co
 
 > Key Lessons: Both Bruce and Matt illuminated the significant role of human elements and social systems in DAO governance. While technology can assist, it cannot replace the need for real-world trust mechanisms and social frameworks. They cautioned against leaning too much on technology for governance, advocating for a balanced approach that includes social considerations]
 
-#### Incomplete contracts (oracle problem as well)
+#### Incomplete contracts (oracle problem as well) require social infrastructure 
+
+**maybe remove because it feels almost duplicative of regression to the code section**
+
+An additional concern is that DAOs (and any institution that relies on Web3 technologies) will have to resolve situations involving incomplete contracts. 
+
+Incomplete contracts are ...
+
+In contrast, complete contracts are ...
+
+For DAOs, that inherently deal with off-chain matters arising from aliging indivduals to work towards the DAO's mission, these situations are exteremly likely to arise and cannot be resolved by solely relying on smart contracts and software architecture to resolve social challenges.
+
+For example, how can an
 
 Basically, you cannot solely rely on smart contracts and software architecture to resolve social challenges. 
 
-As Jesse Walden mentioned, incomplete contracts are ""[^30]
+As Jesse Walden mentioned in , incomplete contracts are ""[^30]
 
 ```markdown
 #### Complete Contracts
@@ -278,6 +292,7 @@ As Jesse Walden mentioned, incomplete contracts are ""[^30]
 **Examples**: MolochDAO, MakerDAO, Nexus Mutual, and others from [this list](https://twitter.com/jessewldn/status/1133406021123158016)[.](https://jessewalden.com/incomplete-contracts-and-scaling-crypto/#)
 ```
 
+Having to deal with incomplete contracts leads to the next issue, regression to the code, as DAOs will often resort to the code for resolutions that smart contracts cannot inhernetly solve. Rather, DAOs should focus on developing robust social infrastructure for dealing with incomplete contracts.[^20]
 #### Regression to the Code
 The authors in *Crypto's Three Body Problem*[^8] elaborate more on this issue, mentioning that crypto suffers from regulatory isntability from a lack of "he software architecture, markets, and norms in the absence of law"
 
@@ -322,12 +337,29 @@ lack of norms leads to ...
 
 > Even within the stifling discourse of credible neutrality, there is a desire among some protocol designers and users to make norms a larger part of crypto’s self-regulatory function. In response to the paucity of effective normative regulation, a small cadre of self-regulating parties have stepped up to promote different forms of social welfare. Two institutions in particular have managed to get social buy-in by activating cross-cutting values shared by many in the Ethereum ecosystem: the public goods project Protocol Guild and the vigilante investigator ZachXBT.
 
-Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy, SAO of the DAO, oracle problem.
 
-6. [The State of Uniswap Governance: A Paradox of Minimization](https://otherinter.net/research/uniswap-governance-findings)
+
 ### Open is not enough? (probably remove)
 1. maybe mention [tyranny of openness](https://podcast.sustainoss.org/45)?
 
+## regression to conventional ownership or start-up structure 
+
+**probably falls nuder lack of measurable expectations**
+
+Lack of experimentation and regression to traditional model stifles DAO develompent
+
+Lack of measurabel expectations leads to organizations trying to become DAOs defaulting to conventional ownership or strart-up structure, which, for the most part, does not conform to the goals of DAOs.
+
+## not following Signal's strategy of viable alternative (probably do not need this subsection)
+
+- refer to https://signal.org/blog/signal-is-expensive/ 
+
+## Subjectivity of algorithmic policy
+Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy  and DAO as panopticon, SAO of the DAO, oracle problem.
+
+Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-allocation-system](https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-allocation-system "https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-allocation-system")?
+
+6. [The State of Uniswap Governance: A Paradox of Minimization](https://otherinter.net/research/uniswap-governance-findings)
 
 ---
 
