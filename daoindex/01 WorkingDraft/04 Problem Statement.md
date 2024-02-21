@@ -354,7 +354,39 @@ Lack of measurabel expectations leads to organizations trying to become DAOs def
 
 - refer to https://signal.org/blog/signal-is-expensive/ 
 
-## Subjectivity of algorithmic policy
+## Subjectivity of algorithmic policy (or Lack of recognizing complexity and subjectivity of algorithmic policy)
+
+outline:
+
+1. what is algorithmic governnace?
+2. when do DAOs engage in algorithmic governance?
+3. what are issues currently faced by DAOs from algorithm use? 
+	1. or is this just the danger of DAOs becoming panopticons? (**mostly this one**)
+
+Algorithmic policy, or how algorithms are developed and deployed, is an inherently subjective endeavor.[^31] Algorithm
+
+Algorithms and data are non-objective
+
+Algorithms act as a governance tool when they are used to control human interactions
+
+> The problem with performing governance functions through algorithms in society is that defining the goals of algorithmic sequences of instructions is a [subjective practice](https://kelsienabben.substack.com/p/techno-reflexivity-cf1331278bdc). If markets are the invisible hand of capitalism, then algorithms are the invisible hand of digital systems.[^31]
+
+Given the complexity of developing a reputation or rewards system, it is imperative for DAOs to monitor and iterate upon their algorithmic policies to ensure that they remain accountable to their members.[^33]
+
+Or, For example, building "[n]on-transferable reputation systems ... can be difficult to implement due to the complexity of measuring and validating reputation."[^33]
+
+Michael Zrgham provides a good example of how subjectivity can affect the outcomes of an algorithm in *Exploring Subjectivity in Algorithms*.[^34]
+
+
+DAOs engage in algorithmic governance when ....
+
+An additional concern is that DAOs could become panotipcons.[^32] 
+
+An important concern is that DAOs could become panotipcons.[^32] 
+
+
+As also mentioned by ..., how a DAO determines their reputation and reward mechanisms is also subjcetive, and needs to be reviewed to ensure it meets the organization's objectives.
+
 Can refer to crypto three-body problem, incomplete contracts and lawrence lessig, Kelsie Nabben on algorithmic policy  and DAO as panopticon, SAO of the DAO, oracle problem.
 
 Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-allocation-system](https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-allocation-system "https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-allocation-system")?
@@ -389,3 +421,7 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^26]: [Decentralized Autonomous Organization Design for the Commons and the Common Good](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4418782)
 [^27]: [The SAO Behind the DAO - Matt Stephenson & Bruce Kogut (DRC @ Stanford 2023)](https://www.youtube.com/watch?v=BhylbfQPdKg)
 [^30]: [Incomplete Contracts (and Scaling Crypto)](https://jessewalden.com/incomplete-contracts-and-scaling-crypto/)
+[^31]: [Algorithms as Policy: How can algorithm design be reconceptualized as policy-making to create safer digital infrastructures?](https://kelsienabben.substack.com/p/algorithms-as-policy)
+[^32]: [Is a "Decentralized Autonomous Organization" a Panopticon?: Algorithmic governance as creating and mitigating vulnerabilities in DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907693)
+[^33]: [Designing reward systems for web3 governance](https://a16zcrypto.com/posts/article/designing-reward-systems-for-web3-governance)
+[^34]: [Exploring Subjectivity in Algorithms](https://medium.com/sourcecred/exploring-subjectivity-in-algorithms-5d8bf1c91714)

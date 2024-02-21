@@ -25,6 +25,7 @@ date created: 2023-10-26 18:01
 4. Goals
 	1. Further organizational and governance experimentation via digital tools towards community form
 	2. Enable experiments in digital self-governance
+		1. maybe say it can help encourage [turing-complete governance](https://baby.mirror.xyz/O7a922A-9zT4C4UwssRExkftdHywJ-13sR2rxQ-t__k) by getting DAOs to expiermnt more, given the principles?
 	3. Drive change in norms (expectation of transparency, use of deliberative methods for governance, etc.)
 		1. foster pro-social behavior
 	4. Living standard that evolves with the DAO ecosystem
