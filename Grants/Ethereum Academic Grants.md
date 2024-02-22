@@ -2,6 +2,8 @@
 
 If you have questions before submitting a grant application, you may contact us at [academic-grants@ethereum.org](mailto:academic-grants@ethereum.org).
 
+Link: https://esp.ethereum.foundation/academic-grants#deadline
+
 ## First name
 
 *

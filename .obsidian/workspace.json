@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "741dc1f3ff1f157b",
+        "id": "6f8d27e52f51ffc5",
         "type": "tabs",
         "children": [
           {
-            "id": "1edb256743ca6b74",
+            "id": "682bb47c1d17804f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grants/Arbitrum.md",
+                "file": "Diagrams and Tables/Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grants/Arbitrum.md",
+                "file": "Diagrams and Tables/Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grants/Arbitrum.md",
+                "file": "Diagrams and Tables/Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grants/Arbitrum.md"
+                "file": "Diagrams and Tables/Diagrams.md"
               }
             }
           }
@@ -155,13 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1edb256743ca6b74",
+  "active": "682bb47c1d17804f",
   "lastOpenFiles": [
+    "Diagrams and Tables/Diagrams.md",
+    "Diagrams and Tables",
+    "Grants/Ethereum Academic Grants.md",
+    "Grants/Arbitrum.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
-    "Grants/Arbitrum.md",
-    "Grants/Ethereum Academic Grants.md",
     "Grants/Grants.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
