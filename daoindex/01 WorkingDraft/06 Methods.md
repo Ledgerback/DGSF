@@ -19,9 +19,12 @@
 
 ## Data Collection
 
-We conducted 11 assessments with the DAO Index Version 0.9. We generated our responses by completing the questionnaire ourselves for each DAO evalauted.
+We conducted 11 assessments with the DAO Index Version 0.9. We generated our responses by completing the questionnaire ourselves for each DAO evaluated.
 
-We based our responses on publicly available information provided directly (or primary source) by the DAO evaluated, or a third party source (secondary source).
+We based our responses on publicly available information provided directly (or primary source) by the DAO evaluated, or indirectly by a third party source (secondary source).
+
+## Data Analysis
+
 
 
  

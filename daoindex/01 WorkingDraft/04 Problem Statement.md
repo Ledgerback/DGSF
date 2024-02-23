@@ -79,16 +79,34 @@ We term this problem, the *DAO Alignment problem*.
 
 
 
-## Defining the root of misalignment  (or just misalignment) problem
-There is a misalignment of what DAOs ought to be, and how DAOs operate in practice.[^20] This separation or discrepancy between the expectations and current reality of DAOs, is the main cause or is at the root of additional problems that plague DAOs.[^1] [^20] 
+## Defining the root of misalignment  (or just misalignment) problem (or misalignment with values) (or just say problem is how to rate and compare DAOs (design and governance)?)
+There is a misalignment of what DAOs ought to be, and how DAOs operate in practice.[^20] 
+
+This misalignment, between the expectations, dervied from the web3 ethos, and the current practices of DAOs, is
+
+Web3 ethos includes ...
+
+This separation or discrepancy between the expectations and current reality of DAOs, is the main cause or is at the root of additional problems that plague DAOs.[^1] [^20] 
+
+This separation or discrepancy between the expectations based on web3 ethos and the current reality of DAOs, is the main cause or is at the root of additional problems that plague DAOs.[^1] [^20] 
+
+This separation or discrepancy between the expectations based on our vision (or definition or intended design goals of DAOs or values derived from the web3 ethos, cooperative values, cypherpunk values, and many other influences) of DAOs[^35][^36][^37][^38] [^39] and the current reality of DAOs, is the main cause or is at the root of additional problems that plague DAOs.[^1] [^20] 
+
+
+
+
 
 
 
 We term this problem the *DAO Alignment problem*. 
 
-> DAO Alignment Problem: The goal of aligning DAO practices with DAO expecations
+> DAO Alignment Problem: The goal of aligning DAO practices with DAO expecations (or values-based expectations)
 
-The DAO alignment problem is the root of these additional problems plaguing DAOs (or real-world issues plaguing DAOs or issues plaguing DAOs, stemming from alignment problem):
+
+> DAO Alignment Problem: The goal of aligning DAO practices with expectations derived from our vision of DAOs
+
+
+The DAO alignment problem is the root of these additional problems plaguing DAOs (or real-world issues plaguing DAOs or issues plaguing DAOs, stemming from alignment problem) or is caused by the following issues:
 
 2. DAO-washing (or using DAO acronym to sell product or fundraising, rather than to grow org, or to use DAO tooling, without wanting to run an org)
 3. lack of DAO benchmarks (or measurable expectations)
@@ -174,6 +192,8 @@ An additional issue is starting DAOs without a clear mission.[^25]
 
 Akin to greenwashing, decentralization-washing or community-washing[^6], DAO-washing is the use of the term DAO by an organization, most notably, a Web3 startup, to claim that it is a DAO to raise funds from investors and to appeal to Web3-interested individual or potential users, without making a forthright effort to operate the organization as a DAO.[^7] [^15] [^16] 
 
+
+
 %%**need to look for DAOs that claim to be decentralized but are really centralized**%%
 
 **
@@ -193,9 +213,9 @@ As mentioned by Bryan Lherer in *What Happened to the New Internet?*, Uniswap sh
 
 
 
-This issue is further complicated by the lack of conceptual clarity regarding DAOs as a concept, as described in the *Conceptual Misunderstandings* section.
+This issue is further complicated by the lack of conceptual clarity regarding DAOs as a concept, as described in the *Lack of Conceputal Clarity* section.
 
-## Lack of Measurable Expectations (or measurable norms)
+## Lack of Measurable Expectations (or measurable norms or self-regulation)
 
 Though there is a claim that DAOs practice decentralized governance and/or operations, it is hard to find or see in reality.[^4] 
 
@@ -210,7 +230,7 @@ As mentioned by Bryan Lherer in *What Happened to the New Internet?*, the lack o
 
 As mentioned in *[How Plutocracy Undermines the DAO | HackerNoon](https://hackernoon.com/how-plutocracy-undermines-the-dao)*, there is a "need to move toward some institutionalized principles that can be considered the 'best.' Or at least the most 'right' ones."[^17]
 
-As menionted by  Jacqueline Radebaugh in [Cooperatives: the fulfilment of big tech’s empty promises - jason wiener | p.c.](https://jrwiener.com/cooperatives-the-fulfilment-of-big-techs-empty-promises/), without a set of measurable expecations or organizing principles, "Web3 will be overtaken by those investors missing the mark on what the Web3 ethos of shared ownership and decentralization."[^18]
+As menionted by  Jacqueline Radebaugh in *[Cooperatives: the fulfilment of big tech’s empty promises - jason wiener | p.c.](https://jrwiener.com/cooperatives-the-fulfilment-of-big-techs-empty-promises/)*, without a set of measurable expecations or organizing principles, "Web3 will be overtaken by those investors missing the mark on what the Web3 ethos of shared ownership and decentralization."[^18]
 
 > “I see both DAO projects that reflect a stakeholder ownership model, and also a number of projects that are heavily financed by outside, profit-driven investors. I am concerned that without the adoption of a clear set of principles, like the cooperative movements have done with the Rochdale principles and the Mondragon principles, Web3 will be overtaken by those investors missing the mark on what the Web3 ethos of shared ownership and decentralization. Shared ownership models offer a promising alternative to traditional business models that prioritize profits over social welfare. Web3 technologies and platform cooperatives can help to overcome the hurdles that these models face, and create a more equitable and sustainable economy that benefits everyone. We must work together to promote and support these models, and ensure that our economy is serving the needs of all people.”
    
@@ -220,6 +240,12 @@ The lack of measurable expecations (or is this weak learning?) also inhibits lea
 
 And even when empirical data is presented to show issues inthe DAO ecosystem, very rarely does any signifcant change occur in DAO practices.[^23] Without any measureable expecations or standards of organizing practices, backed by empirical data, there is little reason for DAO practices to systemtically change at an ecosystem level.
 
+This lack of measurable expectations may also be a reason why DAOs generally default to conventional ownership strcutures (though, this could also be for funding), rather than experimetning with altenrative ownership structures.
+
+Though DAOs generally espouse democratic governance and collective ownership, in reality, most DAOs in reality are plutocratic.[^1][^9] Most DAOs, in reality, default to conventional ownership structures, where ownership is highly concentrated, and generally using 1 token 1 vote method for voting power, which further entrenches whales in governance or conforms the goals fo the organization with whales, rather than the whole membership or with other stakeholdrs or which leads to failing to include small token-holders.[^1][^9] This default to conventional ownership inhibits expeirmetnation with alternative ownership structures that stress stakeholder accountability and values alignment. The lack of measurable expectations on ownership structures is also one of the reasons for misalignment.
+
+
+
 Value drift can fall here.
 
 Also, article by Bryan Lehrer on the new internet
@@ -228,7 +254,7 @@ Also, refer to:
 
 1. [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 2. crytpo three body problem
-## Conceptual Misunderstandings
+## Lack of Conceptual Clarity
 
 
 As mentioned in [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)[^10], there are nearly countless number of DAO definitions, stemming from the author's own discipline or perspective, leading to a lack of consensus in the acacdemic literature and industry on how to define DAOs.[^10]
@@ -249,12 +275,12 @@ The concept of decentralization also suffers from a lack of clarity, which can f
 
 An additional issue that plagues DAOs is the *code is law* paradigm or way of thinking.[^24] As Lawrence Lessig mentions, "Yes, code is law. It's just not the only law."[^24] Simply because the software allows for it, does not mean such an act is socially accepted (or accepted by the DAO and external communities and parties).[^24] [^8] 
 
-#### SAO/DAO
+#### SAO/DAO (remove)
 As mentioned in the SAO of the DAO, the authors mention how DAOs also need to consider the social infrastrucutre that plays a role in organizations, and to not try to complete erase it, because at the end of the day, DAOs are organization made up of people, supplmeneted by machines.[^27]
 
 > Key Lessons: Both Bruce and Matt illuminated the significant role of human elements and social systems in DAO governance. While technology can assist, it cannot replace the need for real-world trust mechanisms and social frameworks. They cautioned against leaning too much on technology for governance, advocating for a balanced approach that includes social considerations]
 
-#### Incomplete contracts (oracle problem as well) require social infrastructure 
+#### Incomplete contracts (oracle problem as well) require social infrastructure (keep or remove?)
 
 **maybe remove because it feels almost duplicative of regression to the code section**
 
@@ -350,11 +376,17 @@ Lack of experimentation and regression to traditional model stifles DAO develomp
 
 Lack of measurabel expectations leads to organizations trying to become DAOs defaulting to conventional ownership or strart-up structure, which, for the most part, does not conform to the goals of DAOs.
 
-## not following Signal's strategy of viable alternative (probably do not need this subsection)
+### Plutocratic governance
+
+Though DAOs espouse democratic governance and collective ownership, in reality, most DAOs in reality are plutocratic.[^1][^9] Most DAOs, in reality, default to conventional ownership structures, where ownership is highly concentrated, and generally using 1 token 1 vote method for voting power, which further entrenches whales in governance or conforms the goals fo the organization with whales, rather than the whole membership or with other stakeholdrs or which leads to failing to include small token-holders.[^1][^9] This default to conventional ownership inhibits expeirmetnation with alternative ownership structures that stress stakeholder accountability and values aignment.[^1]
+
+The use of conventional ownership structures does not promote or implement practices that lead to less hierarchy and the disavows the use of collective governance mechanisms. (need a cite)
+
+## not following Signal's strategy of viable alternative (probably do not need this subsection) (an issue, but not a cause of misalignment really)
 
 - refer to https://signal.org/blog/signal-is-expensive/ 
 
-## Subjectivity of algorithmic policy (or Lack of recognizing complexity and subjectivity of algorithmic policy)
+## Subjectivity of algorithmic policy (or Lack of recognizing complexity and subjectivity of algorithmic policy) (probably do not need because this is not necessarily a cause of misalignment, but it is improtant for principles as proactive means to balance social and algorithmic governance)
 
 outline:
 
@@ -405,7 +437,7 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^6]: https://twitter.com/RohitMalekar/status/1706012892410114381
 [^7]: Need a source
 [^8]: [Crypto's Three Body Problem](https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems)
-[^9]: https://www.bryanlehrer.com/entries/new-internet/
+[^9]: [What Happened to the New Internet](https://www.bryanlehrer.com/entries/new-internet/)
 [^10]: [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)
 [^13]: [Make DeFi Decentralized (Again)](https://deficollective.org/blog/make-defi-decentralized-again/)
 [^14]: https://link.springer.com/article/10.1007/s12525-023-00659-y#Sec8
@@ -425,3 +457,8 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^32]: [Is a "Decentralized Autonomous Organization" a Panopticon?: Algorithmic governance as creating and mitigating vulnerabilities in DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907693)
 [^33]: [Designing reward systems for web3 governance](https://a16zcrypto.com/posts/article/designing-reward-systems-for-web3-governance)
 [^34]: [Exploring Subjectivity in Algorithms](https://medium.com/sourcecred/exploring-subjectivity-in-algorithms-5d8bf1c91714)
+[^35]: [Why 0xPARC](https://0xparc.org/blog/why-0xPARC)
+[^36]: [Grounding Decentralised Technologies in Cooperative Principles: What Can 'Decentralised Autonomous Organisations' (DAOs) and Platform Cooperatives Learn from Each Other?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3979223)
+[^37]: [A prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+[^38]: [Steward Ownership, Illustrated](https://www.alternativeownershipadvisors.com/blog/illustrated)
+[^39]: [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)

@@ -1,22 +1,24 @@
-## Apply to Academic Grants
+## [Apply to Academic Grants](https://esp.ethereum.foundation/academic-grants/apply)
 
 If you have questions before submitting a grant application, you may contact us at [academic-grants@ethereum.org](mailto:academic-grants@ethereum.org).
 
 ## First name
 
 *
-
+Charles
 
 
 ## Last name
 
 *
 
+Adjovu
+
 ## Who is the point of contact for the application?
 
-### Email
+### Email*
 
-*
+ledgerback@gmail.com
 
 ### Is the point of contact also the authorised signatory?
 
@@ -25,6 +27,8 @@ If you have questions before submitting a grant application, you may contact us 
 Yes
 
 No
+
+Yes
 
 ## In which capacity are you applying?
 
@@ -66,6 +70,20 @@ Select
 
 *Describe your project in a few sentences (you'll have the chance to go into more detail in the long form). If it's already underway, provide links to any existing published work
 
+The DGSF project is developing an open and participatory framework to re-define how organizations assess their alignment with Decentralized Autonomous Organizations (DAOs). At the heart of the DGSF project lies our tool, the DAO Index.
+
+The key features of the DAO Index include:
+
+- **Standardized Principles**: Offering a unified set of principles and language, DGSF enables clear measurement and reporting of an organization's alignment with DAO models.
+    
+- **Questionnaire**: As a practical application of DGSF, the DAO Index operationalizes these principles into a user-friendly tool, bridging the gap between theoretical understanding and real-world implementation of decentralized governance.
+
+You can learn more about the DGSF project here in our grant for the Metagov Research Round: https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-26. 
+
+Pitchdeck: https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=sharing.
+
+DAO Index dashboard to explore the DAO Index ratings and data repository: https://joan816.softr.app/.
+
 ## Proposal
 
 *Attach a PDF proposal. An proposal template is available [here](https://notes.ethereum.org/@YlnZmB-mQ9ah8neq5cLDDg/Grant_Proposal_template)
@@ -78,10 +96,10 @@ Upload proposal
 Click here or drag file to this box.
 
 ### [Example Grant Proposal Outline](https://notes.ethereum.org/@drigolvc/Grant_Proposal_template)
-Project Abstract
+#### Project Abstract
 In 3-5 sentences what problem are you trying to solve? (The project abstract may be used for for the winners announcement.)
 
-Objectives
+#### Objectives
 What are you hoping to accomplish with this grant? How do you define and measure success for this project?
 
 Outcomes
