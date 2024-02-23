@@ -71,7 +71,7 @@ The intended impact of the DGSF project is to:
 - provide coherence on DAOs and DAO design by bridging academics, industry members, and the public together to ideate on DAOs
 - encourage and recognize DAO operators for implementing DAO best practices and adhering to the DAO Index principles
 - provide guidance on how to align an organization with DAO design principles
-- provide a ranking and monitorinf platform for DAO design, to encourage adherence to principles for better DAO design.
+- provide a ranking and monitoring platform for DAO design, to encourage adherence to principles for better DAO design.
 - provide a standard for comparing and benchmarking DAO design and governance
 - provide a shared forum for dialogue or discussions on DAO research and practice
 - overcome transparency poverty in DAOs
