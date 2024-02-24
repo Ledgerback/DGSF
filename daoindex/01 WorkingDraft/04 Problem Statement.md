@@ -103,7 +103,7 @@ We term this problem the *DAO Alignment problem*.
 > DAO Alignment Problem: The goal of aligning DAO practices with DAO expecations (or values-based expectations)
 
 
-> DAO Alignment Problem: The goal of aligning DAO practices with expectations derived from our vision of DAOs
+> DAO Alignment Problem: The goal of aligning real-world DAO practices with  our vision of DAOs (through values-based expectations)
 
 
 The DAO alignment problem is the root of these additional problems plaguing DAOs (or real-world issues plaguing DAOs or issues plaguing DAOs, stemming from alignment problem) or is caused by the following issues:
@@ -133,9 +133,12 @@ We belive these issues stem from the expectations of DAOs OD, including more equ
 ### table on expectations v. reality
 
 | expectations | reality |
-| ---: | ---- |
-|  |  |
+| -----------: | ------- |
+|              |         |
 
+possibly re-do section like NGLI paper, talking about what values should point to, and how current reality does nto reflect that.
+
+- somewhat doing that by mentioning OD goal in earleir section, and then describing some of the issues (we believe) lead to misalignment
 ## Transparency poverty (any need to elaborate on the problems?)
 
 > **Insufficient Tools for Transparency**: There is a noticeable lack of comprehensive tools capable of providing clear, transparent operations within DAOs. This void hinders both the internal efficiency of DAOs and the public's ability to fully comprehend their mechanisms.

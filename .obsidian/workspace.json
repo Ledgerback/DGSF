@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grants/Arbitrum.md",
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grants/Arbitrum.md",
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grants/Arbitrum.md",
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grants/Arbitrum.md"
+                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md"
               }
             }
           }
@@ -157,21 +156,21 @@
   },
   "active": "1edb256743ca6b74",
   "lastOpenFiles": [
-    "Diagrams and Tables/Diagrams.md",
-    "Diagrams and Tables",
+    "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
-    "Grants/Metagov Grant Application.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
+    "Grants/Metagov Grant Application.md",
+    "Diagrams and Tables/Diagrams.md",
+    "Grants/Arbitrum.md",
+    "Diagrams and Tables",
+    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
     "daoindex/01 WorkingDraft/07 Findings.md",
-    "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "daoindex/01 WorkingDraft/02 Contextual Background.md",
     "Grants/Ethereum Academic Grants.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
-    "Grants/Arbitrum.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
     "Grants/Grants.md",
     "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
