@@ -1,2 +1,2 @@
-- [Data Structure](https://www.canva.com/design/DAF9iTUWBBE/yJEUeouv1CEuNk-R_FgyqQ/edit?utm_content=DAF9iTUWBBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Model](https://www.canva.com/design/DAF9iSqaQHA/aQxwM7ee9ckD-4vPFgckFA/edit?utm_content=DAF9iSqaQHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Canva_Data Structure](https://www.canva.com/design/DAF9iTUWBBE/yJEUeouv1CEuNk-R_FgyqQ/edit?utm_content=DAF9iTUWBBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Canva_Model](https://www.canva.com/design/DAF9iSqaQHA/aQxwM7ee9ckD-4vPFgckFA/edit?utm_content=DAF9iSqaQHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

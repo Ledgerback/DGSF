@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "Grants/ESP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "Grants/ESP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+                "file": "Grants/ESP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md"
+                "file": "Grants/ESP.md"
               }
             }
           }
@@ -156,12 +156,14 @@
   },
   "active": "1edb256743ca6b74",
   "lastOpenFiles": [
-    "daoindex/01 WorkingDraft/06 Methods.md",
+    "Grants/Ethereum Academic Grants.md",
+    "Grants/ESP.md",
+    "Grants/Arbitrum.md",
+    "Diagrams and Tables/Diagrams.md",
     "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
+    "daoindex/01 WorkingDraft/06 Methods.md",
     "daoindex/01 WorkingDraft/04 Problem Statement.md",
     "Grants/Metagov Grant Application.md",
-    "Diagrams and Tables/Diagrams.md",
-    "Grants/Arbitrum.md",
     "Diagrams and Tables",
     "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
@@ -169,7 +171,6 @@
     "daoindex/01 WorkingDraft/08 Discussion.md",
     "daoindex/01 WorkingDraft/03 Theoretical Background.md",
     "daoindex/01 WorkingDraft/02 Contextual Background.md",
-    "Grants/Ethereum Academic Grants.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
     "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
     "Grants/Grants.md",
