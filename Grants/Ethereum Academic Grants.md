@@ -44,11 +44,14 @@ Select
 
 *Name of your university program, team, or organization. If you do not have an organization name, write "N/A"
 
+Ledgerback Digital Commons Research Cooperative (or Distributed Governance Score Framework team)
 ## Country
 
 *Please indicate the country where the Institution/Lead Investigator is located
 
 Select
+
+United States
 
 ---
 
@@ -67,6 +70,8 @@ Select
 ## Project name
 
 *This should be a concise description of the title of your project
+
+Distributed Governance Score Framework (DGSF)
 
 ## Brief project summary
 
@@ -100,6 +105,8 @@ Click here or drag file to this box.
 ### [Example Grant Proposal Outline](https://notes.ethereum.org/@drigolvc/Grant_Proposal_template)
 #### Project Abstract
 In 3-5 sentences what problem are you trying to solve? (The project abstract may be used for for the winners announcement.)
+
+The lack of a normative framework (or standard for organizing (or operating and governing)) for DAOs.
 
 #### Objectives
 What are you hoping to accomplish with this grant? How do you define and measure success for this project?
@@ -155,6 +162,7 @@ Governance
 
 *Estimated grant amount. Ex: USD 50,000.
 
+USD $20,000
 ## How did you hear about this wave of grants?
 
 *

@@ -159,7 +159,7 @@ Even then, a transpaernt governance system is nto enough to prevent capture (or 
 
 > The governance of the protocol resembled an oligarchy before a democracy. Suggestions we made that aligned with the interests of holders of large amounts of governance tokens (namely VC firms) were taken in stride. As soon as this order was questioned though, our intent was seen as adversarial.
 
-Most DAOs today still do not provide data or information on the inner politics (e.g., voting blocs mentioned on DeepDAO) or stakeholder relationships of their members.[^9]
+Most DAOs today still do not provide data or information on the inner politics (e.g., voting blocs mentioned on DeepDAO) or stakeholder relationships of their members.[^9] Generally, most DAO-related documentation is woefully lacking, inhibiting a holistic understanding of a DAO.[^40]
 ## Weak Learning (may move under transparency poverty)
 > **Lack of Comprehensive DAO Practices Repository** (i.e., weak learning from TIAL): The DAO ecosystem is currently missing a centralized, well-curated repository that documents the spectrum of practices — both exemplary and suboptimal — within various DAOs. Such a resource is essential for learning, adaptation, and the avoidance of past pitfalls.
 
@@ -447,6 +447,7 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^15]: [Web3, co-ops and “community owned” whitewashing](https://medium.com/@peteratomic/web3-co-ops-and-community-owned-whitewashing-d4ec63ddf6d0)
 [^16]: [Copping out with a DAO](https://cryptoconsigliere.substack.com/p/copping-out-with-a-dao)
 [^17]: [How Plutocracy Undermines the DAO | HackerNoon](https://hackernoon.com/how-plutocracy-undermines-the-dao)
+[^18]: [Cooperatives: the fulfilment of big tech’s empty promises - jason wiener | p.c.](https://jrwiener.com/cooperatives-the-fulfilment-of-big-techs-empty-promises/)*
 [^20]: [Scaling Trust in DAOs: Trustware vs Socialware](https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE)
 [^21]: [DAO Evolution: Progress or Stagnation?](https://hackernoon.com/dao-evolution-progress-or-stagnation)
 [^22]: [Build Finance DAO suffers 'hostile governance takeover,' loses $470,000](https://www.theblockcrypto.com/post/134180/build-finance-dao-suffers-hostile-governance-takeover-loses-470000)
@@ -465,3 +466,4 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^37]: [A prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
 [^38]: [Steward Ownership, Illustrated](https://www.alternativeownershipadvisors.com/blog/illustrated)
 [^39]: [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
+[^40]: [Book Release: DAOs & Purpose-Driven Tokens](https://medium.com/token-kitchen/book-release-daos-purpose-driven-tokens-a9df559fd582) 

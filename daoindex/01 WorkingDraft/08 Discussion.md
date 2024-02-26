@@ -7,9 +7,9 @@ The institutional environment that DAOs operate in influences the organizational
 
 It also addresses the concerns about "decentralization theater" when it comes to governance in DAOs. And, potentially, it would be better for emerging DAOs to follow what everyone else is doing to appear legitimate, if the "what", such as the principles we propose here, are actually  contributing to better practice of decentralized governance in DAOs. 
 
-## Contributions 
+## Contributions (do we really need this section?)
 
-
+### Notes
  2. Benefits of standards (any need to mention this?)
 	1. [Using Information Privacy Standards to Build Governance Markets](https://www.youtube.com/watch?v=CQ_COiXwBcU)
 	2. [JoAnne Yates & Craig Murphy | The Importance of Standards — science better](https://www.scibetter.com/interview/standards)
@@ -21,8 +21,23 @@ It also addresses the concerns about "decentralization theater" when it comes to
 		1. principles will help DAOs develop more public goods and common and club goods? Or need proper constraints for public goods to be created, and principles can provide the constraitns.
 	6. Metagov
 
+### Outline
+
+1. Standards & Public Goods
+2. Institutional Legitimization
+### Prose
+
+Our contributions include:
+
+1. developing a public good (DAO Index resources and data repository) to support the Web3 ecosystem, and more specifically, the DAO ecosystem
+2. providing a set of principles that can act as good constraints for public goods production
+3. developing a standard for how DAOs should be organized, and mapping how current DAOs can work towards this standard
+4. standardizing DAO governance for the common good
+
+
 ## Comparison with Related Work
 
+### Notes
 1. Assessment Frameworks
    1. Brody, Ann. “DAOmeter: Our Research-Based Approach.” StableLab, 22 Mar. 2023, <https://www.stablelab.xyz/post/daometer-our-research-based-approach>.
    2. [When is a DAO decentralized?](https://arxiv.org/abs/2304.08160)
@@ -56,20 +71,33 @@ It also addresses the concerns about "decentralization theater" when it comes to
    10. DeFi Score
    11. Standard for Public Code
    12. Govbase
-   13. [The Collective DAO Archives: Governance Library](https://plaid-cement-e44.notion.site/The-Collective-DAO-Archives-Governance-Library-a58c6a2567c34636bc425ac97c7c9a79)
-   14. [Prime Rating](https://www.prime.xyz/rating-defi)
-   15. [SecurityScorecard](https://securityscorecard.com/security-rating)
-   16. [Fairwork](https://fair.work/en/fw/homepage)
-   17. [ISS Governance QualityScore](https://www.issgovernance.com/esg/ratings/governance-qualityscore/)
+   13. [Ostrom principles](https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/ostrom-design/index.html)
+   14. [The Collective DAO Archives: Governance Library](https://plaid-cement-e44.notion.site/The-Collective-DAO-Archives-Governance-Library-a58c6a2567c34636bc425ac97c7c9a79)
+   15. [Prime Rating](https://www.prime.xyz/rating-defi)
+   16. [SecurityScorecard](https://securityscorecard.com/security-rating)
+   17. [Fairwork](https://fair.work/en/fw/homepage)
+   18. [ISS Governance QualityScore](https://www.issgovernance.com/esg/ratings/governance-qualityscore/)
        1. <https://www.issgovernance.com//file/products/methodology-fundamentals-governance-qualityscore.pdf>
-   18. [The Global Index on Responsible AI](https://www.responsibleaiindex.org/)
-   19. [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
-   20. [CoinCheckup](https://coincheckup.com/)
-   21. [Bluechip](bluechip.org)
+   19. [The Global Index on Responsible AI](https://www.responsibleaiindex.org/)
+   20. [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
+   21. [CoinCheckup](https://coincheckup.com/)
+   22. [Bluechip](bluechip.org)
 
+### Outline
+
+1. DAO assessment framework comparison
+2. influence of non-DAO frameworks
+### Prose
+
+
+First, there are other DAO governance assessment frameworks, other than the DAO Index. 
+
+We compare these frameworks with our own, note the advantages and disadvantages of both (or similarities and dissimilarities of both), and how the DAO Index can possibly complement the other frameworks.
+
+Second, there are other assessment frameworks outside of the DAO ecosystem that influenced the development of the DAO Index.
 ## Assumptions and Limitations
 
-- 
+### Notes
  3. DAO definition (or DAO conceptualization)
 	1. Is there a need for a definition (or can we simply focus on practices (or can we define daos based on their practices rather than imaginary or conceptualizations)?
 	   1. [The Open Source Definition](https://opensource.org/osd/)
@@ -80,6 +108,8 @@ It also addresses the concerns about "decentralization theater" when it comes to
 	   6. [Data Cooperatives for Pandemic Times - Public Seminar](https://publicseminar.org/essays/data-cooperatives-for-pandemic-times/)
 		  1. “To avoid mission creep, data cooperatives need to adhere to the globally shared definition of what makes an organization a cooperative:”
 	2. Definition should be broad enough to allow others to more narrowly define DAOs for their local contexts?
+1. Outside-in view of assessment
+	1. Reliance on publicly available information
 
 ## Future Directions
 

@@ -92,7 +92,7 @@ To help DAOs (or organizations claiming to be DAOs)
 
 To help resolve the DAO misalignment problem, we have developed the DAO Index, a set of organizing principles (*need to define principles*), operationalized as a questionnaire.
 
-We promote adherence to the DAO Index principles through a ranking and monitoring platform, avialable as a web UI, of assessments completed with the DAO Index questionnaire.
+We promote adherence to the DAO Index principles through a ranking and monitoring platform, available as a web UI, of assessments completed with the DAO Index questionnaire.
 
 ### Values?
 
@@ -105,9 +105,9 @@ We promote adherence to the DAO Index principles through a ranking and monitorin
 Is it possible to derive values from the principles?
 
 #### Table
-The principles, as of Version 0.9, and the rationale for each principle, are described in the table below.
+The principles, as of Version 0.9, and the description and rationale for each principle, are described in the table below.
 
-[table]
+<iframe class="airtable-embed" src="https://airtable.com/embed/appD5ab5jcYsnDLeI/shrLk0QJoD6KrPdr0?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 #### Purposes
 The principles are meant to act as: 
 
@@ -119,15 +119,66 @@ The principles are meant to act as:
 6. a basis for developing organizing standards for DAOs that can eb adapted to fit more specific contexts
 7. a basis for determingin if an organization's practices and design is embracing DAO expectations
 8. a basis for badging an organization's practices and design as embracing DAO expectations or DAO-compliant, for individuals and organizations
+9. a set of ideals for how DAOs should operate
+9. a set of ideals for how DAOs should be designed
+
+### Discussion
+
+Can include references to how we describe principles (more a lit. synthesis?), and what we hope for them to do as a general guideline for DAOs. (pretty much, how we came up with principle)
+
+From here, maybe get the concepts and themes, and how they end up in principle (or how to group principles under themes).
+
+outline:
+
+1. principle description
+2. lit. that lead to principle
+
+Can say principles are like co-op principles? And refer to jen radebaugh article and dymitro dexe protcol guy's article in that there is a need for principles
+
+The principles are as a set of ideals (or simply key domains to assess DAOs?) for the operation of DAOs, similar to the Rochdale Principles for cooperatives.[^10]
+
+Currently, there is not a set of ideals (or meta-narrative logic) to guide the operation of DAOs, especially towards the OD goal, and for balancing the social and technical sides of DAOs.[^11] [^12]
+
+The principles generally emerged from observations of DAOs and the DAO ecosystem, detailed (or documented) in the academic and grey literature.
+
+In the following paragraphs, we describe the literature that led to us developing the principle (or ideal) for DAOs. **Or isntead, here is our snippets/quotes table descrbinnig the quotes we extracted from the literature, and the principles the quote was classified under.**
+
+#### BSP
+
+In general, most small tokenholders cannot meanignully (i.e., any actions they take are not determinative in the outcome of a decision) participate in a DAO.
+
+#### HCAG
+
+>The use of algorithmic (or automated) systems in governance should support human decision-making and humane practices, rather than replacing or removing humans from governance. In other words, preventing a DAO’s use of algorithmic decision-making to lead to the DAO becoming a panopticon or the downfall of the DAO.
+
+HCAG was included as a principle, as of Version 0.9, because we believe that DAOs should utilize algorithmic governance, in addition to social governance, in a way that is human-centered (i.e., reduces risks to DAO participants, acknowledging the subjectivity of algorithm development, and making algorithms more explainable given the DAO's objective for the algorithm).
+
+Our rationale is supported by or we based our rationale on 
+
+1. Is a "Decentralized Autonomous Organization" a Panopticon?: Algorithmic governance as creating and mitigating vulnerabilities in DAOs
+
+In *Is a "Decentralized Autonomous Organization" a Panopticon?: Algorithmic governance as creating and mitigating vulnerabilities in DAOs*, Kelsie Nabben discusses how algorithmic governance in DAOs can create and mitigate vulnerabilities in DAOs, with a case study on the use of algorithmic reputation in Gitcoin. 
+
+%% use this as template for lit. used for principles%%
+Nabben highlights ...
+
+Important themes or snippets from the paper include:
+
+1. > I argue that humans and algorithms are co-constitutive, and the difference between algorithmic governance in DAOs and existing digital platforms is that creation and amendment of the rules is participatory in nature.
+2. > This subjectivity makes setting the rules of decentralized governance systems akin to the practice of policy making, in which algorithms perform and execute instructions in the way that they are encoded to do so to conduct governance functions [29].
+3. 
+
 
 ### Questionnaire
-The questoinnaire operationalizes the principles, thereby providing a means for setting measurable expectations for DAO organizing (or design components for DAOs). 
+The questionnaire operationalizes the principles, thereby providing a means for setting measurable expectations for DAO organizing (or design components for DAOs). 
 
 The questoinnaire assesses adherence to the principles, through a set of indicators and questions for each principle.
 
 The indicator acts as a category or signal for identifying deisgn choices in DAOs, and the question is a specific inqiurity, generally following from the indicator, about a DAO's design choices (or design components).
 
-The questions help connect/bridge the vision of DAOs to real-world practices, by helping identifying design choices/components (and practices embedding those design choices) that can be implemented to reach the DAO vision, generally by deriving insights from DAO-related academic and grey literature.
+The questions help connect/bridge the vision of DAOs to real-world practices, by helping %%to interpret the principle,%% to identify design choices/components (and practices embedding those design choices) that can be implemented to reach the DAO vision, generally by deriving insights from DAO-related academic and grey literature.
+
+%%The questions serve as an interpretation of the principle?%%
 
 The questions are designed to be independent, such that the answer or response to one question does not depend on the answer to another question. 
 
@@ -161,11 +212,11 @@ As of Version 0.9, responses are scored using the following method:
 
 In development is a Gradio web UI (can link to Airtable via API) for assessing organizations using the questionnaire.
 
-#### User Guide
+#### User Guide (can remove or add to appendix)
 
 We developed a user guide to aid analysts (or auditors) in using the DAO Index questionnaire V0.8.
 
-#### Scorecard Toolkit (probably do not need to mention tools here)
+#### Scorecard Toolkit (probably do not need to mention tools here; mention in appendix) (possible to make as a Notion Template?)
 
 ### Dashboard
 
@@ -183,10 +234,11 @@ The data repository is a library of DAO Index-related datasets.
 
 The data repository includes the following datasets:
 
-1. Materials or Evidence dataset: 
-2. Assessments dataset:
-3. Scores dataset:
-4. Literature dataset:
+1. Materials or Evidence dataset: a dataset of materials cited in DAO Index assessments with the questionnaire
+2. Assessments dataset: a dataset of DAO Index assessments (or completed questionnaires)
+3. Scores dataset: a dataset of DAO Index scores
+4. Literature dataset: a dataset of academic and grey literature on DAOs (can remove)
+5. Practices dataset: a dataset covering DAO-related practices (may not need if we can just refer to Govbase)
 
 ### Open data and participatory design approach (maybe move to benefits section)
 
@@ -202,12 +254,13 @@ Generally, quesitons were generated from drawing insights from academic and/or g
 
 The DAO Index addresses the problem statement in the following ways:
 
-1. **Transparency Poverty**: The DAO Index addresses transparency poverty by making data from assessments open access, and unearthing important information, that should be publicly known, through the assessment process.
+1. **Transparency Poverty**: The DAO Index addresses transparency poverty by making data from assessments open access, and unearthing important information, that should be publicly known, through the assessment process. Additionaly, by highltiing the need for improvements in documentation for DAOs.
 2. **Lack of Measurable Expectations**: The DAO Index addresses the lack of measurable expecations by operaitonalziing the principles through the questonnaire, with most questions seeking or enforcing a design choice that can be met through a spectrum of practicies (some exceptions such as BSP-02 and BSP-01)
 3. **Conceptual Opacity**: The DAO Index addresses concepcutal opacity through the principles and the particiaptory design approach for the principles and questionnaire by encouraging collective input from members of academia, industry, and the public on the set of principles and how they are operationalized through the questionnaire
 4. **Regression to the code**: The DAO Index addresses regression to the code by highlighting design compoenetns for developing social infrastructure (or norms and practices), while balancing the use of Web3 technolgoy for optimizing operations and governance (primarily throguh the OT principle). In other words, balancing trustware with socialware.
+5. **Weak Learning**: The DAO Index addresses weak learning by providing open access (or open data approach) to the DAO Index data repository. Specifically, the best practices and literature datasets include best practices or good examples for DAOs to follow, while also tracking failures (cite other internet) and other incidents in the literature dataset. Furthermore, 
 
-## Benefits of approach
+## Benefits of our approach (or our solution)
 
 > [**They seek to provide enough structure and information to engender trust, guide investments, and incentivize alignment with shared principles and standards, but not so much structure and information that it creates artificial barriers to entry for these marketplaces.**](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit)
 
@@ -221,9 +274,14 @@ outline:
 6. conformant with, or flexible enough to accomodate, other DAO design thinking frameworks
 7. living standard
 8. translation of academic and grey literature into actionable recommendations (or actionable knowledge) (can also say increasing the impact of research and researchers here) 
-9. assessment process allows for feedback from external stakeholders (researchers, DAO operators, the public)
+9. assessment process allows for feedback from external stakeholders (researchers, DAO operators, the public) (can add to living standard)
 10. DAO Index can be adapted to fit more specific circumstances
 11. identify best practices (given a design choice?)
+12. foster [insittutional innovation](https://www2.deloitte.com/us/en/insights/topics/innovation/institutional-innovation.html) in self-governed organizations (or multi-agent systems) through use of Web3 tech?
+	1. or encourage insitutional innovation with web3 tech that reaches OD goal
+13. make aspirational goals transparent or apparent
+14. outside-in approach to questionnaire?
+
 
 ### principles, not rules
 
@@ -247,7 +305,7 @@ the principles are generally derived from groupin the questions, and from insigh
 
 
 ### scope is spectrum of activities
-The use of pass/fail questions (though, any question type can be used (refer to limesurvey)) is primarily to first understand the spectrum of design choices, given the principles, that are possible. The principles are ment to be general guidleines, thus allowing for organizations to choose *multiple means to achieve multiple ends* (or to account for organizational differences).
+The use of pass/fail questions (though, any question type can be used (refer to limesurvey)) is primarily to first understand the spectrum of design choices (or practices), given the principles, that are possible. The principles are ment to be general guidleines, thus allowing for organizations to choose *multiple/different means to achieve multiple/different ends* (or to account for organizational differences).
 
 Once we have a better understnading of the spectrum of activities that make sense for DAO design choices (or components), i.e., once we have acuqired enough qualitivies insights (cite vogshmir here), we can then create more precise questions, qualitative or quantaitative, in the future.
 
@@ -258,13 +316,52 @@ include applicable benefits or features from [NGLP_PrinciplesValues_WHITE PAPER]
 Individuals and insitutions (DAOs included) can see how DAOs are benchmarked, both against previous assessments and against other organizations.[^3]
 
 We seek to incentivize DAOs to further align their diesng chocies with the DAO Index over time, prmiarily through a rating and ranking system based on scores from the assessment process, and publishing promotional materials such as blog posts and badges or rating labels.[^3]
+
+### Open data
+
+Through an open data/access approach, we can provide transparency on how the DAO Index is developed and how DAOs are assessed with the DAO Index questionnaire.
+
+### Participatory Design (or Co-design)
+Through a particiaptory design approach, we can encourage and collate ideas and other feedback from members of academia, industry, and the public on the DAO Index principles, and how they are operationalized through the questionnaire.
 ### conformant with other design thinking frameworks
 
-The principles are also generally conformant with toher deisgn thinking frameworks, such as Kelsie Nabben's [Dao Design Patterns](https://kelsienabben.substack.com/p/dao-design-patterns), ...
-
-*and possibly Shermin Vogshmir's DAO design thinking framework*.[^4]
+The principles are also generally conformant with toher deisgn thinking frameworks, such as Kelsie Nabben's [Dao Design Patterns](https://kelsienabben.substack.com/p/dao-design-patterns), *and possibly Shermin Vogshmir's DAO design thinking framework*.[^4]
 
 [Exploring DAOs as a New Kind of Institution | by Joshua Tan | Commons Stack | Medium](https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4)**
+
+### Living Standard
+
+The DAO Index is meant to be a living standard, such that it evolves with advancements in academia and industry.
+
+The DAO Index will undergo periodic evaluation to determine necessary updates (additions, deletions, modifications), as determined by the core team (though, would like to have an advisory board here as well).
+
+Additionally, the assessment process allows for feedback from external stakeholders (researchers, DAO operators, the public) on assessments, providing valuable information on what updates to include and prioritize for new versions of the DAO Index.
+
+%% What else to include here?%%
+
+### translation of academic and grey literature into actionable recommendations (or actionable knowledge) (can also say increasing the impact of research and researchers here) 
+
+Our approach also amplifies or increases the impact of academic and grey literature by translating or deriving insights from the literature, and subseuqntly translating those insights into new question items in the DAO Index question pool, for consideration to be added to the DAO Index questionnaire. Thus, we turn the literature into actinoable knowledge or actionable recommendations, and monitor conformance or adherence to those recommendations.
+
+### DAO Index can be adapted to fit more specific circumstances
+
+The DAO Index questionnaire can be adapted by external stakeholders to meet their specific circumstances. In other words, external stakeholders can use the DAO Index principles and questionnaire as a base for developing their own values and principles, and measurement criteria.[^3]
+
+Additionally, if an external stakeholder only finds certain principles or questions relevant to their circumstances, they can focus on only those principles
+
+### identify best practices
+
+Through the DAO Index assessments, we can identify the practices of DAOs that adhere or do not adhere to the principles. Through that, we can catalogue DAO-related practices, and eventually surface best practices (or institutional improvements[^9])that can be used as a guide for DAO operators in improving or building their DAOs.
+
+### foster institutional innovation
+
+The DAO Index can encourage or will foster institutional innovation[^5]  with Web3 tech, aligned with the OD goal by ranking and monitoring adherence to the DAO Index principles, and highlighting best practices that pushes organizations closer to the OD goal.[^5] 
+
+Additionally, through the OT principle, we will search for ways to better balance the use of Web3 tech (or find how it can optimize governance and operations) while developing a strong social layer in DAOs[^8], so that the DAO does not simply become an excuse to play with Web3 tech[^6][^7], but an organization aligned with the OD goal, focused on achieving its mission and goals. 
+
+### make aspirational goals transparent or apparent
+
+Through the DAO Index principles and questionnaire, we can also make aspirational goals or visions for DAOs apparent or transparent, and see if it is possible to connect real-world practices of DAOs to these visions.
 
 ## References
 
@@ -272,3 +369,11 @@ The principles are also generally conformant with toher deisgn thinking framewor
 [^2]: [INTERNET FORESTRY: A PRINCIPLES APPROACH TO GOVERNANCE](https://archive.blogs.harvard.edu/publius/2008/05/14/de-vries-internet-forestry/)
 [^3]: [Encouraging Adherence to Values and Principles in Scholarly Publishing: A case for assessment strategies](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit)
 [^4]: [Book Release: DAOs & Purpose-Driven Tokens](https://medium.com/token-kitchen/book-release-daos-purpose-driven-tokens-a9df559fd582) (can also use for transparency poverty section)
+[^5]: [Institutional innovation](https://www2.deloitte.com/us/en/insights/topics/innovation/institutional-innovation.html) 
+[^6]:  [The Dissensus Protocol: Governing Differences in Online Peer Communities](https://www.frontiersin.org/articles/10.3389/fhumd.2021.641731/full)
+[^7]: [A prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+[^8]: [Scaling Trust in DAOs: Trustware vs Socialware](https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE)
+[^9]: [Social Security for Web3 Work: A Preliminary Specification of the Design and Deployment of Solidarity Primitives for DAO Contributors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596552)
+[^10]: [Rochdale Principles](https://en.wikipedia.org/wiki/Rochdale_Principles)
+[^11]: [Crypto's Three Body Problem](https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems)
+[^12]: [Cooperatives: the fulfilment of big tech’s empty promises - jason wiener | p.c.](https://jrwiener.com/cooperatives-the-fulfilment-of-big-techs-empty-promises/)
