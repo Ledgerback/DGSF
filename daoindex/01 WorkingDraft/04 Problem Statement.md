@@ -149,7 +149,7 @@ sub-issue:
 1. lack of tooling
 
 ### blockchains do not provide all information
-Even though blockchain and other Web3 tech provides transparent data regarding organizational activities, stored on-chain, this data only covers activities that are recorded on-chain.[^1] [^2] This misses the critical orgniazational activities that occur off-chain.[^1] [^2]  Though, it is easier to measure on-chain activity[^4] , this misses out on crucial data on DAOs, such as work practices and discussions, thus preventing a holistic view %%or analysis%% of DAOs and how they operate in the real world.[^1] [^2] [^3] [^20] Additionally, as mentioned in *[Web3 Work research report: The DAO contributor's perspective](https://otherinternet.substack.com/p/web3-work-research-report)*, this can lead to information asymmetries developing between different DAO stakeholder groups.[^2]
+Even though blockchain and other Web3 tech provides transparent data regarding organizational activities, stored on-chain, this data only covers activities that are recorded on-chain.[^1] [^2] This misses the critical orgniazational activities that occur off-chain.[^1] [^2]  Though, it is easier to measure on-chain activity[^4] , this misses out on crucial data on DAOs, such as work practices and discussions, thus preventing a holistic view %%or analysis%% of DAOs and how they operate in the real world.[^1] [^2] [^3] [^20][^41] Additionally, as mentioned in *[Web3 Work research report: The DAO contributor's perspective](https://otherinternet.substack.com/p/web3-work-research-report)*, this can lead to information asymmetries developing between different DAO stakeholder groups.[^2]
 
 > [T]he lack of transparency when it comes to work processes, and the information asymmetries between contributors and former core teams. These issues cannot be addressed solely by transparent technology.
 
@@ -467,3 +467,5 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^38]: [Steward Ownership, Illustrated](https://www.alternativeownershipadvisors.com/blog/illustrated)
 [^39]: [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 [^40]: [Book Release: DAOs & Purpose-Driven Tokens](https://medium.com/token-kitchen/book-release-daos-purpose-driven-tokens-a9df559fd582) 
+[^41]: [Governance Geeks Gathering Istanbul nerd_face - Workshop Summary](https://community.radworks.org/t/governance-geeks-gathering-istanbul-workshop-summary/3445)
+[^42]: [Governance Geeks Gathering - ETHDenver 2024](https://community.radworks.org/t/governance-geeks-gathering-istanbul-workshop-summary/3445/2)

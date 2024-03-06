@@ -8,7 +8,7 @@
 	- Generalizability 
 - How we conducted the assessment 
 - Literature Collection? %%sporadic at best. Not a systematic collection %%
-- %%can say overall method is: first step is to collect literature to find principles/ideals and posible questions, and second step is to use quesitonnaire to get info back like an exploratory case study%%
+- %%can say overall method is: first step is to collect literature to find principles/ideals (that we prefer?) and posible questions, and second step is to use quesitonnaire to get info back like an exploratory case study%%
 ## Data Analysis
 
 - Assessment Results Analysis

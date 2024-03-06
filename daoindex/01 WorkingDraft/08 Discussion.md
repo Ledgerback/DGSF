@@ -61,6 +61,7 @@ Our contributions include:
 	4. Distributed Cooperative Organization (DisCO)
 3. Other DAO standards initiatives
    1. [DAOstar](https://daostar.org/)
+   2. DAO Model Law by COALA
 4. Other Initiatives
    1. [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/)
    2. [Data Nutrition Project](https://datanutrition.org/)

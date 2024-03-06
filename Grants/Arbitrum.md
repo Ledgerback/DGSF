@@ -1,4 +1,4 @@
-# Find Arbitrum Funding
+# [Find Arbitrum Funding](https://web.miniextensions.com/3MgRpm3ON5v7ofkf6kHY?prefill_Program=Routed%20by%20Plurality%20Labs)
 
 
 
@@ -63,6 +63,15 @@ Our team is best positioned to lead this program because:
 What is the intended impact? This is the TLDR - and if approved, this segment will be posted to our Arbitrum forum by the Plurality Labs team.
 
 %%can use intended impact from the Gitcoin grant page?%%
+%% can refer to who we serve and any outcomes or changes in behavior%% 
+%%These are the changes in behaviour, decisions or knowledge that your activities or outputs will bring about. Tell us about the people or communities that will most benefit.%%
+
+The DGSF project will provide these general benefits:
+
+- cause change in norms around DAO operations towards transparency
+
+The DGSF project will provide benefits to the following stakeholder groups:
+
 
 
 The intended impact of the DGSF project is to:
@@ -75,8 +84,9 @@ The intended impact of the DGSF project is to:
 - provide a standard for comparing and benchmarking DAO design and governance
 - provide a shared forum for dialogue or discussions on DAO research and practice
 - overcome transparency poverty in DAOs
+- shape norms in the DAO ecosystem towards transparency, participation, and accountability
 - legitimize DAOs as an institutional form %%in the eyes of the public and regulators?%%
-- encourage experimentation with novel mechanisms for more equitable forms of ownership and democratic governance
+- encourage experimentation with novel mechanisms for more equitable forms of ownership and participatory forms of governance
 
 ```
 ### Short-Term Impact
@@ -178,7 +188,68 @@ To achieve our goals for the DGSF project, we will execute on:
 6. AI tools: Developing AI-based tools to assess DAOs with the DAO Index questionnaire, and a RAG to search and answer questions on the DAO Index data repository's materials database or archive
 
 
-
+- DGSF
+	- Goal:
+		- Draft a whitepaper describing the DAO Index to inform members of academia, industry, and the public about the project and its potential benefits
+	- Tasks:
+		- Iteratively draft whitepaper (first draft, second draft, etc.)
+		- Update literature collection and review literature on DAOs
+		- Get feedback from others
+		- Analyze data from assessments and conduct instrument checks
+	- Goal:
+		- Develop a dashboard for searching and filtering through the DAO Index data repository
+	- Tasks:
+		- Use a no-code website builder to iterate on the UX/UI design of the web-based UI (or front-end) for the dashboard
+		- Improve quality of datasets so that they are standardized
+		- Use a no-code website builder that can access data from Airtable
+		- Share website with collaborators to get feedback on UX/UI design
+	- Goal:
+		- Improve or ensure the robustness of the scientific approach or grounding of the DAO Index or provide a scientific basis for the DAO Index principles and questionnaire
+	- Tasks:
+		- Work with my partner, Xule Lin, a graduate student at Imperial College in London, UK, to find areas of improvment in the research process (or develop a more robust methodology) for the DAO Index principles and questionnaire
+		- Connect with additional researchers in academia and industry to get feedback on our DAO Index research-based approach
+	- Goal:
+		- Recruit volunteers to conduct assessments with the DAO Index
+	- Tasks:
+		- Develop a training module(s) and video tutorials to teach users how to use the DAO Index questionnaire
+		- Update the DAO Index user guide
+		- Publish volunteer roles on volunteering platforms and other jobs boards
+		- Collect feedback from students on how the training modules can be improved
+	- Goal:
+		- Documentation: Documenting our processes and artifacts so others can better learn from our work
+		- Write quality documentation for the DGSF project
+	- Tasks:
+		- Identify processes, materials, and artifacts that need new or updated documentation
+		- Draft documentation
+		- Collect feedback from users on how the documentation can be improved
+	- Goal:
+		- Archiving the DAO Index data repository into a long-term storage location
+	- Tasks:
+		- Learn how to use archival software to store materials in the Internet Archive and InterPlantery File System (IPFS)
+		- Develop software to archive data from the DAO Index data repository
+	- Goal:
+		- Improving the pitchdeck to better communicate the problem-solution statement and the benefits of the DGSF project to potential users, collabroators, and funders
+	- Tasks:
+		- Collect feedback from readers and collaborators on how the pitch deck can be improved
+		- Draft a new version of the DGSF pitch deck
+	- Goal:
+		- Share results of data analyses of the DAO Index data repository
+	- Tasks:
+		- Conduct data analyses on the datasets in the DAO Index data repository
+		- Share results of data analsyes in Jupyter Notebooks and online publications 
+	- Goal:
+		- Outreach and Collaboration (or Convening): Reaching out to members of the public, acadmia, and industry for feedback on the DAO Index questionnaire and assessments
+	- Tasks:
+		- Create a contact list of prominent members of the public, academia, and industry 
+		- schedule meetings with members contacted
+		- complete interview using structured interview format
+		- create a structued interview format
+	- Goal:
+		- Develop AI-based tools to automate DAO Index assessments and improve querying the DAO Index data repository
+	- Tasks:
+		- Learn how to use LLM-development frameworks like LangChain, LlamaIndex, and Haystack
+		- Develop software prototypes for Retrieval-Augmented Generation (RAG)
+		- Develop software prototypes for LLM-assisted, automated assessments of DAOs with the DAO Index questionnaire
 
 
 

@@ -226,6 +226,12 @@ The DAO Index assessment is a meticulous six-step procedure designed to ensure a
 
 As of Version 0.9, responses are scored using the following method:
 
+Every question has a maximum of 100 points.
+
+The score or overall score is produced from summing the points received for every question.
+
+Currently, there are no weights applied to scores per principle, nor are scores multiplied to have the same total %%need name of this technique%%.
+
 #### Gradio Web UI (can remove)
 
 In development is a Gradio web UI (can link to Airtable via API) for assessing organizations using the questionnaire.
@@ -268,6 +274,8 @@ Through a particiaptory design approach, we can encourage and collate ideas and 
 Initilaly, the questionnaire was devloped by generating questions then, grouping the questions based on a principle.
 
 Generally, quesitons were generated from drawing insights from academic and/or grey literature (from any discipline and industry vertical for DAOs), that better informed us of design choices for DAOs. Similarly for the principles. We selected questions to be added to the questionnaire, that we believe were good interpretations of the principles.
+
+%% can also say questions act as criteria for adhering to principles?%%
 
 
 We continued to see how applicable or useful the principles and the questions in the questionnaire were from conducting assessments (or exploratory case studies), and updating the DAO Index based on feedback from assessors, DAO operators we contacted about the assessment, and interviews with third parties.
