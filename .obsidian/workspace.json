@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
+                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
+                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md",
+                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/01 WorkingDraft/04 Problem Statement.md"
+                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md"
               }
             }
           }
@@ -156,32 +156,35 @@
   },
   "active": "1edb256743ca6b74",
   "lastOpenFiles": [
-    "daoindex/01 WorkingDraft/05 Our Response_DAO Index.md",
-    "daoindex/01 WorkingDraft/07 Findings.md",
-    "daoindex/01 WorkingDraft/04 Problem Statement.md",
-    "daoindex/01 WorkingDraft/08 Discussion.md",
-    "bluechip.org.md",
-    "daoindex/01 WorkingDraft/06 Methods.md",
-    "Grants/Arbitrum.md",
-    "daoindex/01 WorkingDraft/02 Contextual Background.md",
-    "daoindex/01 WorkingDraft/03.1 Rationale for Questions.md",
-    "daoindex/01 WorkingDraft/03 Theoretical Background.md",
-    "daoindex/01 WorkingDraft/10 Appendix.md",
-    "Grants/ESP.md",
-    "Grants/Grants.md",
-    "Grants/Ethereum Academic Grants.md",
-    "Diagrams and Tables/Diagrams.md",
-    "daoindex/00Porject Inbox/00 Outlines/V0.1 DAO Index Outline.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/01 Introduction.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/02 Contextual Background.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/07 Findings.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/08 Discussion.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/03 Theoretical Background.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/03.1 Rationale for Questions.md",
     "Grants/Metagov Grant Application.md",
-    "Diagrams and Tables",
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Notes on Our Response.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Metrics.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Notes on Problem Statement.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Note on Terms.md",
-    "daoindex/00Porject Inbox/01 Section Notes/Notes on DAO Index V0.9 ResponsesScorecards.md",
-    "daoindex/01 WorkingDraft/01 Introduction.md",
-    "daoindex/00Porject Inbox/01 Section Notes/DGSF-DAO_Index-Responses-V09-Format-Report-2024-02-02.md"
+    "Action Plans/Action Plan.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/V0.9 Working Draft.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/00 Table of Contents 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/10 Appendix 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/07 Findings 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/06 Methods 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/01 Introduction 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/08 Discussion 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/03 Theoretical Background 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/02 Contextual Background 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/04 Problem Statement 1.md",
+    "README.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/05 Our Response_DAO Index 1.md",
+    "bluechip.org.md",
+    "daoindex/Whitepaper/V1.0 Working Draft",
+    "daoindex/Whitepaper",
+    "Action Plans",
+    "Diagrams and Tables"
   ]
 }
