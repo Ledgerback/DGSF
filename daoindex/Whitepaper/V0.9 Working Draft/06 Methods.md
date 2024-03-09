@@ -1,6 +1,14 @@
 
 # Notes
 
+## Outline
+
+1. Literature Collection
+2. Literature Analysis
+3. Data Collection
+4. Data Analysis
+5. Questionnaire Development
+6. Questionnaire Analysis
 ## Data Collection 
 
 - Purposeful Sampling Strategy %%is this exploratory case study research? In addition to deriving insights from the literature for principles%%
@@ -17,6 +25,8 @@
 		- External: question independence
 	- Reliability checks
 		- Internal check: Inter-rater reliability
+	- consistency checks
+		- Internal consistency
 
 # Prose
 
@@ -28,9 +38,9 @@ We collected academic and grey literature to help identify %%or design principle
 
 We collected academic and grey literature to help identify questions (or criteria) relevant to assessing a DAO, including issues faced by DAOs in practice, and to identify principles for guidance on how DAOs should be operated and governed. 
 
-You can find our collection of literature for each principle, and the snippets (or highlighted quotes) from each article in the table below.
+You can find our collection of literature for each principle, and the snippets (or highlighted quotes) from each item in the table below.
 
-You can find our collection of literature for each question, and the snippets (or highlighted quotes) from each article in the table below.
+You can find our collection of literature for each question, and the snippets (or highlighted quotes) from each item in the table below.
 
 
 The DAO Index helps focus on 1) how to design DAOs, and 2) how to assess DAOs. 
@@ -72,9 +82,20 @@ We conducted the following analyses on the draft assessments (refer to Analysis 
 3. created a bar chart of each DAO's overall score
 3. created a bar chart of each DAO's scores per principle
 5. created a scores table for overall scores and scores per principle for all DAOs assessed
-6. count of questions where no information could be found to answer the question
-7. count of questions inapplicable to a DAO
-8. %%?determined areas of improvement for the questionnaire?%%
+6. created a table counting the number of questions where no information could be found to answer the question
+7. created a table counting the number of questions inapplicable to a DAO
 
+## Questionnaire Analysis
+We conducted the following analyses on the Questionnaire, as of Version 0.9:
+
+1. conducted Chronbach's Alpha to determine internal consistency
+2. conducted Principal Component Analysis (PCA) to determine the important factors[^1][^2]
+3. %%?determined areas of improvement for the questionnaire?%%
+
+
+# References
+
+[^1]: [Validating a Survey: What It Means, How to do It](https://mtab.com/blog/validating-a-survey-what-it-means-how-to-do-it)
+[^2]: [Establishing survey validity: A practical guide](https://files.eric.ed.gov/fulltext/EJ1272902.pdf)
 
  

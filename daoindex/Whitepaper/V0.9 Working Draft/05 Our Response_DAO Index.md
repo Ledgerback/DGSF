@@ -1,6 +1,9 @@
 ---
 date created: 2023-10-26 18:01
+date updated: 2024-03-08
 ---
+
+
 
 - Hypotheses/Conjectures/Questions (if needed)
 
@@ -106,6 +109,11 @@ Is it possible to derive values from the principles?
 
 #### Table
 The principles, as of Version 0.9, and the description and rationale for each principle, are described in the table below.
+
+![[02 Contextual Background#^9c443a]]
+[[07 Findings]]
+
+[[new note]]
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appD5ab5jcYsnDLeI/shrLk0QJoD6KrPdr0?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 #### Purposes
@@ -291,6 +299,10 @@ After developing a set of questions, we grouped or categorized the questions bas
 
 
 We continued to see how applicable or useful the principles and the questions in the questionnaire were from conducting assessments (or exploratory case studies), and updating the DAO Index principles and questionnaire, based on feedback from assessors, DAO operators we contacted about assessments, and interviews with third parties.
+
+We were able to establish face validity of the questionnaire after sharing the questionnaire with third parties%%need a citation?%%.
+
+We continue to pilot and test the questionnaire for relibarlity
 ## How DAO Index addresses the problem statement
 
 The DAO Index addresses the problem statement in the following ways:

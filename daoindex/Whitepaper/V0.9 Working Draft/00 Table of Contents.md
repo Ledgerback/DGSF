@@ -1,4 +1,4 @@
-1. Introduction (possibly remove, and just go with a summary?)
+1. [[01 Introduction|Introduction]] (possibly remove, and just go with a summary?)
 	1. ~~DAO definition~~
 	2. ~~OD goal of DAOs~~
 2. Problem Statement

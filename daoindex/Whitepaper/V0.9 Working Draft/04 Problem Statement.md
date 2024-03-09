@@ -444,6 +444,9 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^8]: [Crypto's Three Body Problem](https://otherinter.net/research/three-body-problem/#three-body-regulatory-problems)
 [^9]: [What Happened to the New Internet](https://www.bryanlehrer.com/entries/new-internet/)
 [^10]: [The ins and outs of decentralized autonomous organizations (DAOs) unraveling the definitions, characteristics, and emerging developments of DAOs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2096720923000180)
+
+^202456
+
 [^13]: [Make DeFi Decentralized (Again)](https://deficollective.org/blog/make-defi-decentralized-again/)
 [^14]: https://link.springer.com/article/10.1007/s12525-023-00659-y#Sec8
 [^15]: [Web3, co-ops and “community owned” whitewashing](https://medium.com/@peteratomic/web3-co-ops-and-community-owned-whitewashing-d4ec63ddf6d0)

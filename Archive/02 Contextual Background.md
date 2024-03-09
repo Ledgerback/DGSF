@@ -12,6 +12,8 @@ DAOs are characterized by more equitable forms of ownership [^5] for diverse sta
 
 [^1]: How we see algorithmic rules... (add more) only applicable to on-chain assets and does not require human interpretation. 
 
+^9c443a
+
 [^2]: design choice for DAOs to address practical concerns such as costs. 
 
 [^3]: Participants may or may not be bound by formal contracts because... Also, membership is flexible. 
