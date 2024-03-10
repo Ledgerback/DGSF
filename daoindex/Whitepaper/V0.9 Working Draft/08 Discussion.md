@@ -40,8 +40,19 @@ date created: 2023-10-26 17:46
 6. [cognitive interviews](https://files.eric.ed.gov/fulltext/EJ1272902.pdf)
 	1. have more interviews with others to see if they can understand the questions
 
+## Early Takeaways
+
+### Notes
+
+- Can mention generalizability?
 
 # Prose
+
+## Early Takeaways
+
+### Generalizability
+
+The DAO Index questionnaire was generally applicable to every DAO assessed.  At most, one to two questions were considered inapplicable in the draft assessments.
 
 ## Assumptions and Limitations
 Our current work on the DAO Index, Version 0.9, faced the following assumptions and limitations:

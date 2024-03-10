@@ -8,7 +8,7 @@
 Outline:
 
 4. Assessment Analysis Results
-6. Questionnaire Analysis Results
+6. Instrument Analysis Results
 ## Assessment Results (or Early Results) 
 
 Refer to analysis notebook and scoring tables. Can mention search difficulty in discussion section.
@@ -18,7 +18,5 @@ You can find our data analysis results in the Jupyter notebook [here](https://gi
 ### Generalizability
 
 The DAO Index questionnaire was generally applicable to every DAO assessed.  At most, one to two questions were considered inapplicable in the draft assessments.
-
-## search difficulty? (I do not think there is enough data here)
 
 

@@ -1,0 +1,14 @@
+- V0.9
+	- Goal:
+		- Draft a whitepaper describing the DAO Index to inform members of academia, industry, and society about the project and its potential benefits
+	- Tasks:
+		- Iteratively draft whitepaper (first draft, second draft, final draft)
+		- Update literature collection and review literature on DAOs
+		- Get feedback from others
+		- Analyze data from assessments and conduct instrument checks
+		- Collect feedback from readers and collaborators on how the whitepaper can be improved
+	- Goal:
+		- Share results of data analyses of the DAO Index data repository
+	- Tasks:
+		- Conduct data analyses on the datasets in the DAO Index data repository
+		- Share results of data analyses in Jupyter Notebooks and online publications 

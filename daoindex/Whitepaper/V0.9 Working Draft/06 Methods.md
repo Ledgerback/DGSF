@@ -38,12 +38,18 @@ We collected academic and grey literature to help identify %%or design principle
 
 We collected academic and grey literature to help identify questions (or criteria) relevant to assessing a DAO, including issues faced by DAOs in practice, and to identify principles for guidance on how DAOs should be operated and governed. 
 
-You can find our collection of literature for each principle, and the snippets (or highlighted quotes) from each item in the table below.
+You can find our collection of literature for each principle, and the snippets (or highlighted quotes) from each item in the table below. %%probably do not need snippets, just references. Same for questions.%%
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appD5ab5jcYsnDLeI/shrZMEsUi1czbtMRu?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 You can find our collection of literature for each question, and the snippets (or highlighted quotes) from each item in the table below.
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/appuRxexKu5bQM1Zc/shrafa5pNriYLpmaC?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-The DAO Index helps focus on 1) how to design DAOs, and 2) how to assess DAOs. 
+
+
+%%The DAO Index helps focus on 1) how to design DAOs, and 2) how to assess DAOs. %%
 
 
 
@@ -51,9 +57,9 @@ The DAO Index helps focus on 1) how to design DAOs, and 2) how to assess DAOs.
 
 %%may need to do a thematic analysis as well? Refer to https://deliverypdf.ssrn.com/delivery.php?ID=889127119117085066065107068115100104036009058007026037005120121009020093073088028087018123040104049123008009109030002085082097001008088038013095101067031090117023006005066077104094106084108000006011031118004006017108096026011073117102006079000114022074&EXT=pdf&INDEX=TRUE%%
 
-Then, from the literature, we extracted snippets (or highlights quotes) from the articles, which better informed us of criteria for evaluating DAOs and principles that would be appropriate and universal (mission-, size-, and profit-independent) for DAOs.
+%%Then, from the literature, we extracted snippets (or highlights quotes) from the articles, which better informed us of criteria for evaluating DAOs and principles that would be appropriate and universal (mission-, size-, and profit-independent) for DAOs.
 
-We identified which principles and questions to keep or drop in each version of the DAO Index, based on our exploratory case studies conducted with the questionnaire, to see if we could connect the principles with real-world practices (or see how and if the principles could be interpreted in the real world (and any patterns for doing so)).
+We identified which principles and questions to keep or drop in each version of the DAO Index, based on our exploratory case studies conducted with the questionnaire, to see if we could connect the principles with real-world practices (or see how and if the principles could be interpreted in the real world (and any patterns for doing so)).%%
 
 
 ## Data Collection
@@ -70,7 +76,10 @@ We selected eleven DAOs of varying ownership and governance structures, missions
 
 You can find a table of the DAOs and their characteristics from DeepDAO and [name of other data sources] below.
 
-[table]
+%%What characteristics to include?%%
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appLsl80hBlDlrT4m/shrt41xjcfiytpgyH?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 ## Data Analysis
 
@@ -85,7 +94,7 @@ We conducted the following analyses on the draft assessments (refer to Analysis 
 6. created a table counting the number of questions where no information could be found to answer the question
 7. created a table counting the number of questions inapplicable to a DAO
 
-## Questionnaire Analysis
+## Instrument (or Survey) Analysis
 We conducted the following analyses on the Questionnaire, as of Version 0.9:
 
 1. conducted Chronbach's Alpha to determine internal consistency

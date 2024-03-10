@@ -5,6 +5,7 @@
 3. Our Response
 5. Methods
 6. Findings
-7. ~~Discussion~~
-8. References
-9. Appendix
+7. Discussion
+8. Conclusion %%is this section needed?%%
+9. References
+10. Appendix

@@ -1,0 +1,62 @@
+- V1.0
+	- Goal:
+		- Improve the scientific-basis for the DAO Index methodology
+	- Tasks:
+		- Iteratively draft whitepaper (first draft, second draft, etc.)
+		- Update literature collection and review literature on DAOs
+		- Get feedback from others
+		- Analyze data from assessments and conduct instrument checks
+	- Goal:
+		- Develop a dashboard for searching and filtering through the DAO Index data repository
+	- Tasks:
+		- Use a no-code website builder to iterate on the UX/UI design of the web-based UI (or front-end) for the dashboard
+		- Improve quality of datasets so that they are standardized
+		- Use a no-code website builder that can access data from Airtable
+		- Share website with collaborators to get feedback on UX/UI design
+	- Goal:
+		- Improve or ensure the robustness of the scientific approach or grounding of the DAO Index or provide a scientific basis for the DAO Index principles and questionnaire
+	- Tasks:
+		- Work with my partner, Xule Lin, a graduate student at Imperial College in London, UK, to find areas of improvment in the research process (or develop a more robust methodology) for the DAO Index principles and questionnaire
+		- Connect with additional researchers in academia and industry to get feedback on our DAO Index research-based approach
+	- Goal:
+		- Recruit volunteers to conduct assessments with the DAO Index
+	- Tasks:
+		- Develop a training module(s) and video tutorials to teach users how to use the DAO Index questionnaire
+		- Update the DAO Index user guide
+		- Publish volunteer roles on volunteering platforms and other jobs boards
+		- Collect feedback from students on how the training modules can be improved
+	- Goal:
+		- Documentation: Documenting our processes and artifacts so others can better learn from our work
+		- Write quality documentation for the DGSF project
+	- Tasks:
+		- Identify processes, materials, and artifacts that need new or updated documentation
+		- Draft documentation
+		- Collect feedback from users on how the documentation can be improved
+	- Goal:
+		- Archiving the DAO Index data repository into a long-term storage location
+	- Tasks:
+		- Learn how to use archival software to store materials in the Internet Archive and InterPlantery File System (IPFS)
+		- Develop software to archive data from the DAO Index data repository
+	- Goal:
+		- Improving the pitchdeck to better communicate the problem-solution statement and the benefits of the DGSF project to potential users, collabroators, and funders
+	- Tasks:
+		- Collect feedback from readers and collaborators on how the pitch deck can be improved
+		- Draft a new version of the DGSF pitch deck
+	- Goal:
+		- Share results of data analyses of the DAO Index data repository
+	- Tasks:
+		- Conduct data analyses on the datasets in the DAO Index data repository
+		- Share results of data analsyes in Jupyter Notebooks and online publications 
+	- Goal:
+		- Outreach and Collaboration (or Convening): Reaching out to members of the public, acadmia, and industry for feedback on the DAO Index questionnaire and assessments
+	- Tasks:
+		- Create a contact list of prominent members of the public, academia, and industry 
+		- schedule meetings with members contacted
+		- complete interview using structured interview format
+		- create a structued interview format
+	- Goal:
+		- Develop AI-based tools to automate DAO Index assessments and improve querying the DAO Index data repository
+	- Tasks:
+		- Learn how to use LLM-development frameworks like LangChain, LlamaIndex, and Haystack
+		- Develop software prototypes for Retrieval-Augmented Generation (RAG)
+		- Develop software prototypes for LLM-assisted, automated assessments of DAOs with the DAO Index questionnaire

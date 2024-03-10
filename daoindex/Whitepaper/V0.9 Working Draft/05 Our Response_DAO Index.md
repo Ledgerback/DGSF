@@ -434,6 +434,8 @@ Through the DAO Index principles and questionnaire, we can incorporate qualitati
 
 ### form the basis for an info reporting standard (or DAO communication standard)
 
+### form the basis for a policy platform?
+
 ## References
 
 [^1]: [Principles](https://force11.org/fsci/post/principles/)

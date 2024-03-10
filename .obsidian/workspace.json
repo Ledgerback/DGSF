@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
+                "file": "Action Plans/Action Plan for V0.9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21270ec23faddaf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action Plans/Action Plan for V0.9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
+                "file": "Action Plans/Action Plan for V0.9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
+                "file": "Action Plans/Action Plan for V0.9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md"
+                "file": "Action Plans/Action Plan for V0.9.md"
               }
             }
           }
@@ -154,21 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1edb256743ca6b74",
+  "active": "21270ec23faddaf9",
   "lastOpenFiles": [
+    "Action Plans/Action Plan for V1.0.md",
+    "Action Plans/Action Plan for V0.9.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
     "daoindex/Whitepaper/V0.9 Working Draft/07 Findings.md",
-    "Action Plans/Action Plan V0.1.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
     "daoindex/Whitepaper/V0.9 Working Draft/08 Discussion.md",
     "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
     "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
     "daoindex/Whitepaper/V0.9 Working Draft/01 Introduction.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
     "Archive/03 Theoretical Background.md",
     "Archive/02 Contextual Background.md",
     "Archive/new note.md",
     "Archive",
-    "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
     "Untitled.canvas",
     "Diagrams and Tables/Diagrams.md",
     "daoindex/Whitepaper/V0.9 Working Draft/03.1 Rationale for Questions.md",
