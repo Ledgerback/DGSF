@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questionnaire/DAO_Index_V0.9.1.md",
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5024719238281
+    "width": 517.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "d7ed3b767ac443a6",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questionnaire/DAO_Index_V0.9.1.md",
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questionnaire/DAO_Index_V0.9.1.md",
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questionnaire/DAO_Index_V0.9.1.md"
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md"
               }
             }
           }
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +166,7 @@
   "active": "1edb256743ca6b74",
   "lastOpenFiles": [
     "Questionnaire/DAO_Index_V0.9.md",
-    "Questionnaire/DAO_Index_V0.9.1.md",
+    "Questionnaire/DAO_Index_V0.9.1_XL.md",
     "Action Plans/Action Plan for V0.9.md",
     "Spaces/Home/Home.md",
     "daoindex/00Porject Inbox/01 Section Notes/Note on Funding.md",
