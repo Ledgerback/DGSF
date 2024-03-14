@@ -23,8 +23,11 @@ This whitepaper details our current mental model for the DAO Index, our findings
 
 Through our initial work, we hope to shed light on current DAO practices and pain points (for DAO operators, academic and independent researchers, and the public) (or for industry, academia, and society), and invite others to learn and build upon our work.
 
+## Background
 ### DAO Definition
 For the purposes of our work, we define Decentralized Autonomous Organizations (DAOs) as ==less-hierarchical== %%maybe go with heterarchical?%% communities of stakeholders who collectively govern and coordinate through a combination of algorithmic [^1] ==(citation?)== and social governance mechanisms [^2].   
+
+%%alternatively, organizations driven by an ideology of self-governance through technological infrastructure%%
 
 Stakeholders voluntarily [^3] contribute to shared resources and agree on a set of rules governing these resources to pursue common goals. They collectively define, divide, and allocate tasks and rewards to pursue effective integration of effort [^4].
 

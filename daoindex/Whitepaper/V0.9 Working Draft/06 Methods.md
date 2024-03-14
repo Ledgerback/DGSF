@@ -34,7 +34,7 @@
 
 %%may need a more formal method for literature review%%
 
-We collected academic and grey literature to help identify %%or design principles%% principles  %%or search literature to find docs on principles and pick appropriate ones from there? Or for how to develop design principles?%% for how DAOs should be designed (or operated and governed) %%or expected characteristics%%. Additionally, to identify current issues facing DAOs.
+We collected academic and grey literature to help identify %%or design principles%% principles  %%or search literature to find docs on principles and pick appropriate ones from there? Or for how to develop design principles?%% for how DAOs should be designed (or operated and governed) %%or expected characteristics%%, and current issues facing DAOs.
 
 We collected academic and grey literature to help identify questions (or criteria) relevant to assessing a DAO, including issues faced by DAOs in practice, and to identify principles for guidance on how DAOs should be operated and governed. 
 
@@ -65,6 +65,8 @@ We identified which principles and questions to keep or drop in each version of 
 ## Data Collection
 
 We conducted eleven assessments with the DAO Index Questionnaire Version 0.9. We generated our responses by answering each question in the questionnaire for each DAO evaluated (i.e., conducting a draft assessment).
+
+Assessments were conducted between the end of 2022 and 2023.
 
 We based our responses on publicly available information provided directly (or primary source) by the DAO evaluated, or indirectly by a third party source (secondary source).
 

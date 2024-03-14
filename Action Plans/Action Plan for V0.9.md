@@ -12,3 +12,4 @@
 	- Tasks:
 		- Conduct data analyses on the datasets in the DAO Index data repository
 		- Share results of data analyses in Jupyter Notebooks and online publications 
+		- Create an interactive web UI for interacting with datasets
