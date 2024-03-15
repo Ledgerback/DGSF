@@ -2,5 +2,6 @@
   "markdown-prettifier",
   "make-md",
   "obsidian-languagetool-plugin",
-  "zotlit"
+  "zotlit",
+  "obsidian-linter"
 ]
