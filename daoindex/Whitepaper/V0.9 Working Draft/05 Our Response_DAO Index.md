@@ -211,7 +211,24 @@ The questions are designed to be independent, such that the answer or response t
 
 #### Questionnaire V0.9
 
-You can find the Questionnaire, as of Version 0.9 (V0.9), in the table below, including the rationale for each question.
+You can find the Questionnaire %%can change name to DAO Index Assessment Instrument (DIAI)%%, as of Version 0.9 (V0.9), in the table below, including the rationale for each question.
+
+The main goal of the DIAI is to assess adherence to the principles (i.e., measuring the gap between real world practices and our idealized version of DAOs).
+
+The questionnaire is comprised of forty-five (45) questions, with the following item breakdown per principle.
+
+- BSP: 13
+- PDC: 11
+- CPB: 2
+- D2D: 2
+- IDT: 7
+- CBC: 3
+- OT: 4
+- HCAG: 3
+
+The data dictionary for the questionnaire is described in the table below.
+
+
 
 #### Glossary
 
@@ -221,7 +238,7 @@ You can find the definitions for terms used in the questionnaire in the table be
 
 #### Assessment Process
 
-The DAO Index assessment is a meticulous six-step procedure designed to ensure accuracy, transparency, and active participation from the DAO community. The process unfolds as follows:
+Our intended process for the DAO Index assessment is a meticulous six-step procedure designed to ensure accuracy, transparency, and active participation from the DAO community. The process unfolds as follows:
 
 1. **Initial Draft Assessment**: Utilizing the DAO Index Questionnaire, we conduct an initial assessment based on publicly available information about a DAO. This stage forms the foundation of our analysis.
 2. **Draft Publication**: The initial assessment findings are then published on the DAO Index Dashboard. Additionally, a comprehensive write-up detailing this preliminary evaluation is made available for public viewing and feedback.
@@ -233,6 +250,22 @@ The DAO Index assessment is a meticulous six-step procedure designed to ensure a
 #### Scoring
 
 As of Version 0.9, responses are scored using the following method:
+
+The scoring breakdown (Plain English response = corresponding numerical score) is described below.
+
+- Yes = 100
+- No = 0
+- Partial = 50
+- N/A = 0
+- Does not answer = 0
+
+[If a DAO positively answers a question, then a _Yes_ is appropriate. If a DAO negatively answers a question, then a _No_ is appropriate. A _partial_ is appropriate when a DAO positively answers the question, but the practices do not fully answer the question. _N/A_ is appropriate when the question does not apply to that particular DAO. ](https://medium.com/@charles.adjovu/dao-index-user-guide-cf44f5998f40)
+
+_Does not answer_ is appropriate when the question is applicable to the particular DAO, but the DAO does not provide enough information to positively or negatively answer the question.
+
+The questionnaire penalizes DAO if there is not enough information provided to answer the question (refer to _Does not answer_).
+
+The score is calculated by simply adding the points accrued for each question, and dividing by the total number of points for each applicable question (i.e., 100 multiplied by the number of applicable questions).
 
 Every question has a maximum of 100 points.
 
@@ -375,8 +408,21 @@ We seek to incentivize DAOs to further align their diesng chocies with the DAO I
 Through an open data/access approach, we can provide transparency on how the DAO Index is developed and how DAOs are assessed with the DAO Index questionnaire.
 
 ### Participatory Design (or Co-design)
-Through a particiaptory design approach, we can encourage and collate ideas and other feedback from members of academia, industry, and the public on the DAO Index principles, and how they are operationalized through the questionnaire.
+Through a participatory design approach, we can encourage and collate ideas and other feedback from members of academia, industry, and the public on the DAO Index principles, and how they are operationalized through the questionnaire.
 ### conformant with other design thinking frameworks
+
+We expect the principles to generally map to other design thinking frameworks on DAOs. 
+
+For example, the table below shows how the principles, operationalized through the questionnaire, map to Kelsie Nabben's [Dao Design Patterns](https://kelsienabben.substack.com/p/dao-design-patterns).
+
+[table]
+
+Also, see how our principles map to Tyler Sullberg's article on design patterns for internet communities.
+
+
+Unfortunately, we do not have a one-to-one mapping, but the principles are able to cover most of the design components.
+
+
 
 The principles are also generally conformant with toher deisgn thinking frameworks, such as Kelsie Nabben's [Dao Design Patterns](https://kelsienabben.substack.com/p/dao-design-patterns), *and possibly Shermin Vogshmir's DAO design thinking framework*.[^4]
 

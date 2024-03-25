@@ -46,6 +46,8 @@ date created: 2023-10-26 17:46
 
 - Can mention generalizability?
 
+## Thoughts from Piloting Questionnaire
+
 # Prose
 
 ## Early Takeaways
@@ -61,9 +63,13 @@ Our current work on the DAO Index, Version 0.9, faced the following assumptions 
 2. The assessment takes an outside-in approach to assessing DAOs. Thus, we do not have complete information about the internal workings of the DAO, but only the publicly available information we can find provided by the DAO directly, or indirectly through third parties.
 3. The principles we selected may not be representative of ideals for how a DAO should be operated and governed. In other words, our principles may not reflect the views of members of the DAO ecosystem, the public, and academia.
 4. Our assessments were limited by the lack of standardized documentation, such as the Securities and Exchange Commission (SEC)'s standard for Form K-10. The lack of standardized documentation limited our efforts to identify potential sources for responses.
-5. Our dataset of eleven assessments is a small dataset, that makes it difficult to truly generalize the results of our assessments. 
+5. Our dataset of eleven assessments is a small dataset, that makes it difficult to truly generalize the results of our assessments, and to conduct instrument analysis on the DIAI.
 6. Our methodology suffered from a lack of systematic research approach to developing the principles and questionnaire, which may have led to compromised results or the inability to interpret our results to determine reasonable outcomes.
 7. Our scoring method may be inadequate for benchmarking and comparing DAOs%%need more prose here%%.
+8. Some of the questions may not be appropriate for their principle.
+9. As assessors, our own set of working knowledge may have hindered us from truly understanding how to interpret a question or understand certain materials in formulating a response to a question.
+10. Link rot can also be an issue
+11. Some of the questions (e.g., Banzhaf Power Index), will make more sens if measured periodically (or monitored constantly), rather than solely when we conduct an assessment
 
 ## Future Directions
 
@@ -73,8 +79,25 @@ Here, future work on the project will include:
 3. Developing a more scientifically-grounded/robust methodology for identifying and selecting the principles and questions for the questionnaire, and for scoring assessments
 3. Developing a more scientifically-grounded/robust methodology  for scoring assessments
 4. Improving our dashboard's UI/UX to make it easier to identify relevant resources and better use the ratings
-6. ~~Conducting test re-test reliability checks~~
+5. Map the principles to organizational design dimensions
+6. Compare the DAO Index with other DAO assessment frameworks
+7. ~~Conducting test re-test reliability checks~~
 
+## Thoughts from Piloting the Questionnaire
+
+From piloting or testing out the questionnaire for DAO Index V0.9, we gained valuable feedback and learned many lessons.
+
+Regarding questions
+
+We found it difficult to respond to the HCAG questions, primarily because of how we constructed the questions. In other words, the questions lacked enough clarity to meaningfully respond, given the evidence we found. Thus, we realized we need to improve the clarity of the questions.
+
+Additionally, that we may need more questions under HCAG to truly understand how this principle can guide the development and design of DAOs.
+
+We received an interesting note from [guy from MakerDAO] on the use of the Banzhaf Power Index for BSP-02. [name] comment was that BSP-02 should take into account quorum settings for different voting scenarios. We did not consider this situation originally when we created the question, as we assumed that DAOs would use a single voting setting for their decision-making.
+
+We found that the scoring method for responses was too harsh on DAOs. Though, we do seek to promote design structures and practices that are aligned with the ideal of DAOs, we were too harsh on DAOs that answered *No* to a question (i.e., received zero points), because if we can find information to respond to the question, that also promotes our goal of improving transparency. Thus, we realized that we need to update our scoring (or numeric scoring) for responses. 
+
+We found that certain questions, such as [question-number] were likely compound questions (i.e., the question sought multiple answers). Thus, we realized that we need to split these questions into new questions in future versions.
 
 # References
 

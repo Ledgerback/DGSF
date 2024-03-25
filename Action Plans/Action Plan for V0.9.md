@@ -13,3 +13,10 @@
 		- Conduct data analyses on the datasets in the DAO Index data repository
 		- Share results of data analyses in Jupyter Notebooks and online publications 
 		- Create an interactive web UI for interacting with datasets
+	- Goal:
+		- Archive materials from assessments
+	- Tasks:
+		- Learn Webscraping software
+		- Scrape materials
+		- Store scraped materials in accessible file formats (e.g., CSV)
+		- Archive materials into a long-term storage location

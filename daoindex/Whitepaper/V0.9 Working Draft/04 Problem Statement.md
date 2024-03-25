@@ -229,7 +229,7 @@ A lack of measurable expecations for DAO organizing practices (or OD) inhibits t
 1. the DAO ecosystem to learn from past incidents,
 2. detemrining when an organization is organziing or aligning itself with the DAO cocnept,
 
-This can also lead to value drift, because a lack of a meta-narrative logic[^8] to align OD inherently leads to any organization claiming to be a DAO, without necessarily for purposes that help Web3?
+This can also lead to value drift, because a lack of a meta-normative logic[^8] to align OD inherently leads to any organization claiming to be a DAO, without necessarily for purposes that help Web3?
 
 As mentioned by Bryan Lherer in *What Happened to the New Internet?*, the lack of measurable expecations for how Uniswap DAO should have organized made it overly difficult to advise Uniswap to engage in acts that may have gone against ivnestor interest, but supported the interests of other stakeholder groups.[^9]
 
@@ -243,7 +243,7 @@ The lack of measurable expecations (or is this weak learning?) also inhibits lea
 
 > Over time, we expect DAOs to transition elements of socialware into trustware and expand the code-at-the-center of their organization, but this will take time, technological advancements, trial and error, and continued mistakes and iterations.
 
-And even when empirical data is presented to show issues inthe DAO ecosystem, very rarely does any signifcant change occur in DAO practices.[^23] Without any measureable expecations or standards of organizing practices, backed by empirical data, there is little reason for DAO practices to systemtically change at an ecosystem level.
+And even when empirical data is presented to show issues inthe DAO ecosystem, very rarely does any signifcant change occur in DAO practices.[^23] Without any measureable expecations or standards of organizing practices, backed by empirical data, there is little reason for DAO practices to systemtically change at an ecosystem level.[^50]
 
 This lack of measurable expectations may also be a reason why DAOs generally default to conventional ownership strcutures (though, this could also be for funding), rather than experimetning with altenrative ownership structures.
 
@@ -474,3 +474,4 @@ Also mention [https://hai.stanford.edu/news/evolution-algorithm-lessons-kidney-a
 [^40]: [Book Release: DAOs & Purpose-Driven Tokens](https://medium.com/token-kitchen/book-release-daos-purpose-driven-tokens-a9df559fd582) 
 [^41]: [Governance Geeks Gathering Istanbul nerd_face - Workshop Summary](https://community.radworks.org/t/governance-geeks-gathering-istanbul-workshop-summary/3445)
 [^42]: [Governance Geeks Gathering - ETHDenver 2024](https://community.radworks.org/t/governance-geeks-gathering-istanbul-workshop-summary/3445/2)
+[^50]: [Crypto’s Section 230: A Policy Platform for DAOs](https://ntnsndr.mirror.xyz/T9gvlehg8vsuPHF_REIvxbkOZytVUZqTE4b-JoTgR_w)

@@ -59,7 +59,7 @@ We define the Organizational Design (OD) goal of DAOs as:
 3. optimizing use of blockchain and other Web3 tech, and other computational tools, to assist or support governance and operations in organizations[^2] [^4], and to help organizations implement more equitable forms of ownership and democratic forms of governance
 4. govern socio-technical systems through Nearly Decentralized Organizations (NDOs)[^3]
 5. balance human-machine governance of organizations (or [balance on- and off-chain rules and logic for organizations](https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE)), and further the resilience of [NDOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959703)
-6. meta-narrative logic (values and principles), to ensure use of Web3 tech does not [re-invent issues with Big Tech and surveillance capitalism](https://p2pmodels.eu/wp-content/uploads/whitepaper_p2pmodels.pdf)[^1]
+6. meta-narrative logic (values and principles), to ensure use of Web3 tech does not [re-invent issues with Big Tech and surveillance capitalism](https://p2pmodels.eu/wp-content/uploads/whitepaper_p2pmodels.pdf)[^1] %%or alternative institutional model for technology governance%%
 7. take positives from corporate governance and self-management organizations, augment with Web3 tech, and help organizations implement more equitable forms of ownership and democratic forms of governance
 
 %%@charles: What do you think about the second paragraph? More of the broader tech ecosystem goal, reflecting Web3's (from Ethereum's viewpoint and even Fediverse (e.g., Mastodon)) broader goal?%%

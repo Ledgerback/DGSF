@@ -9,6 +9,8 @@
 		- Develop a better version of the DAO Index questionnaire
 	- Tasks:
 		- Determine questions to add, modify, or remove from the V0.9 questionnaire
+		- Review questions from Questionnaire V0.9
+		- Review responses from assessments with Questionnaire V0.9
 	- Goal:
 		- Develop a dashboard for searching and filtering through the DAO Index data repository
 	- Tasks:
@@ -50,10 +52,15 @@
 		- Create a contact list of prominent members of the public, academia, and industry 
 		- schedule meetings with members contacted
 		- complete interview using structured interview format
-		- create a structued interview format
+		- create a structured interview format
 	- Goal:
 		- Develop AI-based tools to automate DAO Index assessments and improve querying the DAO Index data repository
 	- Tasks:
 		- Learn how to use LLM-development frameworks like LangChain, LlamaIndex, and Haystack
 		- Develop software prototypes for Retrieval-Augmented Generation (RAG)
 		- Develop software prototypes for LLM-assisted, automated assessments of DAOs with the DAO Index questionnaire
+	- Goal:
+		- Migrate databases from Airtable to NocoDB
+	- Tasks:
+		- Create corresponding bases in NocoDB
+		- Download and edit bases to ingest into bases on NocoDB
