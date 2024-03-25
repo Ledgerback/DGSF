@@ -42,3 +42,8 @@ Spaces/Home/Home.md
 .obsidian/plugins/make-md/Spaces.mdb
 .obsidian/plugins/make-md/styles.css
 .obsidian/workspace.json
+.DS_Store
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
+.obsidian/plugins/make-md/Spaces.mdb
+.obsidian/workspace.json

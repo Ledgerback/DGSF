@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grants/Metagov Grant Application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ede5bccc02fa48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grants/ESP--Small_Grants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c64839cc8a21485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grants/HyperDeSci Grant Discourse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21270ec23faddaf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5634f2fbed89af12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +74,7 @@
             }
           },
           {
-            "id": "6156fd2bffb317aa",
+            "id": "25f431d7dcac385a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grants/HyperDeSci Grant Discourse.md",
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grants/HyperDeSci Grant Discourse.md",
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grants/HyperDeSci Grant Discourse.md"
+                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md"
               }
             }
           }
@@ -199,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,39 +163,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c64839cc8a21485",
+  "active": "1edb256743ca6b74",
   "lastOpenFiles": [
-    "Grants/ESP--Small_Grants.md",
-    "Grants/HyperDeSci Grant Discourse.md",
-    "Grants/Artizen Fund.md",
-    "Grants/Metagov Grant Application.md",
-    "Grants/Ethereum Foundation Ecosystem Support Program--Small Grants.md",
-    "Grants/Ethereum Academic Grants.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/08 Discussion.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/07 Findings.md",
-    "Action Plans/Action Plan for V0.9.md",
+    "Questionnaire/Untitled.canvas",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/01 Introduction.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
-    "daoindex/00Porject Inbox/02 Next Steps/Example Whitepapers.md",
-    "Action Plans/Action Plan for V1.0.md",
-    "Images/DGSF-DAO_Index-Analysis-Bar_Chart-DAOPointsPerPrin-Human-centered Algorithmic Governance-2024-03-15.png",
-    "Images",
-    "daoindex/Whitepaper/V0.9 Working Draft/09 Conclusion.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
-    "Untitled.canvas",
-    "daoindex/Whitepaper/V1.0 Working Draft/08 Discussion 1.md",
+    "Action Plans/Action Plan for V0.9.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/08 Discussion.md",
     "Questionnaire/DAO_Index_V0.9.md",
     "Assessment Files/dao_index_assessments-11DAOs-V09-2024_03_11.csv",
+    "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/09 Conclusion.md",
+    "Action Plans/Action Plan for V1.0.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/01 Introduction.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/07 Findings.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
     "Archive/03 Theoretical Background.md",
     "Archive/02 Contextual Background.md",
     "Archive/new note.md",
     "Archive",
+    "Untitled.canvas",
+    "Diagrams and Tables/Diagrams.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/03.1 Rationale for Questions.md",
+    "Grants/Metagov Grant Application.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/V0.9 Working Draft.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/00 Table of Contents 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/10 Appendix 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/07 Findings 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/06 Methods 1.md",
+    "daoindex/Whitepaper/V1.0 Working Draft/01 Introduction 1.md",
     "daoindex/Whitepaper/V1.0 Working Draft",
     "daoindex/Whitepaper",
     "Action Plans",
