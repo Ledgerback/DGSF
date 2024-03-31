@@ -71,7 +71,7 @@ We also believe that our project will provide the most benefit to these stakehol
 
 1. **Researchers**: The DAO Index is an invaluable tool for academic and industry research, providing a comprehensive blend of data-driven insights and qualitative analysis. This rich resource aids in exploring the intricacies of DAO governance and operational dynamics beyond mere on-chain data.
 2. **The Public**: For those seeking clarity in the complex world of DAOs, the DAO Index offers an accessible platform. It employs visual labels and badges to represent DAO Index ratings, simplifying the comparison and understanding of different DAOs for the layperson.
-3. **Businesses and Investors**: The DAO Index serves as a crucial reference for businesses and investors interested in the DAO sector, providing a holistic view of governance practices. By combining qualitative assessments with quantitative data, it offers a robust foundation for informed decision-making and strategic investments.
+3. **Businesses**: The DAO Index serves as a crucial reference for businesses and investors interested in the DAO sector, providing a holistic view of governance practices. By combining qualitative assessments with quantitative data, it offers a robust foundation for informed decision-making and strategic investments.
 4. **DAOs**: DAOs can use the DAO Index to benchmark their governance and organizational structures against broader industry practices. The DAO Index's comprehensive approach, spotlighting best practices and case studies, showcases exemplary governance models and guides DAOs in refining their practices for better transparency and efficiency.
 
 ### **What progress have you made?**
