@@ -80,7 +80,7 @@ We also believe that our project will provide the most benefit to these stakehol
 
 Concerning fundraising, we have raised ~$432.00 from participating in the MetaGov Governance Research round on Gitcoin. 
 
-Concerning our outputs, we have published the following outputs:
+Concerning our work, we have published the following outputs:
 
 1. Pitchdeck: A pitchdeck providing an overview of the DGSF project's aims and benefits, available here: https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=sharing.
 2. DAO Index Dashboard: a prototype web-based user interface for exploring the DAO Index ratings and data repository, available here: https://joan816.softr.app/
@@ -114,7 +114,7 @@ Background:
 
 **When did you first start working on your project?**
 
-January 2020 (restarted in 2022)
+January 2020 (restarted in late 2021)
 
 ### **Expected Completion Date**
 
@@ -153,6 +153,8 @@ Please include full URL: https://mysite.com
 
 NOTE: Your profile photo must be 1:1 aspect ratio, at least 1000px by 1000px, and .jpg or .png file type.
 
+%% On Canva%%
+
 ### **Create an Artifact for Your Project**
 
 Artifacts are a new type of NFT designed to help creators raise money for their projects. Each Artifact should be a unique work of art that captures the spark of inspiration behind your project. [Learn more about Artifacts](https://help.artizen.fund/en/articles/6604052-what-are-artifacts).
@@ -160,3 +162,5 @@ Artifacts are a new type of NFT designed to help creators raise money for their 
 ### **Square Artifact Image**
 
 IMPORTANT: your Artifact must be 1:1 aspect ratio, at least 1000px by 1000px, .jpg, .png or .gif file type.
+
+%% On Canva%%

@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
+                "file": "Grants/Artizen Fund.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Agendas/2024-03-29.md",
+                "file": "Grants/Artizen Fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Agendas/2024-03-29.md",
+                "file": "Grants/Artizen Fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Agendas/2024-03-29.md"
+                "file": "Grants/Artizen Fund.md"
               }
             }
           }
@@ -174,12 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1edb256743ca6b74",
+  "active": "d3578fdec44a5c67",
   "lastOpenFiles": [
-    "Grants/Artizen Fund.md",
-    "Meeting Agendas/2024-03-29.md",
-    "Grants/HyperDeSci Grant Discourse.md",
+    "Docs/Updates",
+    "Docs/Product Guide",
+    "Docs/Operations Guide",
+    "Docs",
     "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
+    "Meeting Agendas/2024-03-29.md",
+    "Spaces/Home",
+    "Spaces",
+    "Grants/Artizen Fund.md",
+    "Grants/HyperDeSci Grant Discourse.md",
     "Meeting Agendas",
     "Action Plans/Action Plan for V1.0.md",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
@@ -206,10 +213,7 @@
     "daoindex/Whitepaper/V0.9 Working Draft/V0.9 Working Draft.md",
     "daoindex/Whitepaper/V1.0 Working Draft/00 Table of Contents 1.md",
     "daoindex/Whitepaper/V1.0 Working Draft/10 Appendix 1.md",
-    "daoindex/Whitepaper/V1.0 Working Draft/07 Findings 1.md",
     "daoindex/Whitepaper/V1.0 Working Draft",
-    "daoindex/Whitepaper",
-    "Action Plans",
-    "Diagrams and Tables"
+    "daoindex/Whitepaper"
   ]
 }
