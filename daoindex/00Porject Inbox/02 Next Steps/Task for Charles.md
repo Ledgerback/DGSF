@@ -6,5 +6,5 @@
 - [[08 Discussion#Assumptions and Limitations]]
 	- why use principles > definition (or more why principles are needed to make definitions useful in applied setting and to become living systems) 
 - [x] update assessment response data on Airtable
-- [ ] [[04 Problem Statement]]
-- [ ] [[05 Our Response_DAO Index]]
+- [x] [[04 Problem Statement]]
+- [x] [[05 Our Response_DAO Index]]

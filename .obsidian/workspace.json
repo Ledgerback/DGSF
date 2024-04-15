@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "43d31a1850133a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grants/OpenCivics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9fc148df4f839a8d",
             "type": "leaf",
             "state": {
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#start-here",
+                "query": "comments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V0.9 to V1.0 Transition Process.md",
+                "file": "Grants/OpenCivics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V0.9 to V1.0 Transition Process.md",
+                "file": "Grants/OpenCivics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V0.9 to V1.0 Transition Process.md"
+                "file": "Grants/OpenCivics.md"
               }
             }
           }
@@ -187,13 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fc148df4f839a8d",
+  "active": "43d31a1850133a84",
   "lastOpenFiles": [
+    "Grants/OpenCivics.md",
+    "Questionnaire/DAO_Index_V0.9.1_XL.md",
+    "Questionnaire/DAO_Index_V0.9.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
+    "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
+    "daoindex/00Porject Inbox/01 Section Notes/DGSF-DAO_Index-Responses-V09-Format-Report-2024-02-02.md",
     "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
     "V0.9 to V1.0 Transition Process.md",
     "Meeting Agendas/2024-03-29.md",
-    "Questionnaire/DAO_Index_V0.9.1_XL.md",
-    "Questionnaire/DAO_Index_V0.9.md",
     "Grants/Artizen Fund.md",
     "Grants/Metagov Grant Application.md",
     "Grants/HyperDeSci Grant Discourse.md",
@@ -222,10 +238,6 @@
     "Archive",
     "Untitled.canvas",
     "Diagrams and Tables/Diagrams.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/03.1 Rationale for Questions.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/V0.9 Working Draft.md",
-    "daoindex/Whitepaper/V1.0 Working Draft/00 Table of Contents 1.md",
-    "daoindex/Whitepaper/V1.0 Working Draft/10 Appendix 1.md",
     "daoindex/Whitepaper/V1.0 Working Draft"
   ]
 }
