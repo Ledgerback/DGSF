@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V0.9 to V1.0 Transition Process.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grants/OpenCivics.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grants/OpenCivics.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grants/OpenCivics.md"
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md"
               }
             }
           }
@@ -199,8 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43d31a1850133a84",
+  "active": "9fc148df4f839a8d",
   "lastOpenFiles": [
+    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "daoindex/Transition/V0.9 to V1.0/Viz of V0.9 to V1.0 Process.canvas",
+    "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+    "Docs/Updates/2024-04-01--2024-04-30.md",
+    "daoindex/Transition/V0.9 to V1.0",
+    "daoindex/Transition",
     "Grants/OpenCivics.md",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
     "Questionnaire/DAO_Index_V0.9.md",
@@ -208,7 +214,6 @@
     "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/00Porject Inbox/01 Section Notes/DGSF-DAO_Index-Responses-V09-Format-Report-2024-02-02.md",
     "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
-    "V0.9 to V1.0 Transition Process.md",
     "Meeting Agendas/2024-03-29.md",
     "Grants/Artizen Fund.md",
     "Grants/Metagov Grant Application.md",
@@ -233,11 +238,6 @@
     "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
     "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
     "Archive/03 Theoretical Background.md",
-    "Archive/02 Contextual Background.md",
-    "Archive/new note.md",
-    "Archive",
-    "Untitled.canvas",
-    "Diagrams and Tables/Diagrams.md",
-    "daoindex/Whitepaper/V1.0 Working Draft"
+    "Untitled.canvas"
   ]
 }

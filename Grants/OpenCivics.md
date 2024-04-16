@@ -1,4 +1,4 @@
-Questions (or copy from form) in bold
+Questions (or copy from form) are in bold
 
 Responses are in plaintext
 
