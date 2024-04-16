@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md"
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md"
               }
             }
           }
@@ -201,10 +201,12 @@
   },
   "active": "9fc148df4f839a8d",
   "lastOpenFiles": [
-    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
-    "daoindex/Transition/V0.9 to V1.0/Viz of V0.9 to V1.0 Process.canvas",
+    "Docs/Meetings/Notes",
+    "Docs/Meetings/Agendas",
     "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
     "Docs/Updates/2024-04-01--2024-04-30.md",
+    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "daoindex/Transition/V0.9 to V1.0/Viz of V0.9 to V1.0 Process.canvas",
     "daoindex/Transition/V0.9 to V1.0",
     "daoindex/Transition",
     "Grants/OpenCivics.md",
@@ -214,7 +216,7 @@
     "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/00Porject Inbox/01 Section Notes/DGSF-DAO_Index-Responses-V09-Format-Report-2024-02-02.md",
     "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
-    "Meeting Agendas/2024-03-29.md",
+    "Docs/Meetings/Agendas/2024-03-29.md",
     "Grants/Artizen Fund.md",
     "Grants/Metagov Grant Application.md",
     "Grants/HyperDeSci Grant Discourse.md",
@@ -224,12 +226,11 @@
     "Docs",
     "Spaces/Home",
     "Spaces",
-    "Meeting Agendas",
+    "Docs/Meetings",
     "Action Plans/Action Plan for V1.0.md",
     "Questionnaire/Untitled.canvas",
     "Action Plans/Action Plan for V0.9.md",
     "daoindex/Whitepaper/V0.9 Working Draft/08 Discussion.md",
-    "Assessment Files/dao_index_assessments-11DAOs-V09-2024_03_11.csv",
     "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
     "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
     "daoindex/Whitepaper/V0.9 Working Draft/09 Conclusion.md",
