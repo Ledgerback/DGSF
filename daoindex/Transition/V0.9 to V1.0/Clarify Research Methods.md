@@ -5,7 +5,7 @@
 Review academic and grey literature for identifying:
 
 1. Good and bad (or preferred and not preferred) practices in and of DAOs
-2. Potential organizing principles that DAOs should put into practice
+2. Potential organizing principles that we would expect an [[Clarify Conceptual Framework|Ideal DAO (ID)]] to put into practice
 
 ## Method
 
@@ -18,4 +18,8 @@ We can then use quantitative methods to examine the instrument through case stud
 So, all in all, a two-part methodology:
 
 1. Qualitative method to develop conceptual framework
-2. Quantitative method to test instrument based on conceptual framework
+2. Quantitative method to test the instrument based on conceptual framework
+
+### Flow
+Literature Review -> Conceptual framework -> Instrument
+
