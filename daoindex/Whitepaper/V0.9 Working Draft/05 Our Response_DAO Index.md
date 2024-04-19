@@ -482,6 +482,10 @@ Through the DAO Index principles and questionnaire, we can incorporate qualitati
 
 ### form the basis for a policy platform?
 
+The DAO Index is a mix of a bottom-up and top-down approach, which will serve well as a policy platform for DAOs.
+
+[The DAO Index is top-down by defining an Ideal DAO and expectations for reaching the Ideal DAO, while being bottom-up by allowing DAOs to determine how to meet the expectations of an Ideal DAO.](https://www.techpolicy.press/the-pillars-of-a-rightsbased-approach-to-ai-development/)
+
 ## References
 
 [^1]: [Principles](https://force11.org/fsci/post/principles/)

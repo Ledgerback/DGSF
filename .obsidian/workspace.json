@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grants/OpenCivics.md",
+                "file": "Docs/Meetings/Notes/2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questionnaire/DAO_Index_V0.9.1_XL.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "Docs/Meetings/Notes/2024-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "Docs/Meetings/Notes/2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md"
+                "file": "Docs/Meetings/Notes/2024-04-19.md"
               }
             }
           }
@@ -211,28 +211,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967b0e4045ba6d52",
+  "active": "43d31a1850133a84",
   "lastOpenFiles": [
-    "Docs/Meetings/Agendas/2024-04-19.md",
+    "Grants/OpenCivics.md",
+    "Docs/Meetings/Notes/2024-04-19.md",
+    "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
-    "Docs/Meetings/Agendas/2024-03-29.md",
+    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
     "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "Docs/Meetings/Agendas/2024-04-19.md",
+    "Docs/Meetings/Agendas/2024-03-29.md",
     "Docs/Operations Guide/Onboarding",
     "Docs/Operations Guide/Product Development",
     "Docs/Operations Guide/Research",
     "Docs/Updates/2024-04-01--2024-04-30.md",
     "Docs/Meetings/Notes",
     "Docs/Meetings/Agendas",
-    "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
     "daoindex/Transition/V0.9 to V1.0/Viz of V0.9 to V1.0 Process.canvas",
     "daoindex/Transition/V0.9 to V1.0",
     "daoindex/Transition",
-    "Grants/OpenCivics.md",
     "Questionnaire/DAO_Index_V0.9.md",
     "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
     "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/00Porject Inbox/01 Section Notes/DGSF-DAO_Index-Responses-V09-Format-Report-2024-02-02.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
     "Grants/Artizen Fund.md",
     "Grants/Metagov Grant Application.md",
     "Grants/HyperDeSci Grant Discourse.md",
@@ -250,7 +251,6 @@
     "daoindex/Whitepaper/V0.9 Working Draft/07 Findings.md",
     "daoindex/Whitepaper/V0.9 Working Draft/00 Table of Contents.md",
     "daoindex/Whitepaper/V0.9 Working Draft/10 Appendix.md",
-    "Archive/03 Theoretical Background.md",
     "Untitled.canvas"
   ]
 }
