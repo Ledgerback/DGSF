@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md"
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md"
               }
             }
           }
@@ -211,12 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43d31a1850133a84",
+  "active": "967b0e4045ba6d52",
   "lastOpenFiles": [
-    "daoindex/Transition/V0.9 to V1.0/Clarify Conceptual Framework.md",
-    "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+    "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
     "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+    "daoindex/Transition/V0.9 to V1.0/Clarify Conceptual Framework.md",
     "Docs/Meetings/Notes/2024-04-19.md",
     "Grants/OpenCivics.md",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
@@ -250,7 +251,6 @@
     "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
     "daoindex/Whitepaper/V0.9 Working Draft/09 Conclusion.md",
     "daoindex/Whitepaper/V0.9 Working Draft/01 Introduction.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/07 Findings.md",
     "Untitled.canvas"
   ]
 }

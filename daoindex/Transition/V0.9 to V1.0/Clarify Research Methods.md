@@ -18,7 +18,16 @@ We can then use quantitative methods to examine the instrument through case stud
 So, all in all, a two-part methodology:
 
 1. Qualitative method to develop conceptual framework
+	1. Literature review (or thematic analysis?)
 2. Quantitative method to test the instrument based on conceptual framework
+	1. Testing
+		1. internal consistency
+		3. content validity
+		4. construct validity
+			1. factor analysis
+		5. concurrent validity
+		6. reliability
+			2. inter-rater reliability
 
 ### Flow
 Literature Review -> Conceptual framework -> Instrument
