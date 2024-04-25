@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Updates/2024-04-01--2024-04-30.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/Updates/2024-04-01--2024-04-30.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/Updates/2024-04-01--2024-04-30.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/Updates/2024-04-01--2024-04-30.md"
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md"
               }
             }
           }
@@ -202,11 +201,12 @@
   },
   "active": "adea27806f8db4cd",
   "lastOpenFiles": [
-    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
+    "daoindex/Transition/V0.9 to V1.0/Clarify Project Roles.md",
     "Docs/Updates/2024-04-01--2024-04-30.md",
+    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
     "Questionnaire/DAO_Index_V0.9.md",
-    "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
     "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
     "Docs/Meetings/Agendas/2024-04-19.md",
@@ -239,7 +239,6 @@
     "daoindex/Whitepaper/V0.9 Working Draft/06 Methods.md",
     "daoindex/Whitepaper/V0.9 Working Draft/04 Problem Statement.md",
     "daoindex/Whitepaper/V0.9 Working Draft/09 Conclusion.md",
-    "daoindex/Whitepaper/V0.9 Working Draft/01 Introduction.md",
     "Untitled.canvas"
   ]
 }

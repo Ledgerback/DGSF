@@ -1,7 +1,7 @@
 To ensure that the principles properly characterize DAOs, and can be used to describe an Ideal DAO (ID), we will send out a survey to DAO operators, DAO tooling providers, and DAO researchers (academic and otherwise), to get feedback on our principles.
 
 
-Ideally, respondents will assess the principles on the following attributes:
+Ideally, respondents will assess the principles on the following variables:
 
 %%need to think of more attributes here%%
 
