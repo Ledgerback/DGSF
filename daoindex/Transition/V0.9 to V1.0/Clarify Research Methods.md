@@ -32,3 +32,5 @@ So, all in all, a two-part methodology:
 ### Flow
 Literature Review -> Conceptual framework -> Instrument
 
+Refer to Fairwork?
+

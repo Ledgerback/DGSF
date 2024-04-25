@@ -18,6 +18,8 @@ Ideally, respondents will assess the principles on the following attributes:
 12. Normative: Does the principle strengthen the social layer of DAOs?
 12. Organizing model: Does the principle make DAOs, as a form of organizing, more coherent?
 13. Ideal DAO: Can a DAO that puts the principles into practice serve as a reference point for other DAOs?
+14. Good example: Do you see any DAOs practicing this principle well in the real-world?
+14. Bad example: Do you see any DAOs practicing this principle poorly in the real-world?
 
 
 

@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc148df4f839a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docs/Meetings/Agendas/2024-04-19.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
+                "file": "Docs/Updates/2024-04-01--2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "Docs/Updates/2024-04-01--2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "Docs/Updates/2024-04-01--2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md"
+                "file": "Docs/Updates/2024-04-01--2024-04-30.md"
               }
             }
           }
@@ -211,29 +200,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967b0e4045ba6d52",
+  "active": "adea27806f8db4cd",
   "lastOpenFiles": [
+    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "Docs/Updates/2024-04-01--2024-04-30.md",
+    "Questionnaire/DAO_Index_V0.9.1_XL.md",
+    "Questionnaire/DAO_Index_V0.9.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
-    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
     "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+    "Docs/Meetings/Agendas/2024-04-19.md",
     "daoindex/Transition/V0.9 to V1.0/Clarify Conceptual Framework.md",
     "Docs/Meetings/Notes/2024-04-19.md",
     "Grants/OpenCivics.md",
-    "Questionnaire/DAO_Index_V0.9.1_XL.md",
     "daoindex/Whitepaper/V0.9 Working Draft/05 Our Response_DAO Index.md",
-    "Docs/Meetings/Agendas/2024-04-19.md",
     "Docs/Meetings/Agendas/2024-03-29.md",
     "Docs/Operations Guide/Onboarding",
     "Docs/Operations Guide/Product Development",
     "Docs/Operations Guide/Research",
-    "Docs/Updates/2024-04-01--2024-04-30.md",
     "Docs/Meetings/Notes",
     "Docs/Meetings/Agendas",
     "daoindex/Transition/V0.9 to V1.0/Viz of V0.9 to V1.0 Process.canvas",
     "daoindex/Transition/V0.9 to V1.0",
     "daoindex/Transition",
-    "Questionnaire/DAO_Index_V0.9.md",
     "daoindex/00Porject Inbox/02 Next Steps/Tasks for Xule.md",
     "daoindex/00Porject Inbox/02 Next Steps/Task for Charles.md",
     "daoindex/00Porject Inbox/01 Section Notes/DGSF-DAO_Index-Responses-V09-Format-Report-2024-02-02.md",
