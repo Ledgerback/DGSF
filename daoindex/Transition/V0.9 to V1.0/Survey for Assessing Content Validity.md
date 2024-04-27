@@ -34,7 +34,12 @@ Possible respondents:
 4. Clinamenic
 5. dOrg member
 6. Commonsstack member
-7. ...
+7. Authors of when a DAO is decentralized
+8. Apiary.xyz
+9. [roundsky solutions coop](https://twitter.com/RoundSkys)
+10. StableLab (team that works on DAOmeter)
+11. Decentralization Research Center
+13. ...
 
 
 
