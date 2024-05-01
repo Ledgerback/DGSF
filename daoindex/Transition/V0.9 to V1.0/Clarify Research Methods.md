@@ -47,6 +47,8 @@ So, all in all, a two-part methodology:
 ### Updated on 2024-05-01
 Method probably will not change too much, but I think switching to a question-oriented approach will provide more clarity on why we are researching DAOs and developing the DAO Index.
 
+So, somewhat moving from a product-driven approach to a question-driven approach.
+
 ### Flow
 Literature Review -> Conceptual framework -> Instrument
 
