@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md"
+                "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md"
               }
             }
           }
@@ -199,11 +200,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967b0e4045ba6d52",
+  "active": "adea27806f8db4cd",
   "lastOpenFiles": [
-    "daoindex/Transition/V0.9 to V1.0/Clarify Project Roles.md",
-    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+    "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
+    "daoindex/Transition/V0.9 to V1.0/Clarify Project Roles.md",
     "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
     "Docs/Updates/2024-04-01--2024-04-30.md",

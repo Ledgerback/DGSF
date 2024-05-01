@@ -6,6 +6,20 @@ Review academic and grey literature for identifying:
 
 1. Good and bad (or preferred and not preferred) practices in and of DAOs
 2. Potential organizing principles that we would expect an [[Clarify Conceptual Framework|Ideal DAO (ID)]] to put into practice
+### Updated
+
+Conduct a literature review (unsure of specific method currently) to answer the following questions:
+
+1. what principles can serve as guidance for good governance in DAOs?
+	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
+2. What constitutes DAO identity? 
+	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
+		- > This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change
+	- what is the org design goal of DAOs? 
+		- Is this the end goal of DAO identity?
+	- can we describe DAO identity like Cooperative identity?
+3. Can we develop an instrument to benchmark and compare DAOs?
+	1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
 
 ## Method
 

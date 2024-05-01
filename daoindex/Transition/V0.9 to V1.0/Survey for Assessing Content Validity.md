@@ -38,8 +38,12 @@ Possible respondents:
 8. Apiary.xyz
 9. [roundsky solutions coop](https://twitter.com/RoundSkys)
 10. StableLab (team that works on DAOmeter)
-11. Decentralization Research Center
-13. ...
+11. Decentralization Research Center 
+12. Other Internet researchers
+13. talentDAO
+14. [GravityDAO](https://gravitydao.org)
+15. [Spencer Graham](https://twitter.com/spengrah)
+16. ...
 
 
 
