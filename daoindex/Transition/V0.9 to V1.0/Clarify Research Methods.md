@@ -6,11 +6,11 @@ Review academic and grey literature for identifying:
 
 1. Good and bad (or preferred and not preferred) practices in and of DAOs
 2. Potential organizing principles that we would expect an [[Clarify Conceptual Framework|Ideal DAO (ID)]] to put into practice
-### Updated
+### Updated on 2024-05-01
 
-Conduct a literature review (unsure of specific method currently) to answer the following questions:
+Conduct a literature review of academic and grey lit. (unsure of specific method currently) to answer the following questions:
 
-1. what principles can serve as guidance for good governance in DAOs?
+1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
 2. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
@@ -20,6 +20,7 @@ Conduct a literature review (unsure of specific method currently) to answer the 
 	- can we describe DAO identity like Cooperative identity?
 3. Can we develop an instrument to benchmark and compare DAOs?
 	1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
+	2. How can the instrument (or the results of the instrument) provide benefits to others?
 
 ## Method
 
@@ -42,6 +43,9 @@ So, all in all, a two-part methodology:
 		5. concurrent validity
 		6. reliability
 			2. inter-rater reliability
+
+### Updated on 2024-05-01
+Method probably will not change too much, but I think switching to a question-oriented approach will provide more clarity on why we are researching DAOs and developing the DAO Index.
 
 ### Flow
 Literature Review -> Conceptual framework -> Instrument

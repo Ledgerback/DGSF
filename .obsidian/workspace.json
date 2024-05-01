@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,8 +183,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,10 +201,10 @@
   },
   "active": "adea27806f8db4cd",
   "lastOpenFiles": [
-    "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
     "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
-    "daoindex/Transition/V0.9 to V1.0/Clarify Project Roles.md",
     "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+    "daoindex/Transition/V0.9 to V1.0/Survey for Assessing Content Validity.md",
+    "daoindex/Transition/V0.9 to V1.0/Clarify Project Roles.md",
     "daoindex/Transition/V0.9 to V1.0/Survey for assessing principles.md",
     "Docs/Updates/2024-04-01--2024-04-30.md",
     "Questionnaire/DAO_Index_V0.9.1_XL.md",
