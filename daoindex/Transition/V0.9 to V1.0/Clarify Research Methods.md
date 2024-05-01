@@ -34,6 +34,7 @@ So, all in all, a two-part methodology:
 
 1. Qualitative method to develop conceptual framework
 	1. Literature review (or thematic analysis?)
+		1. still need to pick literature review method.
 2. Quantitative method to test the instrument based on conceptual framework
 	1. Testing
 		1. internal consistency
