@@ -12,24 +12,29 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 
 1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
-1. What are good and bad governance %%include other types of practices?%% practices in DAOs?
+1. What principles can serve as guidelines for how DAOs should be governed and operated?
+	1. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
+2. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
 3. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
 		- > [This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change](https://onlinelibrary.wiley.com/doi/abs/10.1111/apce.12362)
 	- what is the org design goal of DAOs? 
 		- Is this the end goal of DAO identity?
-	- can we describe DAO identity like Cooperative identity?
+	- can we describe DAO identity like the Statement on Cooperative Identity?
 		- can we use principles to establish identity like the Cooperative principles?
 	- what are the general characteristics of a DAO?
+	- what are the values of a DAO?
 	- What are the expected practices of a DAO?
 		- How do real-world DAOs fall short of these expectations?
-1. Can we develop an instrument to benchmark and compare DAOs?
+		- How do real-world DAOs exceed these expectations?
+4. Can we develop an instrument to benchmark and compare DAOs?
 	1. What is a good basis to compare one DAO to another?
 		1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
-		2. %%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures%%
+			1. %%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for DAOs different from establishing an identity for DAOs?%%
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
-2. ...
+5. What is an ideal DAO?
+6. ...
 
 ## Method
 
