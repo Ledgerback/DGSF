@@ -31,7 +31,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 4. Can we develop an instrument to benchmark and compare DAOs?
 	1. What is a good basis to compare one DAO to another?
 		1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
-			1. %%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for DAOs different from establishing an identity for DAOs?%%
+			1. %%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity for DAOs?%%
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
 5. What is an ideal DAO?
 6. What is an appropriate governance framework for DAOs?
