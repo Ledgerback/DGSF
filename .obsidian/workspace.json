@@ -44,12 +44,24 @@
             }
           },
           {
-            "id": "adea27806f8db4cd",
+            "id": "3655933ad676742b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adea27806f8db4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +211,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adea27806f8db4cd",
+  "active": "3655933ad676742b",
   "lastOpenFiles": [
     "daoindex/Transition/V0.9 to V1.0/V0.9 to V1.0 Transition Process.md",
     "daoindex/Transition/V0.9 to V1.0/Clarify Research Methods.md",
