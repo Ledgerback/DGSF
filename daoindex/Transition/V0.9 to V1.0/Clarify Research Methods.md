@@ -8,7 +8,7 @@ Review academic and grey literature for identifying:
 2. Potential organizing principles that we would expect an [[Clarify Conceptual Framework|Ideal DAO (ID)]] to put into practice
 ### Updated on 2024-05-01
 
-Conduct a literature review of academic and grey lit. (unsure of specific method currently) to answer the following questions %%@charles: add questions as you see fit%%:
+Conduct a literature review of academic and grey lit. to identify relevant literature and answer the following questions %%@charles: add questions as you see fit%%:
 
 1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
