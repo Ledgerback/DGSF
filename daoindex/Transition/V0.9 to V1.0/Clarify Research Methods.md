@@ -12,7 +12,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 
 1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
-1. What principles can serve as guidelines for how DAOs should be governed and operated?
+1. What principles can serve as guidelines for how DAOs should be run?
 	1. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
 2. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
