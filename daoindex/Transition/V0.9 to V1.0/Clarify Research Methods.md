@@ -12,8 +12,8 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 
 1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
-1. What principles can serve as guidelines for how DAOs should be run?
-	1. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
+2. What principles can serve as guidelines for how DAOs should be run?
+	2. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
 2. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
 3. What constitutes DAO identity? 
@@ -37,6 +37,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 6. What is an appropriate governance framework for DAOs?
 7. ...
 
+%%@charles: Feels like I am conflating principles for running a DAO with how to define the DAO identity%%
 ## Method
 
 I think a qualitative method, primarily focusing on thematic analysis (not sure if this is correct though), could suffice in identifying DAO practices and potential organizing principles. 
