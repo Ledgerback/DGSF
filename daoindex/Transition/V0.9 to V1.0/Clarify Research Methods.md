@@ -18,7 +18,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 	1. How do real-world DAOs fall short of these expectations?
 3. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
-		- > This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change
+		- > [This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change](https://onlinelibrary.wiley.com/doi/abs/10.1111/apce.12362)
 	- what is the org design goal of DAOs? 
 		- Is this the end goal of DAO identity?
 	- can we describe DAO identity like Cooperative identity?
