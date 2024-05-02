@@ -36,7 +36,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 6. What is an appropriate governance framework for DAOs?
 7. ...
 
-%%@charles: Feels like I am conflating principles for running a DAO with how to define the DAO identity%%
+%%@charles: Feels like I am conflating principles for running a DAO (or for governing a DAO) with principles being used to define the DAO identity%%
 
 %%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
 ## Method
