@@ -11,7 +11,7 @@ Review academic and grey literature for identifying:
 Conduct a literature review of academic and grey lit. to identify relevant literature and answer the following prospective questions %%@charles: add questions as you see fit%%:
 
 1. What principles can serve as guidance for good governance in DAOs?
-	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
+	- how do they reflect general principles for good gov ([from ISO standard](https://committee.iso.org/ISO_37000_Governance)) in organizations, and how do they expand upon them (in the digital context?)?
 2. What principles can serve as guidelines for how DAOs should be run?
 	2. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
 2. What are good and bad governance %%include other types of practices?%% practices in DAOs?
