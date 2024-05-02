@@ -27,7 +27,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 1. Can we develop an instrument to benchmark and compare DAOs?
 	1. What is a good basis to compare one DAO to another?
 		1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
-		2. %%@charles: I still feel like focusing on DAO Identity is a good benchmark because it is a standard all DAOs, in theory, should strive to meet, regardless of their industry or operational structures%%
+		2. %%@charles: I feel like DAO Identity is a good benchmark because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures, and provide some clarity on norms for DAOs%%
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
 2. ...
 
