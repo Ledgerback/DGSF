@@ -14,8 +14,6 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 	- how do they reflect general principles for good gov (from ISO standard) in organizations, and how do they expand upon them (in the digital context?)?
 1. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
-2. What are the expected practices of a DAO?
-	1. How do real-world DAOs fall short of these expectations?
 3. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
 		- > [This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change](https://onlinelibrary.wiley.com/doi/abs/10.1111/apce.12362)
@@ -24,10 +22,12 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 	- can we describe DAO identity like Cooperative identity?
 		- can we use principles to establish identity like the Cooperative principles?
 	- what are the general characteristics of a DAO?
+	- What are the expected practices of a DAO?
+		- How do real-world DAOs fall short of these expectations?
 1. Can we develop an instrument to benchmark and compare DAOs?
 	1. What is a good basis to compare one DAO to another?
 		1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
-		2. %%@charles: I feel like DAO Identity is a good benchmark because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures, and provide some clarity on norms for DAOs%%
+		2. %%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures%%
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
 2. ...
 
