@@ -17,6 +17,7 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 	3. Should the principles put into practice the purpose of DAO organizing?
 3. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
+	2. Can we go from practices to principles?
 4. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
 		- > [This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change](https://onlinelibrary.wiley.com/doi/abs/10.1111/apce.12362)
