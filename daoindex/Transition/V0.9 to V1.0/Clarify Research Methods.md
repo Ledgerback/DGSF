@@ -11,11 +11,11 @@ Review academic and grey literature for identifying:
 Conduct a literature review of academic and grey lit. (still need to determine search strategies) to identify relevant literature and answer the following prospective questions %%@charles: add questions as you see fit%%:
 
 1. What principles can serve as guidance for good governance in DAOs?
-	- how do they reflect general principles for good gov ([from ISO standard](https://committee.iso.org/ISO_37000_Governance)) in organizations, and how do they expand upon them (in the digital context?)?
+	- how do they reflect general principles for good gov ([from ISO standard](https://committee.iso.org/ISO_37000_Governance)) in organizations (can show via a mapping), and how do they expand upon them (in the digital context?)?
 2. What principles can serve as guidelines for how DAOs should be run (i.e., practices; or design? operations?)?
 	2. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
 	3. Should the principles put into practice the purpose of DAO organizing?
-	4. Should the principles be a set of ideals for the operation of DAOs like the [Rochdale principles](https://en.wikipedia.org/wiki/Rochdale_Principles)
+	4. Should the principles be a set of ideals for the operation of DAOs like the [Rochdale principles](https://en.wikipedia.org/wiki/Rochdale_Principles)?
 3. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
 	2. Can we go from practices to principles?
@@ -44,7 +44,7 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 
 %%@charles: I feel like DAO Identity can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
 
-%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs) and norms on DAOs, and (good, bad, satisfactory) real-world practices of DAOs%%
+%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs), governance frameworks, norms on DAOs, etc., and (good, bad, neutral, very good, best, very bad, worst) real-world practices of DAOs%%
 ## Method
 
 I think a qualitative method, primarily focusing on thematic analysis (not sure if this is correct though), could suffice in identifying DAO practices and potential organizing principles. 
