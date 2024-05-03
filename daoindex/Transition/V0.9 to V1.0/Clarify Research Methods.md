@@ -12,11 +12,12 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 
 1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov ([from ISO standard](https://committee.iso.org/ISO_37000_Governance)) in organizations, and how do they expand upon them (in the digital context?)?
-2. What principles can serve as guidelines for how DAOs should be run?
+2. What principles can serve as guidelines for how DAOs should be run (i.e., practices)?
 	2. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
-2. What are good and bad governance %%include other types of practices?%% practices in DAOs?
+	3. Should the principles put into practice the purpose of DAO organizing?
+3. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
-3. What constitutes DAO identity? 
+4. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
 		- > [This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change](https://onlinelibrary.wiley.com/doi/abs/10.1111/apce.12362)
 	- what is the org design goal of DAOs (or the purpose of DAO organizing)? 
@@ -28,17 +29,17 @@ Conduct a literature review of academic and grey lit. to identify relevant liter
 	- What are the expected practices of a DAO?
 		- How do real-world DAOs fall short of these expectations?
 		- How do real-world DAOs exceed these expectations?
-4. Can we develop an instrument to benchmark and compare DAOs?
+5. Can we develop an instrument to benchmark and compare DAOs?
 	1. What is a good basis to compare one DAO to another?
 		1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
-5. What is an ideal DAO?
-6. What is an appropriate governance framework for DAOs?
-7. ...
+6. What is an ideal DAO?
+7. What is an appropriate governance framework for DAOs?
+8. ...
 
 %%@charles: Feels like I am conflating principles for running a DAO (or for governing a DAO) with principles being used to define the DAO identity%%
 
-%%@charles: I feel like DAO Identity is a good norm because it can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
+%%@charles: I feel like DAO Identity can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
 ## Method
 
 I think a qualitative method, primarily focusing on thematic analysis (not sure if this is correct though), could suffice in identifying DAO practices and potential organizing principles. 
