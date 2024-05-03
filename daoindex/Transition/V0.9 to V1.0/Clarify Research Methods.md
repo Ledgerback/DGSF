@@ -44,7 +44,7 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 
 %%@charles: I feel like DAO Identity can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
 
-%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined, and (good, bad, satisfactory) real-world practices of DAOs%%
+%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs) and norms on DAOs, and (good, bad, satisfactory) real-world practices of DAOs%%
 ## Method
 
 I think a qualitative method, primarily focusing on thematic analysis (not sure if this is correct though), could suffice in identifying DAO practices and potential organizing principles. 
