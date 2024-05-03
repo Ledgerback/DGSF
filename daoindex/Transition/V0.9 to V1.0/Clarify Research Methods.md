@@ -44,7 +44,8 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 
 %%@charles: I feel like DAO Identity can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
 
-%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs), governance frameworks, norms on DAOs, etc., and (good, bad, neutral, very good, best, very bad, worst) real-world practices of DAOs%%
+%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs), governance frameworks, norms on DAOs, etc., (good, bad, neutral, very good, best, very bad, worst) real-world practices of DAOs, and contrast/comparison of real and expected practices (refer to papers like [The Hidden Shortcomings of (D)AOs -- An Empirical Study of On-Chain Governance](https://arxiv.org/abs/2302.12125))%%
+
 ## Method
 
 I think a qualitative method, primarily focusing on thematic analysis (not sure if this is correct though), could suffice in identifying DAO practices and potential organizing principles. 
@@ -80,7 +81,7 @@ Then, I think we can use our findings to inform us of what problems to solve.
 So, going from identifying questions -> answering questions -> using answers to formulate problems -> developing solutions to address problems?
 
 ### Flow
-Literature Review -> Conceptual framework -> Instrument
+Literature Review -> Problem Statement -> Conceptual framework -> Instrument
 
 Refer to Fairwork?
 
