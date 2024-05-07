@@ -12,39 +12,60 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 
 1. What principles can serve as guidance for good governance in DAOs?
 	- how do they reflect general principles for good gov ([from ISO standard](https://committee.iso.org/ISO_37000_Governance)) in organizations (can show via a mapping), and how do they expand upon them (in the digital context?)?
-2. What principles can serve as guidelines for how DAOs should be run (i.e., practices; or design? operations?)?
+2. What principles can serve as guidelines for how DAOs should be run (i.e., practices; or design?)?
 	2. Similar to [POSI](https://openscholarlyinfrastructure.org/about/)?
 	3. Should the principles put into practice the purpose of DAO organizing?
 	4. Should the principles be a set of ideals for the operation of DAOs like the [Rochdale principles](https://en.wikipedia.org/wiki/Rochdale_Principles)?
+		1. Or a set of ideals for how DAOs are designed?
 3. What are good and bad governance %%include other types of practices?%% practices in DAOs?
 	1. What are bad incidents that have befallen DAOs?
 	2. Can we go from practices to principles?
-4. What constitutes DAO identity? 
+4. What are good and bad designs and outcomes in DAOs?
+5. What constitutes DAO identity? 
 	- Can we use DAO identity as a normative yardstick (i.e., benchmark)?
 		- > [This paper argues they can also serve a normative yardstick role in efforts to provide contextual social indicators for sustainability reporting that aims to instigate transformative change](https://onlinelibrary.wiley.com/doi/abs/10.1111/apce.12362)
 	- what is the org design goal of DAOs (or the purpose of DAO organizing)? 
 		- Is this the end goal of DAO identity?
 	- can we describe DAO identity like the Statement on Cooperative Identity?
 		- can we use principles to establish identity like the Cooperative principles?
+	- do we need to re-define DAOs? 
+		- Or can we use an existing DAO definition?
 	- what are the general characteristics of a DAO?
-	- what are the values of a DAO?
+	- what are the (fundamental) values (or ethos/ethics) of a DAO?
 	- What are the expected practices of a DAO?
 		- How do real-world DAOs fall short of these expectations?
 		- How do real-world DAOs meet or exceed these expectations?
 		- what is an ideal version of this DAO?
-1. Can we develop an instrument to benchmark and compare DAOs?
+6. Can we develop an instrument to benchmark and compare DAOs?
 	1. What is a good basis to compare one DAO to another?
-		1. Should the instrument assess adherence to the principles? Or what should the instrument assess specifically?
+		1. Should the instrument assess adherence to the principles? 
+		2. What should the instrument assess specifically?
+			1. Adherence to [principles (i.e., values-based expectations)](https://docs.google.com/document/d/1We01RHGV2XQi-UZpNkJuOYpfztqF4oavYbNjlFABFp4/edit) (also refer to [standards for excellence in nonprofit sector](https://standardsforexcellence.org/Home-2/code))? 
+				1. Use the OD areas as topical areas or indicators for principles?
+			2. Adherence to [a corporate accountability-like standard](https://www.worldbenchmarkingalliance.org/corporate-accountability/)?
+			3. Distance from Ideal DAO?
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
-2. What is an ideal DAO?
-3. What is an appropriate governance framework for DAOs?
-4. ...
+	3. What problems can we address through the instrument?
+7. What is an ideal DAO (or the best version of a DAO)?
+8. What is an appropriate governance framework for DAOs?
+9. What lessons from prior organizational forms are applicable and beneficial to DAOs?
+10. What are the vulnerabilities of DAOs?
+11. What are the promises of DAOs?
+
+Regarding the literature review process, I think we need to address the following questions:
+
+1. What should we try to identify from the literature?
+2. What should our search strategy(ies) be?
+3. How long should we conduct the review for?
+4. What tools should we use?
+5. How should we code and comment on the literature we collect?
+6. ...
 
 %%@charles: Feels like I am conflating principles for running a DAO (or for governing a DAO) with principles being used to define the DAO identity%%
 
 %%@charles: I feel like DAO Identity can establish a standard that all DAOs, in theory, should strive to meet, regardless of their industry or operational structures. Though, principles for how DAOs should be operated may be better. But this depends, are principles for how DAOs should be run different from establishing an identity statement for DAOs?%%
 
-%%@charles: Can focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs), governance frameworks, norms on DAOs, etc., (good, bad, neutral, very good, best, very bad, worst) real-world practices of (and issues in) DAOs, organizational issues particular to DAO organizing, and contrast/comparison of real and expected practices (refer to papers like [The Hidden Shortcomings of (D)AOs -- An Empirical Study of On-Chain Governance](https://arxiv.org/abs/2302.12125))%%
+%%@charles: Possibly focus search on expected practices of DAOs, how DAOs are defined (i.e., identity statements) (can refer to ins and outs paper), including the purposes of DAO organizing (refer to P2P Labs), governance frameworks, norms on DAOs, etc., (good, bad, neutral, very good, best, very bad, worst) real-world practices of (and issues in) DAOs, organizational issues particular to DAO organizing, and contrast/comparison of real and expected practices (refer to papers like [The Hidden Shortcomings of (D)AOs -- An Empirical Study of On-Chain Governance](https://arxiv.org/abs/2302.12125))%%
 
 ## Method
 
@@ -58,7 +79,7 @@ So, all in all, a two-part methodology:
 
 1. Qualitative method to develop conceptual framework
 	1. Literature review (or thematic analysis?)
-		1. still need to pick literature review method.
+		1. still need to pick a search strategy
 	2. Maybe refer to the research methods from [Governance of decentralized autonomous organizations that produce open source software](https://www.sciencedirect.com/science/article/pii/S2096720923000416#se0080)
 		1. > The OSS producing DAO governance framework was constructed in three steps. In this method, we first describe the literature collection process for OSS and DAO governance. Second, we describe the framework production steps. Finally, we list the procedure for the evaluative case studies conducted at well-known DAO projects.
 2. Quantitative method to test the instrument based on conceptual framework

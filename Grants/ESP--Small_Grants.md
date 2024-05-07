@@ -1,3 +1,4 @@
+# Links
 - https://efdn.notion.site/Ecosystem-Support-Program-Wishlist-ae88ec8d8fc34d01be96d35ddaff7d23
 - https://esp.ethereum.foundation/applicants/small-grants
 
@@ -87,3 +88,84 @@ When evaluating your application, we look for much more than just an explanation
 - **Think broader:** how does your project connect to, complement and enable the work of others? How can you make sure your work stays relevant and has a sustained impact?
 - **Identify output** (what is produced) as well as outcome (what is accomplished): what will be the tangible result of your work - a research paper, a code repo, a community event, a working prototype? Who will use it, and how will they access it?
 - **Be realistic:** we'll consider the funding amount you request in relation to the proposed scope of work, so go with a number that reflects what you think you'll need for the specific work in your proposal. Remember that being awarded a grant now doesn't mean you can't apply for additional funding later!
+
+# Application
+
+## Apply to Small Grants
+
+Answer the following questions thoughtfully and thoroughly. The information you provide now is what we'll use to make a final decision on whether to award a grant.
+
+Please note that by submitting this application, you confirm that you have read and agree to our [Privacy Policy](https://ethereum.org/en/privacy-policy/).
+
+### First name
+
+*
+
+Charles
+### Last name
+
+*
+
+Adjovu
+
+### Email
+
+*
+
+ledgerback@gmail.com
+
+### Are you submitting on behalf of a team, or as an individual?
+
+*
+
+Team.
+
+### Individual or team summary
+
+*Tell us about yourself, your experience, and your motivations. Feel free to link to any biography pages, LinkedIn pages, etc.
+
+### City
+
+Where are you located, or where is your team located?
+
+Country
+
+*
+
+Select
+
+---
+
+### Website
+
+https://
+
+Twitter
+
+@
+
+### Project category
+
+*
+
+Please choose a category that your project best fits in. **Additional questions will appear based on your selection**.
+
+Select
+
+---
+
+### How did you hear about the Ecosystem Support Program?
+
+*
+
+Select
+
+---
+
+### Did anyone recommend that you submit an application to the Ecosystem Support Program?
+
+Please include the person's name and details of their referral.
+
+### Anything else you'd like to share?
+
+### Is there anything we should know about that hasn't been covered by the questions above? You also have the option to link any supporting documents or relevant sites here.
