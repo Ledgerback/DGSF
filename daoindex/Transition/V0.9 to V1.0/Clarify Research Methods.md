@@ -45,12 +45,14 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 			2. Adherence to [a corporate accountability-like standard](https://www.worldbenchmarkingalliance.org/corporate-accountability/)?
 			3. Distance from Ideal DAO?
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
-	3. What problems can we address through the instrument?
+	3. What types of questions should be allowed for the instrument?
+	4. What problems can we address through the instrument?
 7. What is an ideal DAO (or the best version of a DAO)?
 8. What is an appropriate governance framework for DAOs?
 9. What lessons from prior organizational forms are applicable and beneficial to DAOs?
 10. What are the vulnerabilities of DAOs?
 11. What are the promises of DAOs?
+12. What problems are DAOs meant to address?
 
 Regarding the literature review process, I think we need to address the following questions:
 
