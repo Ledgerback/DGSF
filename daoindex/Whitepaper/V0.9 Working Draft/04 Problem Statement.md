@@ -220,6 +220,8 @@ As mentioned by Bryan Lherer in *What Happened to the New Internet?*, Uniswap sh
 
 This issue is further complicated by the lack of conceptual clarity regarding DAOs as a concept, as described in the *Lack of Conceputal Clarity* section.
 
+%%Could tech-driven solutionism fall under here?%%
+
 ## Lack of Measurable Expectations (or measurable norms or self-regulation)
 
 Though there is a claim that DAOs practice decentralized governance and/or operations, it is hard to find or see in reality.[^4] 
@@ -392,6 +394,8 @@ The use of conventional ownership structures does not promote or implement pract
 - refer to https://signal.org/blog/signal-is-expensive/ 
 
 ## Subjectivity of algorithmic policy (or Lack of recognizing complexity and subjectivity of algorithmic policy) (probably do not need because this is not necessarily a cause of misalignment, but it is improtant for principles as proactive means to balance social and algorithmic governance)
+
+## Blockchain tech does not guarantee correcting structural power imbalances in organizations (and ecosystems)
 
 outline:
 
