@@ -44,7 +44,11 @@ Possible respondents:
 14. [GravityDAO](https://gravitydao.org)
 15. [Spencer Graham](https://twitter.com/spengrah)
 16. [Deep Work Network](https://deep-work-network.super.site/)
-17. ...
+17. [Vaughn McK](https://twitter.com/noturhandle_)
+18. [Amanwithwings](https://twitter.com/_amanwithwings/status/1772678127656833330)
+19. MetaGov
+20. DAOstar
+21. ...
 
 
 
