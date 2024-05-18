@@ -397,6 +397,10 @@ The use of conventional ownership structures does not promote or implement pract
 
 ## Blockchain tech does not guarantee correcting structural power imbalances in organizations (and ecosystems)
 
+### can fall under DAO-washing
+
+(refer to crypto 3-body problem and bryan lehrer article and [nathan schneider](https://podcasts.apple.com/ca/podcast/participation-in-a-decentralized-world-nathan/id1730611363?i=1000655328210))
+
 outline:
 
 1. what is algorithmic governnace?
