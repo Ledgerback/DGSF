@@ -60,8 +60,11 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 11. What are the promises of DAOs?
 12. What problems are DAOs meant to address?
 13. How to encourage DAOs to adopt best practices (identified in academic or grey literature)?
-	1. How can adopting best practices assist DAOs in making progress towards Web3 structural goals?
+	1. How can adopting best practices assist DAOs in making progress towards Web3 structural goals (or broader societal expectations or social responsibility; SDGs?)?
 	2. What should we measure to encourage adoption?
+	3. Will adoptin best practices improve accountability, transparency, and effectiveness of DAOs?
+	4. What does a well-managed and responsibly-governed DAO look like?
+	5. Should management and operations be included, or just governance?
 14. How to inspire trust in DAOs?
 
 Regarding the literature review process, I think we need to address the following questions:
@@ -92,6 +95,8 @@ So, all in all, a two-part methodology:
 1. Qualitative method to develop conceptual framework
 	1. Literature review (or thematic analysis?)
 		1. still need to pick a search strategy
+		2. Maybe go with an integrative literature review since we have to cover (way) too many topics across academic and grey literature, and we need to paint a unified picture of DAOs so that our conceptual framework can be generic to DAOs
+		3. for coding, can have a 1- 5 for how good a practice was (in governance, management, operations, etc.)
 	2. Maybe refer to the research methods from [Governance of decentralized autonomous organizations that produce open source software](https://www.sciencedirect.com/science/article/pii/S2096720923000416#se0080)
 		1. > The OSS producing DAO governance framework was constructed in three steps. In this method, we first describe the literature collection process for OSS and DAO governance. Second, we describe the framework production steps. Finally, we list the procedure for the evaluative case studies conducted at well-known DAO projects.
 2. Quantitative method to test the instrument based on conceptual framework
