@@ -96,7 +96,8 @@ So, all in all, a two-part methodology:
 	1. Literature review (or thematic analysis?)
 		1. still need to pick a search strategy
 		2. Maybe go with an integrative literature review since we have to cover (way) too many topics across academic and grey literature, and we need to paint a unified picture of DAOs so that our conceptual framework can be generic to DAOs
-		3. for coding, can have a 1- 5 for how good a practice was (in governance, management, operations, etc.)
+			1. and develop a codebook to go along with it
+				3. for coding, can have a 1- 5 for how good a practice was (in governance, management, operations, etc.)
 	2. Maybe refer to the research methods from [Governance of decentralized autonomous organizations that produce open source software](https://www.sciencedirect.com/science/article/pii/S2096720923000416#se0080)
 		1. > The OSS producing DAO governance framework was constructed in three steps. In this method, we first describe the literature collection process for OSS and DAO governance. Second, we describe the framework production steps. Finally, we list the procedure for the evaluative case studies conducted at well-known DAO projects.
 2. Quantitative method to test the instrument based on conceptual framework
