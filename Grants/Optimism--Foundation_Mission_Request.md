@@ -71,6 +71,7 @@ Can focus on:
 1. Network analysis
 
 	1. for engagement (voting, discussions, etc.)
+		1. really emphasize use of community science (refer to apiary.xyz) (or org network analysis) to go beyond simply voting or governance activity ()
 	2. for production (proposal creators)
 
 2. Concentration metrics (mention Palma Ratio, Banzhaf Power Index)
