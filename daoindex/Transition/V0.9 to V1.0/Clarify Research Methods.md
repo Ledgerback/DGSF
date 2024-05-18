@@ -8,6 +8,12 @@ Review academic and grey literature for identifying:
 2. Potential organizing principles that we would expect an [[Clarify Conceptual Framework|Ideal DAO (ID)]] to put into practice
 ### Updated on 2024-05-01
 
+%%
+
+@charles: can say knowledge gap we are addressing is the lack of work on how to measure DAOs and DAO activities; can refer to 
+
+%%
+
 Conduct a literature review of academic and grey lit. (still need to determine search strategies) to identify relevant literature and answer the following prospective questions %%@charles: add questions as you see fit%%:
 
 1. What principles can serve as guidance for good governance in DAOs?
