@@ -5,6 +5,8 @@ To assess content validity, we will send out a survey to DAO operators, DAO tool
 Ideally, respondents will assess the questionnaire on the following attributes:
 
 ![![daoindex/Transition/V0.9 to V1.0/#^Table]]
+Can add whether [question is biased or is a leading question](https://www.qualtrics.com/blog/how-to-create-a-survey/)?
+
 Probably best to have two optional comments fields: 
 
 1. suggested changes, and 
