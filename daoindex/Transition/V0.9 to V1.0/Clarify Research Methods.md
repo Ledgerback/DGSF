@@ -59,6 +59,10 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 10. What are the vulnerabilities of DAOs?
 11. What are the promises of DAOs?
 12. What problems are DAOs meant to address?
+13. How to encourage DAOs to adopt best practices (identified in academic or grey literature)?
+	1. How can adopting best practices assist DAOs in making progress towards Web3 structural goals?
+	2. What should we measure to encourage adoption?
+14. How to inspire trust in DAOs?
 
 Regarding the literature review process, I think we need to address the following questions:
 
