@@ -28,7 +28,7 @@ Information we need from respondents?
 5. Ascertain if they build tools for DAOs
 5. Ascertain if they conduct SciComm on DAOs or outreach of DAOs to the public
 
-Possible respondents:
+Possible respondents (can also get list from authors of works we review):
 
 1. Morshed Mannan
 2. Kelsie Nabben
@@ -50,7 +50,9 @@ Possible respondents:
 18. [Amanwithwings](https://twitter.com/_amanwithwings/status/1772678127656833330)
 19. MetaGov
 20. DAOstar
-21. ...
+21. [Christian Ziegler](https://tum-cso.notion.site/Christian-Ziegler-ca32b589a08044f89448b6b36e9da1fa)
+22. Quinn DuPont
+23. ...
 
 
 
