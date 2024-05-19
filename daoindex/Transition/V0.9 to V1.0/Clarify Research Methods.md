@@ -14,6 +14,7 @@ Review academic and grey literature for identifying:
 
 %%
 
+
 Conduct a literature review of academic and grey lit. (still need to determine search strategies) to identify relevant literature and answer the following prospective questions %%@charles: add questions as you see fit%%:
 
 1. What principles can serve as guidance for good governance in DAOs?
@@ -119,8 +120,25 @@ Then, I think we can use our findings to inform us of what problems to solve.
 
 So, going from identifying questions -> answering questions -> using answers to formulate problems -> developing solutions to address problems?
 
-### Flow
+
+#### Flow
 Literature Review -> Problem Statement -> Conceptual framework -> Instrument
 
 Refer to Fairwork?
+
+#### Updated on 2024-05-19
+
+Can change literature review method to integrative literature review, based on ...
+
+Regarding search strategies, I believe we will need tables for expected keywords and natural language queries, and we can use forward- and backward-tracing via citations for literature we find via Litmaps, OpenKnowledgeMaps, ResearchRabbit, etc.
+
+Primarily, we will search for academic literature on Semantic Scholar, Google Scholar, Litmaps, SSRN, ArXiv, OpenKnowledgeMaps, and ResearchRabbit.
+
+For grey literature, we will primarily use the following media sources:
+
+Given the nature of grey literature, we may need to look elsewhere as well.
+
+We will need to create a codebook for coding literature (whole papers and passages).
+
+We can conduct the literature review via Hypothes.is so we can work on it asyncrhcously because we can annotate content and have it saved in our group, and we can use the Hypothes.is API to collect our data in a structured format for use later.
 
