@@ -77,6 +77,8 @@ Can focus on:
 2. Concentration metrics (mention Palma Ratio, Banzhaf Power Index)
 
 3. Optimism Member Surveys (get qualitative insights into how concentration is understood or perceived in the organization's members)
+
+Can also mention that we will review DAO-related academic and grey lit. (or integrative lit. rev.) to find possible concentration metrics to apply
 %%
 
 _Copy the entire application below and leave a comment on this issue with your answers completed. A representative from the Optimism Foundation may reach out using the contact info provided to request more information as necessary._
@@ -85,10 +87,10 @@ _Copy the entire application below and leave a comment on this issue with your a
 
 **Please verify that you meet the qualifications for submitting at the above [Tier](https://gov.optimism.io/t/collective-trust-tiers/5877/2)**
 
-- **Alliance Lead:** Please specify the best point of contact for your team
-- **Contact info:**
-- **L2 recipient address:**
-- **Please list the members of your Alliance and link to any previous work:**
+- **Alliance Lead:** Charles Adjovu
+- **Contact info:** 
+- **L2 recipient address:** 
+- **Please list the members of your Alliance and link to any previous work:** Charles Adjovu, Xule Lin, Valerie Spina; you can find our previous work listed here
 
 Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-guide/5873)
 
@@ -96,18 +98,25 @@ Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-gu
 
 **What makes your Alliance best-suited to execute this Mission?**
 
-- [...]
-- [...]
+- Our alliance proposed the DAO Index, ...
+- As part of the DAO Index, we conduct qualitative and quantiatative assesments of DAOs to provide a holsitic basis for benchmarking and comparing DAOs
+- We seek to improve our methods, and one way of doing so, is providing more quantiative measures, including concentration metrics, to give us a more holistic understnading of DAOs
+- We have (maybe Val?) researched DAOs f
+- We have assisted DAOs in the past, monst notably, Decred with an update to their consitutino in 2019.
 
 **Please describe your proposed solution based on the above Solution Criteria (if applicable):**
 
-- [...]
+- Determine concentration metrics relevant to DAOs, 
+- Analyze the Token House and Citizen’s House for each concentraion metric, 
+- Share our results publicly via dashboards and publications
 - [...]
 
 **Please outline your step-by-step plan to execute this Mission, including expected deadlines to complete each peice of work:**
 
-- [...]
-- [...]
+- Conduct a literature review to find concentration metrics (e.g., Banzhaf Power Index for voting power, Palma Ratio and Herfin-... for economic power) relevant to DAOs
+- Determine appropriate concentration metrics at multiple levels, including governance and communications, to apply to  Token House and Citizen’s House
+- Develop Jupyter notebooks covering our quantitative analyses of concentration metrics, as applied to  to  Token House and Citizen’s House, and share our results publicly via dashboards and publications
+- Compare analyses of Optimism with other DAOs to determine standards for concentration metrics
 
 **Please define the [critical milestone(s)](https://gov.optimism.io/t/grant-policies/5833) that should be used to determine whether you’ve executed on this proposal:**
 
@@ -116,12 +125,12 @@ Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-gu
 
 **Please list any additional support your team would require to execute this mission (financial, technical, etc.):**
 
-- [...]
-- [...]
+- Assistance recruiting new team members skilled in data science and poltiical science 
+- Assistance from the Optimism Governance team 
 
 **Grants are awarded in OP, locked for one year. Please let us know if access to upfront capital is a barrier to completing your Mission and you would like to be considered for a small upfront cash grant:** _(Note: there is no guarantee that approved Missions will receive up-front cash grants.)_
 
-- [...]
+- I would like to be considered for a small upfront cash grant to be able to afford access to APIs from DAO and Web3 data providers
 
 ---
 
