@@ -54,6 +54,7 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 	2. How can the instrument (or the results of the instrument) provide benefits to others?
 	3. What types of questions should be allowed for the instrument?
 	4. What problems can we address through the instrument?
+	5. What is an appropriate [scoring method](https://www.mdpi.com/1911-8074/16/7/330), based on the instrument?
 7. What is an ideal DAO (or the best version of a DAO)?
 8. What is an appropriate governance framework for DAOs?
 9. What lessons from prior organizational forms are applicable and beneficial to DAOs?
@@ -118,7 +119,7 @@ So, somewhat moving from a product-driven approach to a question-driven approach
 
 Then, I think we can use our findings to inform us of what problems to solve.
 
-So, going from identifying questions -> answering questions -> using answers to formulate problems -> developing solutions to address problems?
+~~So, going from identifying questions -> answering questions -> using answers to formulate problems -> developing solutions to address problems?~~
 
 
 #### Flow
@@ -128,17 +129,39 @@ Refer to Fairwork?
 
 #### Updated on 2024-05-19
 
-Can change literature review method to integrative literature review, based on ...
+Can change literature review method to integrative literature review, based on [Navigating the Research Landscape of Decentralized Autonomous Organizations: A Research Note and Agenda](https://arxiv.org/abs/2312.17197)?
+
+Though, could an annotated bibliography suffice if we do not need to compare and critique (or find similarities and dissimilarities) the literature? Alternatively, maybe go with a [mapping](https://guides.temple.edu/c.php?g=78618&p=9552831) or [scoping review](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-023-02178-5#Sec1), since we are seeking to answer questions, rather than simply cover a topic.
 
 Regarding search strategies, I believe we will need tables for expected keywords and natural language queries, and we can use forward- and backward-tracing via citations for literature we find via Litmaps, OpenKnowledgeMaps, ResearchRabbit, etc.
 
-Primarily, we will search for academic literature on Semantic Scholar, Google Scholar, Litmaps, Elicit, SSRN, ArXiv, OpenKnowledgeMaps, and ResearchRabbit.
+Primarily, we will search for academic (preprints and peer-reviewed works) literature on Semantic Scholar, Google Scholar, Litmaps, Elicit, SSRN, ArXiv, OpenKnowledgeMaps, and ResearchRabbit.
 
 For grey literature, we will primarily use the following media sources:
 
-Given the nature of grey literature, we may need to look elsewhere as well.
+1. DAO Times
+2. The Block
+3. Blockworks
+4. Medium 
+5. ...
+
+
+
+Given the nature of grey literature, we will need to add more sources as we go.
 
 We will need to create a codebook for coding literature (whole papers and passages).
 
-We can conduct the literature review via Hypothes.is so we can work on it asynchronously because we can annotate content and have it saved in our group, and we can use the Hypothes.is API to collect our data in a structured format for use later.
+We can conduct the literature review via Hypothes.is so we can work on it asynchronously because we can annotate content and have it saved in our group, and we can use the Hypothes.is API to collect our data in a structured format for later use.
 
+Regarding the instrument's basis on principles, it may be better to instead judge DAOs based on standards derived from the principles, and possibly using KPIs as quantifiers.
+
+Regarding process:
+
+1. Select batch of questions (clarify, sub-divide, and prune as lit. rev. is underway)
+2. Select literature review method (or evidence mapping method)
+3. Develop search strategies
+4. Develop codebook (i.e., annotation schema) for annotating bibliography on Hypothesis
+5. Collecting data from Hypothes.is and sharing as a database
+6. Discuss how annotated bibliography helps address questions
+
+overall purpose: build a better evidence-base (and scientific rigour) for conceptual framework and instrument based on it.
