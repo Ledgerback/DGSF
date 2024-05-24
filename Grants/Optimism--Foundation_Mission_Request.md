@@ -88,9 +88,9 @@ _Copy the entire application below and leave a comment on this issue with your a
 **Please verify that you meet the qualifications for submitting at the above [Tier](https://gov.optimism.io/t/collective-trust-tiers/5877/2)**
 
 - **Alliance Lead:** Charles Adjovu
-- **Contact info:** 
+- **Contact info:** Twitter: ..., Email: 
 - **L2 recipient address:** 
-- **Please list the members of your Alliance and link to any previous work:** Charles Adjovu, Xule Lin, Valerie Spina; you can find our previous work listed here
+- **Please list the members of your Alliance and link to any previous work:** Charles Adjovu, Xule Lin, Valerie Spina; you can find links to our previous work here: 1) https://joan816.softr.app/, 2) https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-26, 3) https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=sharing, 4) banzhaf article, 5) delegation network article
 
 Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-guide/5873)
 
@@ -98,34 +98,33 @@ Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-gu
 
 **What makes your Alliance best-suited to execute this Mission?**
 
-- Our alliance proposed the DAO Index, ...
-- As part of the DAO Index, we conduct qualitative and quantiatative assesments of DAOs to provide a holsitic basis for benchmarking and comparing DAOs
-- We seek to improve our methods, and one way of doing so, is providing more quantiative measures, including concentration metrics, to give us a more holistic understnading of DAOs
-- We have (maybe Val?) researched DAOs f
-- We have assisted DAOs in the past, monst notably, Decred with an update to their consitutino in 2019.
+- Our alliance proposed the DAO Index, a set of principles that act as a standard for DAOs, and an assessment tool to assess adherence to those principles, which is used to benchmark and compare DAOs.
+- We have published academic articles on DAOs
+- We have practical experience working in DAOs
+- We have assisted DAOs in the past, monst notably, Decred with an update to their constitution in 2019.
 
 **Please describe your proposed solution based on the above Solution Criteria (if applicable):**
 
 - Determine concentration metrics relevant to DAOs, 
-- Analyze the Token House and Citizen’s House for each concentraion metric, 
-- Share our results publicly via dashboards and publications
-- [...]
+- Analyze the Token House and Citizen’s House for each concentration metric, 
+- Share our results publicly via dashboards, publications, and data repository
 
 **Please outline your step-by-step plan to execute this Mission, including expected deadlines to complete each peice of work:**
 
-- Conduct a literature review to find concentration metrics (e.g., Banzhaf Power Index for voting power, Palma Ratio and Herfin-... for economic power) relevant to DAOs
-- Determine appropriate concentration metrics at multiple levels, including governance and communications, to apply to  Token House and Citizen’s House
-- Develop Jupyter notebooks covering our quantitative analyses of concentration metrics, as applied to  to  Token House and Citizen’s House, and share our results publicly via dashboards and publications
-- Compare analyses of Optimism with other DAOs to determine standards for concentration metrics
+- June - July 2024: Conduct a literature review to find concentration metrics (e.g., Banzhaf Power Index and Shapley-Shubik Index for voting power, Palma Ratio and Herfindahl-Hirschman Index for economic power, betweenness centrality for networks) relevant to DAOs
+- July - August 2024: Determine appropriate concentration metrics at multiple levels, including governance and communications, to apply to  Token House and Citizen’s House
+- August - September 2024: Develop Jupyter notebooks covering our quantitative analyses of concentration metrics, as applied to the Token House and Citizen’s House, and share our results publicly via dashboards and publications
+- September - October 2024: Compare analyses of Optimism with other DAOs to determine standards for concentration metrics
 
 **Please define the [critical milestone(s)](https://gov.optimism.io/t/grant-policies/5833) that should be used to determine whether you’ve executed on this proposal:**
 
-- [...]
-- [...]
+- We shared publications on our analyses by September 2024 
+- We shared publications on comparisons of Optimism with Other DAOs by October 2024 
+- We shared dashboards on our analyses by September 2024 
 
 **Please list any additional support your team would require to execute this mission (financial, technical, etc.):**
 
-- Assistance recruiting new team members skilled in data science and poltiical science 
+- Assistance recruiting new team members skilled in data science and political science 
 - Assistance from the Optimism Governance team 
 
 **Grants are awarded in OP, locked for one year. Please let us know if access to upfront capital is a barrier to completing your Mission and you would like to be considered for a small upfront cash grant:** _(Note: there is no guarantee that approved Missions will receive up-front cash grants.)_
