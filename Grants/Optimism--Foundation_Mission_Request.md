@@ -88,9 +88,9 @@ _Copy the entire application below and leave a comment on this issue with your a
 **Please verify that you meet the qualifications for submitting at the above [Tier](https://gov.optimism.io/t/collective-trust-tiers/5877/2)**
 
 - **Alliance Lead:** Charles Adjovu
-- **Contact info:** Twitter: ..., Email: 
-- **L2 recipient address:** 
-- **Please list the members of your Alliance and link to any previous work:** Charles Adjovu, Xule Lin, Valerie Spina; you can find links to our previous work here: 1) https://joan816.softr.app/, 2) https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-26, 3) https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=sharing, 4) banzhaf article, 5) delegation network article
+- **Contact info:** Twitter: https://x.com/CAdjovu, Email: charles.adjovu@protonmail.com
+- **L2 recipient address:** 0xc7978F8Cb4d826E209911237676d1eeAF17942F4
+- **Please list the members of your Alliance and link to any previous work:** Charles Adjovu, Xule Lin, Valerie Spina; you can find links to our previous work in the following list: 1) https://joan816.softr.app/, 2) https://explorer.gitcoin.co/#/round/42161/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4/0xa7608d95a93cc684f2719323d40cbd0f59afe7d4-26, 3) https://docs.google.com/presentation/d/1Tg0421j_ktrorTFGYNdhaVx_wzZ0Fow359DI1uiAdR4/edit?usp=sharing, 4) https://ledgerback.pubpub.org/pub/3zn9f6v6, 5) https://ledgerback.pubpub.org/pub/cdh8nbdp, and 6) https://journals.aom.org/doi/10.5465/AMBPP.2021.16429abstract
 
 Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-guide/5873)
 
@@ -98,10 +98,9 @@ Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-gu
 
 **What makes your Alliance best-suited to execute this Mission?**
 
-- Our alliance proposed the DAO Index, a set of principles that act as a standard for DAOs, and an assessment tool to assess adherence to those principles, which is used to benchmark and compare DAOs.
+- Our alliance proposed the DAO Index, a set of standardized principles  and questionnaire to assess an organization's alignment with decentralized autonomous organizations (DAO)
 - We have published academic articles on DAOs
 - We have practical experience working in DAOs
-- We have assisted DAOs in the past, monst notably, Decred with an update to their constitution in 2019.
 
 **Please describe your proposed solution based on the above Solution Criteria (if applicable):**
 
@@ -110,11 +109,14 @@ Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-gu
 - Share our results publicly via dashboards, publications, and data repository
 
 **Please outline your step-by-step plan to execute this Mission, including expected deadlines to complete each peice of work:**
-
+%%
 - June - July 2024: Conduct a literature review to find concentration metrics (e.g., Banzhaf Power Index and Shapley-Shubik Index for voting power, Palma Ratio and Herfindahl-Hirschman Index for economic power, betweenness centrality for networks) relevant to DAOs
-- July - August 2024: Determine appropriate concentration metrics at multiple levels, including governance and communications, to apply to  Token House and Citizen’s House
-- August - September 2024: Develop Jupyter notebooks covering our quantitative analyses of concentration metrics, as applied to the Token House and Citizen’s House, and share our results publicly via dashboards and publications
-- September - October 2024: Compare analyses of Optimism with other DAOs to determine standards for concentration metrics
+%%
+
+- June - July 2024: Determine appropriate concentration metrics, in multiple contexts (e.g., governance, discussion forums), to apply to the Token House and Citizen’s House
+- July - August 2024: Apply concentration metrics to the Token House and Citizen’s House
+- August - September 2024: Share results of our analyses via dashboards and publications
+- September - October 2024: Compare our analyses of Optimism with other DAOs to determine standards for concentration metrics and incorporate them into the DAO Index
 
 **Please define the [critical milestone(s)](https://gov.optimism.io/t/grant-policies/5833) that should be used to determine whether you’ve executed on this proposal:**
 
@@ -135,10 +137,10 @@ Read more about Alliances [here](https://gov.optimism.io/t/season-4-alliance-gu
 
 Please check the following to make sure you understand the terms of the Optimism Foundation RFP program:
 
-- [ ]  I understand my grant for completing this RFP will be locked for one year from the date of proposal acceptance.
-- [ ]  I understand that I will be required to provide additional KYC information to the Optimism Foundation to receive this grant
-- [ ]  I understand my locked grant may be clawed back for failure to execute on critical milestones, as outlined in the [Operating Manual](https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types)
-- [ ]  I confirm that I have read and understand the [grant policies](https://gov.optimism.io/t/token-house-grant-policies/5833)
-- [ ]  I understand that I will be expected to following the public grant reporting requirements outlined [here](https://gov.optimism.io/t/suggested-public-reporting-requirements-for-grantees/4176)
+- [x]  I understand my grant for completing this RFP will be locked for one year from the date of proposal acceptance.
+- [x]  I understand that I will be required to provide additional KYC information to the Optimism Foundation to receive this grant
+- [x]  I understand my locked grant may be clawed back for failure to execute on critical milestones, as outlined in the [Operating Manual](https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types)
+- [x]  I confirm that I have read and understand the [grant policies](https://gov.optimism.io/t/token-house-grant-policies/5833)
+- [x]  I understand that I will be expected to following the public grant reporting requirements outlined [here](https://gov.optimism.io/t/suggested-public-reporting-requirements-for-grantees/4176)
 
 -- end of application --
