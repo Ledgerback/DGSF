@@ -68,6 +68,7 @@ Conduct a literature review of academic and grey lit. (still need to determine s
 	4. What does a well-managed and responsibly-governed DAO look like?
 	5. Should management and operations be included, or just governance?
 14. How to inspire trust in DAOs?
+15. What are appropriate standards for DAO practices?
 
 Regarding the literature review process, I think we need to address the following questions:
 
@@ -131,7 +132,11 @@ Refer to Fairwork?
 
 Can change literature review method to integrative literature review, based on [Navigating the Research Landscape of Decentralized Autonomous Organizations: A Research Note and Agenda](https://arxiv.org/abs/2312.17197)?
 
+
+
 Though, could an annotated bibliography suffice if we do not need to compare and critique (or find similarities and dissimilarities) the literature? Alternatively, maybe go with a [mapping](https://guides.temple.edu/c.php?g=78618&p=9552831) or [scoping review](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-023-02178-5#Sec1), since we are seeking to answer questions, rather than simply cover a topic.
+
+Hmm, actually, I would say it is between an integrative review (leaning towards this method because it can integrate quantitative and qualitative methods) and a scoping review (methods for scoping and mapping are practically the same).
 
 Regarding search strategies, I believe we will need tables for expected keywords and natural language queries, and we can use forward- and backward-tracing via citations for literature we find via Litmaps, OpenKnowledgeMaps, ResearchRabbit, etc.
 
