@@ -181,7 +181,7 @@ Regarding process, I think we can refer to the [PRISMA-SC](https://static1.squar
 
 **Search strategies** (will emerge as we search)
 
-**Information sources** (will emerger as we search)
+**Information sources** (will emerge as we search)
 
 **Codebook** (will emerge as we search)
 
@@ -200,7 +200,7 @@ We can describe our literature review protocol in four steps:
 
 For literature collection, we will use Zotero, and for annotations, we will use Hypothes.is. 
 
-Lit. rev. -> assessment model and toolset -> assessments -> data repository -> dashboard
+Lit. rev. -> assessment model and toolset -> assessments -> data repository -> web services (dashboard, APIs)
 
 
 
