@@ -1,0 +1,21 @@
+﻿categoryId,cat_name,subcat_name,subCategoryId,parentCatToSubCategoryId
+1,👋 General Discussions,,N/A,N/A
+16,👩‍⚖️ Governance,👀 Active Proposals,18,16/18
+16,👩‍⚖️ Governance,🗃 Archive,22,16/22
+16,👩‍⚖️ Governance,🚀  Passed Governance Proposals,31,16/31
+16,👩‍⚖️ Governance,✍️ Governance Projects & Updates,36,16/36
+16,👩‍⚖️ Governance,🌟 Governance Resources,45,16/45
+16,👩‍⚖️ Governance,⚡ Proposal Drafts,46,16/46
+24,💸 Grants,✨ Getting Started,40,24/40
+24,💸 Grants,👋 New Grant Applications,41,24/41
+24,💸 Grants,🤘 Active Grants,42,24/42
+24,💸 Grants,🤝 Completed Grants,43,24/43
+24,💸 Grants,👀 Archive,44,24/44
+37,📜 Archive,🌻 Community,12,37/12
+37,📜 Archive,❓ Support,14,37/14
+37,📜 Archive,💌 Feedback,2,37/2
+37,📜 Archive,🤳 Marketing & Growth,33,37/33
+37,📜 Archive,🌱 Development,9,37/9
+38,🌱 About,🔮 Transition to the DAO,34,38/34
+6,📣 Updates & Reporting,💪 Org Updates,35,6/35
+6,📣 Updates & Reporting,📊 Ops Committee Updates & Reporting,39,6/39
